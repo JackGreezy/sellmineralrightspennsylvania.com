@@ -1,0 +1,65 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read a PA Royalty Statement (Deductions Explained)",
+ "metaDescription": "A plain-English walk through your Pennsylvania royalty statement, including why post-production deductions eat into the check and how to check the math.",
+ "heroLead": "My grandfather used to hold his statement up to the kitchen light like it might explain itself. It never did.",
+ "intro": [
+  "The first time a royalty statement showed up in our mailbox, my dad set it on the table and just looked at it for a while. Decimal interest, gross value, a column of deductions with names like gathering, compression, and dehydration, then a number at the bottom that never matched what we thought we'd get. We weren't confused because we were bad at math. We were confused because the form is built for an operator's accounting system, not for a family trying to understand what happened to their gas.",
+  "This guide breaks the statement down section by section the way we eventually learned to read it ourselves, after a few phone calls to the operator and a conversation with a landman who was more patient than most. If you own minerals or royalty in the Marcellus or Utica in Pennsylvania, this is the document that tells you the truth about what your interest is actually producing, and where the money goes before it gets to you."
+ ],
+ "sections": [
+  {
+   "heading": "The columns that actually matter",
+   "paragraphs": [
+    "Most PA statements run the same basic columns: production month, product (gas, sometimes NGLs or condensate), gross volume, price, gross value, your decimal interest, deductions, and net paid. The decimal interest is your slice of the well, usually a long string like 0.00041273. It comes from your net mineral acres divided by the spacing unit acreage, multiplied by your royalty fraction. If that number ever changes without an explanation, it's worth a call, because it usually means the unit was repooled or another owner's interest was reallocated.",
+    "Gross value is the volume times the price before anything is subtracted. Net paid is what actually lands in your account. The gap between those two numbers is where post-production deductions live, and in Pennsylvania that gap has been a source of real frustration for royalty owners for years."
+   ]
+  },
+  {
+   "heading": "Post-production deductions, explained honestly",
+   "paragraphs": [
+    "Here's the part that made my dad set the statement down. Gas doesn't arrive at your royalty check the way it comes out of the ground. It has to be gathered, compressed, dehydrated, and sometimes processed before it can be sold at the point operators use to value it. In Pennsylvania, many older leases use \"at the well\" royalty language, and courts here, going back to the Kilmer decision, have generally allowed operators to deduct a proportionate share of those post-production costs from the royalty owner's check, even when the lease doesn't spell it out in detail.",
+    "That means two neighbors with the same well and different lease language can see different net numbers on paper for the same gross production. It isn't a mistake on the statement, but it is exactly the kind of thing that makes owners feel like they're not getting the full picture. If your deductions line item is a large percentage of gross value, that's worth understanding before you decide whether to lease, sell, or just live with it, because it directly affects what your interest is worth to a buyer evaluating future cash flow."
+   ]
+  },
+  {
+   "heading": "What to do if the numbers don't add up",
+   "paragraphs": [
+    "Start by comparing your decimal interest across a few months. It should stay flat unless there's a formal reallocation, and the operator should be able to explain any change in writing. Next, check whether the deduction categories are consistent month to month; a sudden jump in \"gathering\" costs with no new infrastructure nearby is a fair question to ask.",
+    "If you inherited the interest, statements sometimes still carry a prior owner's decimal or an old address, which slows everything down and can even suspend payment until title is cleared. Keep every statement you receive, even the confusing ones, because a buyer evaluating an offer on your minerals will want a run of recent statements to judge how the well is declining and how heavy the deductions are running."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty check drop even though gas prices went up?",
+   "answer": "Price is only one input. If volumes declined that month, or post-production deduction costs rose, the net paid can fall even in a month when the posted gas price was higher. Compare gross value and deductions side by side rather than just looking at the check amount."
+  },
+  {
+   "question": "Can an operator legally deduct post-production costs in Pennsylvania?",
+   "answer": "In most cases, yes, when the lease uses \"at the well\" or similarly silent royalty language, based on how Pennsylvania courts have interpreted these leases. Some newer leases negotiate a \"no deductions\" clause, which is why lease language varies so much between neighbors."
+  },
+  {
+   "question": "What's a division order and does it change my royalty?",
+   "answer": "A division order confirms your decimal interest for payment purposes; it shouldn't change the royalty rate set in your lease or deed. Read it against your own records before signing, and ask questions about anything that doesn't match what you expect."
+  },
+  {
+   "question": "Do I need a CPA to make sense of these statements?",
+   "answer": "For the deductions and volumes, no, this guide covers the mechanics. For how the income affects your taxes, talk to your CPA or tax advisor, since royalty income is treated differently than a lump-sum mineral sale."
+  },
+  {
+   "question": "Does a heavy deduction line mean my minerals are worth less?",
+   "answer": "It can affect how a buyer values future royalty income, since deductions reduce net cash flow, but the underlying reserves and well performance still matter most. A buyer weighing an offer on your interest should be looking at both."
+  }
+ ],
+ "wordCount": 948,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Selling Trust-Owned Mineral Rights in Pennsylvania",
+ "metaDescription": "Trustee managing Pennsylvania mineral or royalty interests held in a family trust? We provide the documentation and valuation trustees need to act.",
+ "heroLead": "A trustee's job is to manage the trust's assets for the beneficiaries, and a mineral interest that just sits there generating a shrinking royalty check doesn't always meet that bar the way it once did.",
+ "intro": [
+  "We've worked with trustees managing everything from a simple family trust holding one grandparent's old mineral acreage to more complicated arrangements with multiple current and future beneficiaries. The common thread is that trustees owe a fiduciary duty to manage trust assets prudently, and a Marcellus or Utica royalty interest that's several years into its decline curve, generating less each year, is worth actively evaluating rather than passively holding indefinitely simply because that's how it's always been.",
+  "That doesn't mean selling is always the right call - sometimes the trust document itself dictates how mineral assets are handled, and sometimes the beneficiaries' needs are best served by keeping the income stream. But it should be an active decision, made with real numbers, not only inertia."
+ ],
+ "sections": [
+  {
+   "heading": "What the Trust Document Actually Allows",
+   "paragraphs": [
+    "Before anything else, the trust document needs to be checked for any specific instructions about mineral or royalty interests - some trusts explicitly authorize the trustee to sell any asset at their discretion, others require beneficiary consent for certain transactions, and some name the mineral interest specifically with instructions about how it should be handled. If you're a successor trustee who inherited this role without having drafted the original trust, that document is the first thing to review closely, ideally with the trust's attorney if the language isn't clear.",
+    "Pennsylvania trustees are generally held to the Uniform Prudent Investor Act's standards, which means diversification and active management of trust assets matter - a single concentrated, declining royalty stream can actually cut against prudent management principles if it's not being periodically reviewed against the trust's overall objectives."
+   ]
+  },
+  {
+   "heading": "Documentation a Trustee Needs to Have in Order",
+   "paragraphs": [
+    "To sell a trust-owned mineral interest, a buyer and title company will want to see the trust document itself (or a certification of trust, which many trustees use to avoid disclosing the entire document), proof of your appointment as trustee, and the same production, lease, and division order records we'd want for any producing or non-producing interest. If the mineral interest was funded into the trust at some point after the trust's original creation, there should be a recorded deed showing that transfer, which we'll also want to confirm.",
+    "We're used to working through trust paperwork and can tell you early on whether anything looks incomplete, rather than discovering a gap late in the process when it slows down closing."
+   ]
+  },
+  {
+   "heading": "Balancing Multiple Beneficiaries' Interests",
+   "paragraphs": [
+    "When a trust has multiple current beneficiaries, or a mix of current income beneficiaries and remainder beneficiaries who inherit whatever's left, selling a mineral interest changes the character of that asset from a royalty income stream to trust principal, which can matter depending on how the trust allocates income versus principal between those groups. That's a real consideration worth discussing with the trust's attorney or accountant before finalizing a sale, since it can affect how proceeds get distributed or invested going forward.",
+    "We're not able to advise on that allocation question ourselves - it's specific to your trust's terms and Pennsylvania trust accounting rules - but we can give you the sale valuation you need as one input into that conversation."
+   ]
+  },
+  {
+   "heading": "Why Trustees Often Come to Us Instead of Waiting",
+   "paragraphs": [
+    "A shrinking royalty stream sitting in a trust for years without review is a common pattern we see, usually not from neglect but because nobody flagged it as something requiring an active decision. Getting a current, written valuation costs you nothing and gives you documentation showing you reviewed the asset as part of your fiduciary duty, whether the ultimate decision is to sell, hold, or distribute the interest to beneficiaries directly."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do all beneficiaries need to consent before a trustee sells mineral rights?",
+   "answer": "It depends on the trust document's specific terms - some grant the trustee full discretion, others require beneficiary consent for certain transactions. Review your trust document or consult the trust's attorney to confirm."
+  },
+  {
+   "question": "What documentation will you need to buy from a trust?",
+   "answer": "Typically the trust document or a certification of trust, proof of your trustee appointment, and the standard ownership and production records for the mineral interest itself."
+  },
+  {
+   "question": "Does selling change how proceeds are distributed between income and remainder beneficiaries?",
+   "answer": "It can, since royalty income and sale proceeds are sometimes treated differently under trust accounting rules. This is worth discussing with the trust's attorney or accountant before closing."
+  },
+  {
+   "question": "I'm a successor trustee and didn't draft the original trust - where do I start?",
+   "answer": "Start by reading the trust document closely, ideally with the trust's attorney, to understand what authority you have and whether the mineral interest carries any specific instructions."
+  },
+  {
+   "question": "Is it a breach of fiduciary duty to just keep holding a declining royalty interest?",
+   "answer": "Not automatically, but Pennsylvania trustees are generally expected to actively and prudently manage trust assets, so periodically reviewing whether a concentrated, declining interest still serves the trust's objectives is part of that duty."
+  }
+ ],
+ "status": "written",
+ "wordCount": 873,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

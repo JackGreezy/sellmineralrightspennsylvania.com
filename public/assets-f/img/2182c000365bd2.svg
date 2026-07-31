@@ -1,0 +1,5 @@
+<svg id="Quote_Icon" data-name="Quote Icon" xmlns="http://www.w3.org/2000/svg" width="107.667" height="107.667" viewBox="0 0 107.667 107.667">
+  <path id="circle" d="M0,53.833A53.833,53.833,0,1,0,53.833,0,53.833,53.833,0,0,0,0,53.833" fill="#00e3c3" fill-rule="evenodd"/>
+  <path id="quote" d="M17.371,27.991V14.041L0,24.057v-13.6L17.371,0H42.879V27.991Z" transform="translate(56.409 77.543) rotate(-90)" fill="#fff"/>
+  <path id="quote-2" data-name="quote" d="M17.371,27.991V14.041L0,24.057v-13.6L17.371,0H42.879V27.991Z" transform="translate(23.033 77.543) rotate(-90)" fill="#fff"/>
+</svg>

@@ -1,0 +1,76 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell Mineral Rights in PA",
+ "metaDescription": "The paperwork a Pennsylvania mineral owner actually needs before selling, from the original deed to recent royalty statements, and where to find each one.",
+ "heroLead": "We dug through a filing cabinet in my mother's basement for three weekends before we found the original deed.",
+ "intro": [
+  "Nobody hands you a folder labeled mineral rights paperwork when they leave you an interest in the ground. Most families end up with a shoebox, a filing cabinet, or a lawyer's storage unit somewhere, and figuring out what's actually needed to move a sale forward can feel like its own project on top of everything else. We've been through this ourselves, tracking down a deed that had been recorded under a maiden name from three generations back.",
+  "This checklist covers what a buyer or title company will actually ask for in Pennsylvania, in roughly the order it tends to come up, so you're not scrambling for the same document twice."
+ ],
+ "sections": [
+  {
+   "heading": "The core ownership documents",
+   "paragraphs": [
+    "Start with anything establishing how you came to own the interest: the original mineral deed or reservation, or if you inherited it, the will, probate record, or estate closing documents, plus a death certificate if the prior owner has passed. If the interest passed through more than one generation without formal probate, that gets more complicated and often needs an heirship affidavit or a quiet title action to clear, which is common enough in rural Pennsylvania counties that most local title examiners have seen it before.",
+    "If you have a survey or plat showing your mineral acreage within a specific tract, bring it, though many older deeds in Pennsylvania describe boundaries by metes and bounds referencing long-gone landmarks rather than a modern survey, and that's normal, not a defect."
+   ]
+  },
+  {
+   "heading": "Lease and production paperwork",
+   "paragraphs": [
+    "If your minerals are currently leased, bring a copy of the lease itself, including any addenda or amendments, since royalty rate and deduction language live there and a buyer will want to see it. If a well is producing on your interest, gather your last twelve to twenty-four months of royalty statements, since decline trends and average monthly volume are central to how an offer gets built.",
+    "Include any division orders you've signed, correspondence with the operator about suspended payments or title issues, and, if you have it, a copy of the well's API number or unit designation. None of this needs to be perfectly organized; a buyer's team is used to working through a messy pile."
+   ]
+  },
+  {
+   "heading": "Tax and county records worth pulling",
+   "paragraphs": [
+    "A recent county tax assessment on the mineral interest, where the county tracks it separately from surface land, helps confirm the parcel is correctly identified. If you've received a 1099 for royalty income in recent years, that's useful backup for production history even without the original statements.",
+    "If title has never formally passed to you and you're still listed under a parent's or grandparent's name at the courthouse, say so upfront rather than after an offer is made; it's common in Pennsylvania's older mineral records and doesn't kill a deal, but it does affect the timeline."
+   ]
+  },
+  {
+   "heading": "A few things worth pulling even if nobody asked",
+   "paragraphs": [
+    "Old family correspondence about the property, even a letter mentioning a lease bonus check from decades ago, can help a title examiner piece together a chain of ownership that the recorded documents alone don't fully explain. If a relative kept notes on which children inherited which fraction, bring those too, even informal ones.",
+    "If you've ever received a permit notice, a pooling notice, or correspondence from an operator about a new well nearby, keep it. These documents sometimes contain the well name or unit information that speeds up matching your interest to current production, especially if your own records only reference the original deed acreage."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I can't find the original deed?",
+   "answer": "A title examiner or the county recorder of deeds can usually pull a copy from the courthouse records using your name, the prior owner's name, or the property description. It's slower but rarely a dead end in Pennsylvania counties."
+  },
+  {
+   "question": "Do I need a lawyer to gather these documents?",
+   "answer": "Not necessarily for gathering them, but if title passed through multiple generations without formal probate, an attorney familiar with Pennsylvania heirship can save real time clearing it before closing."
+  },
+  {
+   "question": "What if my minerals aren't currently leased or producing?",
+   "answer": "You can still sell an unleased interest; you'll just have less production paperwork to provide, and the offer will be based more on the deed, acreage, and local activity than on royalty history."
+  },
+  {
+   "question": "How long does it usually take to gather everything?",
+   "answer": "Straightforward title with a clear deed can come together in days. Estates that never went through probate, or interests split across several heirs, often take several weeks to sort out fully."
+  },
+  {
+   "question": "Should I get copies made before mailing originals anywhere?",
+   "answer": "Yes, always keep copies of original deeds, wills, or probate records for your own file before sending anything to a buyer or title company, even if they request originals for review."
+  },
+  {
+   "question": "What if my documents are scattered across several relatives?",
+   "answer": "That's common with older mineral interests. Start a shared folder or even a group text where everyone drops photos of what they have; a title examiner can usually piece together a full chain from partial records held by different family members."
+  }
+ ],
+ "wordCount": 888,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

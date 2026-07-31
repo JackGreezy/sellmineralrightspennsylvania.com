@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sellmineralrightspennsylvania.com/sitemap.xml
+# AI: https://sellmineralrightspennsylvania.com/llms.txt

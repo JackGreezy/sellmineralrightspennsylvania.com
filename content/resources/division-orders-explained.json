@@ -1,0 +1,72 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained for PA Mineral Owners",
+ "metaDescription": "What a Pennsylvania division order actually is, why it shows up after you inherit or sell an interest, and what to check before you sign one.",
+ "heroLead": "The envelope looked official enough that my aunt almost signed it at the kitchen counter before reading a word.",
+ "intro": [
+  "A division order is one of those documents that arrives with no context, usually right after a new well is completed, an interest changes hands through inheritance, or a title company finishes clearing up an estate. It's easy to assume it's just paperwork the operator needs, sign and move on. Most of the time that's close to true, but not always, and the exceptions are worth knowing before you put your name on anything tied to a decimal interest and a royalty rate.",
+  "We've had division orders come through our own family more than once, once after my grandfather passed and the interest split between his children, and again years later when a producer redrew a spacing unit. Each time it took a phone call to confirm the numbers actually matched what we expected. This guide walks through what the document is, what it isn't, and what to check before you sign."
+ ],
+ "sections": [
+  {
+   "heading": "What a division order actually does",
+   "paragraphs": [
+    "A division order is the operator's way of confirming, on paper, exactly what decimal share of a well's production belongs to you before they start cutting checks. It typically lists the well name, the county and formation, your decimal interest, and sometimes the royalty rate carried over from your lease or deed. Signing it tells the operator you agree the numbers are correct so they can begin or continue payment without holding funds in suspense.",
+    "It is not a new contract that overrides your lease or deed, and it shouldn't be used to quietly change your royalty rate or add new deduction language. If a division order shows a royalty percentage that doesn't match your lease, that's a red flag worth raising before you sign, not after the first check arrives short."
+   ]
+  },
+  {
+   "heading": "Why they show up after inheritance or a title change",
+   "paragraphs": [
+    "Operators need a clean chain of title to know who to pay, and a division order is often the trigger point for updating their records. If you inherited a fractional interest, expect the operator to ask for a certified death certificate, sometimes a probate or estate closing document, and proof of how the interest was distributed among heirs before they'll issue a new division order in your name.",
+    "Until that paperwork clears, payment on your share is usually held in suspense rather than paid to the wrong person, which is frustrating but generally protects you from having to claw money back from someone else's account. It's also exactly the kind of delay that pushes some heirs, especially ones scattered across multiple states, toward selling the interest outright rather than managing the ongoing title and paperwork."
+   ]
+  },
+  {
+   "heading": "What to check before you sign",
+   "paragraphs": [
+    "Compare the decimal interest against your own calculation if you have your net mineral acres and the spacing unit size. Confirm the well name and county match what you actually own, since clerical mix-ups between similarly named wells do happen. Check the royalty rate against your original lease or deed language, and if there's a deduction clause referenced, read it against what your royalty statements have actually been showing.",
+    "If anything looks off, call the operator's division order department before signing, not after. Most division orders don't have a strict deadline that forfeits your interest if you take a few extra days to verify the numbers, so there's rarely a reason to rush."
+   ]
+  },
+  {
+   "heading": "When a division order surfaces during a sale",
+   "paragraphs": [
+    "If you're selling a producing interest, expect the buyer's closing team to ask for copies of any division orders you've signed, along with recent statements, because those documents help confirm exactly what decimal share is changing hands. After closing, the buyer typically sends the operator a new division order request along with the recorded deed, so future payments route correctly.",
+    "This step is one reason a producing sale sometimes takes a few extra weeks compared to unleased acreage; operators have their own internal timelines for processing new division orders once they receive a recorded deed, and that's outside anyone's direct control."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "Most operators require a signed division order before releasing regular payment, though some will pay for a limited period without one. If you're unsure, ask the operator directly what their policy is rather than assuming."
+  },
+  {
+   "question": "Does a division order change my royalty rate?",
+   "answer": "It shouldn't. It's meant to confirm your existing decimal interest and royalty rate from your lease or deed, not renegotiate them. If the number differs from your lease, question it before signing."
+  },
+  {
+   "question": "What happens if I never sign it?",
+   "answer": "Payment on your interest is typically held in suspense until the paperwork is resolved, which can mean months of delayed royalty checks. It doesn't usually cause you to lose the underlying mineral interest itself."
+  },
+  {
+   "question": "Why did my decimal interest change on a new division order?",
+   "answer": "This usually happens after a spacing unit is repooled, a new well is added to the unit, or another owner's title issue was resolved. The operator should be able to explain the change in writing if you ask."
+  },
+  {
+   "question": "Will selling my interest affect a division order already in place?",
+   "answer": "Yes, once a sale closes and the deed records, the buyer typically requests a new division order in their name so payments route correctly going forward, replacing your prior one."
+  }
+ ],
+ "wordCount": 932,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes on Selling Mineral Rights in Pennsylvania",
+ "metaDescription": "What Pennsylvania mineral owners should know about capital gains, basis, and Act 13 impact fees before selling, plus why we say talk to your CPA once.",
+ "heroLead": "Somebody in our family always asks the same question at the closing table: what does this actually cost us come April.",
+ "intro": [
+  "We sold a piece of our own mineral interest years ago, and the sale itself was the easy part. The part that took longer was figuring out what we owed the following spring, and separating that from a different question that kept coming up in conversations with neighbors: what is this impact fee I keep hearing about, and is that the same as a tax on my royalty. It isn't, and the two get mixed up constantly in Pennsylvania because Act 13 changed how this state handles unconventional gas revenue in a way most other producing states don't.",
+  "This guide covers both pieces, plainly and without pretending to be your accountant. It's meant to help you walk into a conversation with a CPA already knowing the right questions, not to replace that conversation."
+ ],
+ "sections": [
+  {
+   "heading": "How a mineral sale is typically taxed",
+   "paragraphs": [
+    "When you sell mineral rights outright, the IRS generally treats it as a sale of real property, which usually means capital gains treatment rather than ordinary income. Whether it's long-term or short-term depends on how long you or the person you inherited from held the interest, and inherited minerals typically get a stepped-up basis to the fair market value at the date of death, which can significantly reduce the taxable gain compared to what an ancestor originally paid or was granted.",
+    "Contrast that with royalty income from a lease, which is generally taxed as ordinary income each year you receive a check, with depletion allowances that can offset part of it. A lot of families default to holding and leasing because that's what their parents did, without ever comparing the tax treatment of a sale against years of ordinary-income royalty checks. That comparison is worth having with a CPA before you decide either way."
+   ]
+  },
+  {
+   "heading": "Act 13 impact fees: not a tax on you",
+   "paragraphs": [
+    "Pennsylvania is unusual among major gas-producing states because it doesn't levy a severance tax on unconventional wells. Instead, Act 13, passed in 2012, created an impact fee that unconventional well operators pay annually per well, collected through the Public Utility Commission and distributed to counties and municipalities, with a share going to statewide conservation and infrastructure programs. It's meant to offset road wear, emergency services, and other local costs tied to drilling activity, not to fund the state general budget the way a severance tax would.",
+    "The reason we bring this up on a page about your taxes is that owners often assume the impact fee comes out of their royalty, or that it's the same as the severance taxes their cousins in Texas or Oklahoma deal with. It isn't. The impact fee is paid by the operator, not deducted from your check, and it has no direct bearing on your personal capital gains or income tax liability. Where it does matter is context: Act 13 is part of why Pennsylvania's regulatory and county-revenue picture looks different from other basins, and it's worth understanding if you're weighing what your county gets from drilling activity near your land."
+   ]
+  },
+  {
+   "heading": "Basis, records, and what to bring to your CPA",
+   "paragraphs": [
+    "If you inherited your minerals, the single most useful document you can hand your CPA is anything establishing date-of-death value, an estate appraisal, a probate filing, even a documented offer from around that time. Without it, your basis defaults to whatever can be reconstructed, which often understates it and overstates your taxable gain.",
+    "If you're comparing a sale offer against continuing to hold and lease, bring recent royalty statements too, so your advisor can weigh the ordinary-income royalty path against a capital-gains sale. Every family's basis and tax bracket situation is different, so talk to your CPA or tax advisor before you sign anything, but at least now you're walking in with the right questions instead of just a number on an offer letter."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I pay the Act 13 impact fee out of my royalty check?",
+   "answer": "No. The impact fee is paid annually by the well operator directly, not deducted from royalty owner payments. It funds county and municipal programs, separate from your personal income or capital gains taxes."
+  },
+  {
+   "question": "Is selling my mineral rights taxed differently than lease royalty income?",
+   "answer": "Generally yes. A sale is usually treated as a capital gain on real property, while lease royalty checks are typically ordinary income each year. The better path depends on your basis, tax bracket, and how long you plan to hold, so this is a CPA conversation."
+  },
+  {
+   "question": "What if I don't know what my ancestor paid for the minerals originally?",
+   "answer": "If you inherited the interest, your basis is usually the fair market value at the date of death rather than the original purchase price, which is often more favorable. An estate appraisal or probate record helps establish that value."
+  },
+  {
+   "question": "Does Pennsylvania have a state severance tax on gas production?",
+   "answer": "No, Pennsylvania uses the Act 13 impact fee model instead of a per-unit severance tax, which is different from states like Texas, Oklahoma, or North Dakota. That's a structural difference worth knowing if you're comparing notes with owners elsewhere."
+  },
+  {
+   "question": "Should I sell before or after year-end for tax reasons?",
+   "answer": "Timing can matter depending on your income in a given year and whether you have other gains or losses to offset. Talk to your CPA or tax advisor about timing before you commit to a closing date."
+  }
+ ],
+ "wordCount": 938,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

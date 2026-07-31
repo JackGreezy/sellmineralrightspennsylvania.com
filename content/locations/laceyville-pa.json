@@ -1,0 +1,63 @@
+{
+ "slug": "laceyville-pa",
+ "title": "Sell Mineral Rights in Laceyville, PA",
+ "type": "city",
+ "kind": "city",
+ "county": "Wyoming",
+ "group": "Marcellus NE",
+ "primaryKeyword": "sell mineral rights laceyville pa",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Laceyville, PA",
+ "metaDescription": "Laceyville sits on the Susquehanna River in Wyoming County's dry-gas Marcellus. Understand your royalty statement and what a sale might offer instead.",
+ "heroLead": "Laceyville sits along the Susquehanna River in Wyoming County, dry-gas Marcellus territory where royalty statements rarely match what landowners expect to see.",
+ "intro": [
+  "I've sat at kitchen tables in Wyoming County going line by line through a royalty statement with a landowner who swore something had to be wrong, because the check was so much smaller than the gas price times their production would suggest. Almost every time, the answer is the same: post-production deductions. Pennsylvania lets operators subtract the cost of gathering, compressing, and processing gas before they calculate your royalty, and that eats into the number more than most Laceyville families expect."
+ ],
+ "sections": [
+  {
+   "heading": "Reading Your Own Royalty Statement",
+   "paragraphs": [
+    "Look for line items labeled gathering, compression, dehydration, or processing — those are the deductions. Under the Kilmer v. Elexco ruling, Pennsylvania operators can generally take them unless your specific lease language prohibits it, and the state's Guaranteed Minimum Royalty Act only guarantees a floor of one-eighth of production, not one-eighth of the wellhead value before deductions.",
+    "Laceyville's location right on the river also means some parcels here have odd, narrow boundary shapes left over from old riverfront lot surveys, which we account for when checking unit participation."
+   ]
+  },
+  {
+   "heading": "Why This Pushes Some Owners Toward a Sale",
+   "paragraphs": [
+    "When deductions eat a growing share of the check every quarter, and gas prices swing lower on top of that, some Laceyville landowners decide a lump sum priced against current activity is worth more to them than years of shrinking royalty checks. It's a personal call, and it depends on your own finances and how long you plan to hold the interest."
+   ]
+  },
+  {
+   "heading": "Wyoming County's Development History",
+   "paragraphs": [
+    "Wyoming County has seen steady dry-gas Marcellus development along the Susquehanna corridor, and Laceyville-area units generally have real production history behind them, which gives us solid ground to work from when putting together an offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I fight the post-production deductions on my existing lease?",
+   "answer": "Only if your lease language specifically prohibits them — most standard-form Pennsylvania leases don't, per the Kilmer v. Elexco precedent, but it's worth having your lease reviewed."
+  },
+  {
+   "question": "Would selling remove me from future deduction changes entirely?",
+   "answer": "Yes — a sale converts your future royalty stream, deductions and all, into a single upfront payment, shifting that risk to the buyer."
+  },
+  {
+   "question": "Is my Laceyville property inside an active drilling unit?",
+   "answer": "We check the Wyoming County unit filings directly rather than guessing, since that status materially affects value."
+  },
+  {
+   "question": "What if my royalty statement doesn't list any deductions at all?",
+   "answer": "Some statements bury deductions inside a net price per unit rather than itemizing them separately — we can help you figure out which is happening on your Laceyville statement."
+  }
+ ],
+ "wordCount": 468,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-laceyville-pa.jpg",
+  "alt": "Sell Mineral Rights in Laceyville, PA location",
+  "width": 1600,
+  "height": 1000
+ }
+}

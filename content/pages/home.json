@@ -1,0 +1,75 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Pennsylvania | Fair, Honest Offers",
+ "metaDescription": "A fourth-generation Pennsylvania family that sold their own minerals helps you understand your interest and get a fair offer, without pressure or lowball tactics.",
+ "heroLead": "We sold our own family's minerals once. We know what the letter in your mailbox feels like, and we know what questions actually matter.",
+ "intro": [
+  "Somewhere in Pennsylvania right now, there's a family looking at a royalty statement, an unsolicited offer letter, or a lease that's about to expire, trying to figure out what to do next. We've been that family. Four generations back, our people farmed a piece of ground in the northern tier, kept the minerals when a portion of the surface eventually sold, and watched gas activity come and go over the decades since, through the Marcellus boom and everything that's followed.",
+  "That history is why this site exists. We buy mineral and royalty interests across Pennsylvania, but we start every conversation the way we wish someone had started with us: by explaining the paperwork, the deductions, and the local realities before ever talking about a number."
+ ],
+ "sections": [
+  {
+   "heading": "Why Pennsylvania owners are frustrated, and why that's fair",
+   "paragraphs": [
+    "Two things come up again and again when we talk with owners here. The first is post-production deductions, the gathering, compression, and dehydration costs that come out of a royalty check before it ever reaches you, often under \"at the well\" lease language that Pennsylvania courts have generally allowed operators to rely on. The second is confusion about Act 13 impact fees, which some owners assume come out of their own royalty. They don't; that fee is paid by the operator to the county and municipality, separate from your check entirely.",
+    "Neither of those things is a secret, but almost nobody explains them plainly, and that gap is exactly where distrust grows. We'd rather walk you through both before you ever consider an offer from us or anyone else."
+   ]
+  },
+  {
+   "heading": "We buy across the Marcellus and Utica formations",
+   "paragraphs": [
+    "Whether your acreage sits in the core Marcellus counties of the northeast, like Susquehanna, Bradford, or Sullivan, or in the southwest where the Marcellus and the deeper Utica both see activity, in counties like Washington, Greene, or Fayette, we've likely looked at ground near you. Every county has its own activity picture, and that picture shifts with rig counts and commodity prices, which is part of why we won't quote a flat rate before reviewing your actual deed and, if applicable, your production history.",
+    "If your minerals are unleased, leased but undrilled, or already producing under an active well, each situation gets evaluated differently, and we'll tell you plainly which category yours falls into and why that matters for value."
+   ]
+  },
+  {
+   "heading": "How we actually work with families",
+   "paragraphs": [
+    "We ask for your deed or estate documents, and if there's production, recent royalty statements, before we talk numbers, because a real offer has to be grounded in your paperwork, not a formula applied to your county. If title needs clearing, an estate that never went through probate, an interest split among cousins scattered across states, we've dealt with that before and can walk you through what it takes.",
+    "We're a buyer and connector, not a licensed appraiser, attorney, or CPA, and we'll say so plainly when a question calls for one of those instead of us. If you want a second opinion before you decide anything, we'd rather you get one than sign something you're unsure about."
+   ]
+  },
+  {
+   "heading": "Start with a question, not a number",
+   "paragraphs": [
+    "If you're not ready to talk about selling yet, that's fine. Send us a royalty statement you don't understand, or an unsolicited letter that feels off, and we'll walk through it with you. Plenty of the families we've helped weren't ready to sell the first time we talked, and some never were, they just wanted to understand what they owned."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you only buy mineral rights, or also royalty interests?",
+   "answer": "Both. Whether you own unleased minerals, a leased but undrilled interest, or a royalty interest under an active well, we can evaluate it based on your specific paperwork and situation."
+  },
+  {
+   "question": "Will you give me a number without seeing my deed?",
+   "answer": "We can talk through the general factors that drive value in your county, but a real number depends on reviewing your deed and, if applicable, recent royalty statements. Value varies with activity, and we won't guess at it blind."
+  },
+  {
+   "question": "What if my family's interest is split among several heirs?",
+   "answer": "That's common in Pennsylvania, and we're used to working through it. Some heirs sell their share while others keep theirs, and we can walk your family through what that looks like."
+  },
+  {
+   "question": "Do post-production deductions or Act 13 fees affect what I'm offered?",
+   "answer": "Post-production deductions affect the net royalty income a buyer projects from a producing interest, so yes, we look at that. Act 13 impact fees are paid by the operator to your county, not deducted from your check, so they don't directly affect our number, though they're useful context for local activity."
+  },
+  {
+   "question": "Is there any obligation if I reach out?",
+   "answer": "No. Reaching out starts a conversation, not a commitment. You're free to gather more information, get a second opinion, or decide not to sell at all after talking with us."
+  },
+  {
+   "question": "What if I just have a question and no plans to sell?",
+   "answer": "That's a fine reason to reach out. We'll answer what we can, even if it never leads to a transaction."
+  }
+ ],
+ "wordCount": 901,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

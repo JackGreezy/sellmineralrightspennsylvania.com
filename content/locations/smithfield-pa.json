@@ -1,0 +1,53 @@
+{
+ "slug": "smithfield-pa",
+ "title": "Sell Mineral Rights in Smithfield, PA",
+ "type": "city",
+ "kind": "city",
+ "county": "Fayette",
+ "group": "Marcellus SW",
+ "primaryKeyword": "sell mineral rights smithfield pa",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Smithfield, PA",
+ "metaDescription": "Own minerals near Smithfield in Fayette County? We buy Marcellus interests directly, explain deductions honestly, and pay cash without pressure.",
+ "heroLead": "Smithfield sits close enough to the West Virginia line that a lot of families here have kin and mineral history on both sides of it, which makes the Pennsylvania lease rules a little more foreign than they should be.",
+ "intro": [
+  "Smithfield is a small borough in southern Fayette County, close to the Cheat Lake area and just a short drive from the state line, in a part of the county where farmland and old coal patches sit right next to newer Marcellus units. Fayette County's wet-gas window has drawn steady operator interest over the years, and land around Smithfield has seen leasing and pooling activity even when the borough itself stays quiet.",
+  "Because this corner of the county borders West Virginia, we sometimes talk to families who assume Pennsylvania's mineral rules match what they've heard from relatives across the line. They don't always. Pennsylvania's Guaranteed Minimum Royalty Act and its post-production deduction case law are specific to this state, and getting that distinction right matters before you sign anything."
+ ],
+ "sections": [
+  {
+   "heading": "What Ownership Looks Like Around Smithfield",
+   "paragraphs": [
+    "A lot of the mineral interests we see near Smithfield trace back to farms that have been split among children and grandchildren over two or three generations, sometimes without ever being formally divided at the recorder of deeds. If your name is on a deed alongside three cousins you haven't spoken to in years, that's an ordinary, fixable situation, not a dead end. We help sort out exactly what share you actually hold before we talk numbers."
+   ]
+  },
+  {
+   "heading": "Reading Your Royalty Statement Honestly",
+   "paragraphs": [
+    "If a well is producing on or near your Smithfield-area tract, your statement should show a gross value tied to sales volume and price, then deductions, then your net check. Gathering and compression costs are common deductions on older leases, and under the Kilmer v. Elexco precedent, operators can apply them as long as your lease permits it. If your net number looks a lot smaller than the gross, that's usually why, not an error."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do West Virginia mineral rules apply if my family also owns land across the state line?",
+   "answer": "No. Any mineral interest physically located in Fayette County, Pennsylvania is governed by Pennsylvania law, including the Guaranteed Minimum Royalty Act, regardless of where family members who share the interest happen to live."
+  },
+  {
+   "question": "How do I find out if there's an active well near my Smithfield property?",
+   "answer": "The Pennsylvania DEP's oil and gas well mapping tool shows permitted and producing wells statewide. We can also pull this for you directly as part of reviewing your interest."
+  },
+  {
+   "question": "What if my deed lists an old coal reservation along with the oil and gas?",
+   "answer": "Fayette County deeds often separate coal from oil and gas rights. We only buy what you actually own, and we'll help clarify exactly which rights your deed covers before making an offer."
+  }
+ ],
+ "status": "written",
+ "wordCount": 496,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-smithfield-pa.jpg",
+  "alt": "Sell Mineral Rights in Smithfield, PA location",
+  "width": 1600,
+  "height": 1000
+ }
+}

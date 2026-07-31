@@ -1,0 +1,69 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling an Overriding Royalty Interest (ORRI) in Pennsylvania",
+ "metaDescription": "Hold an overriding royalty interest tied to a Pennsylvania oil and gas lease? ORRIs end when the lease does. We explain the risk and buy them fairly.",
+ "heroLead": "An overriding royalty interest lives and dies with the lease it's attached to, which is the single most important thing to understand before you decide whether to sell or hold one.",
+ "intro": [
+  "An ORRI is a royalty carved out of the working interest under a specific lease rather than out of the mineral estate itself, which makes it fundamentally different from the royalty interests most Pennsylvania mineral owners are used to thinking about. Landmen, geologists, brokers, and sometimes small independent operators end up holding ORRIs as compensation for their role in putting a deal together, and occasionally we see them held by mineral owners who negotiated one as part of a more complex lease arrangement.",
+  "The key distinction is that an ORRI doesn't attach to the land itself - it attaches to the lease. When that specific lease terminates, whether the well stops producing in paying quantities or the lease simply expires, the ORRI terminates right along with it. That's very different from a mineral or royalty interest tied to the land, which survives lease after lease indefinitely."
+ ],
+ "sections": [
+  {
+   "heading": "Why the Lease-Dependency Matters So Much for Value",
+   "paragraphs": [
+    "Because an ORRI dies when its underlying lease dies, its remaining value is entirely tied to how much longer that specific well or unit is likely to keep producing in paying quantities, plus any realistic chance of additional development under the same lease. A Marcellus well several years into its decline curve, held by an operator with no clear plans for further drilling on that lease, represents an ORRI with a shrinking and finite remaining life - not indefinite like a perpetual mineral interest.",
+    "This is the single biggest thing we walk ORRI holders through before making an offer: understanding realistically how many more years of production the underlying lease is likely to support, because that directly caps how much future royalty stream actually exists to value."
+   ]
+  },
+  {
+   "heading": "How ORRIs Typically Come to Exist in Pennsylvania's Shale Plays",
+   "paragraphs": [
+    "In the Marcellus and Utica buildout, ORRIs got created in a few common ways - a landman or leasing broker negotiated one as part of assembling acreage for an operator, a small operator carved one out when assigning a lease or working interest to a larger company, or a mineral owner negotiated an override as part of a more complex deal structure rather than a straightforward royalty. If you're holding one and aren't sure exactly how it originated, the assignment document that created it will spell out the specifics - which lease, which formations, what fraction, and any depth or geographic limitations."
+   ]
+  },
+  {
+   "heading": "ORRI vs. NPRI: A Distinction Worth Getting Right",
+   "paragraphs": [
+    "People sometimes use these terms interchangeably, but they're structurally different. An NPRI is carved from the mineral estate and survives that specific lease's termination, since it's tied to the land and simply attaches to whatever lease happens to be in place at any given time. An ORRI is carved from the working interest under one specific lease and dies with that lease. If you're not sure which one you hold, the conveyance or assignment document that created your interest will tell you, and it's worth confirming before you make any decisions, since the two are valued very differently."
+   ]
+  },
+  {
+   "heading": "Selling an ORRI Before It Runs Out",
+   "paragraphs": [
+    "Because an ORRI's value declines as the underlying lease's remaining productive life shortens, there's a real argument for selling sooner rather than later if you're going to sell at all - waiting years into a well's decline curve means selling what's left of a shrinking asset, versus selling today while more of that remaining production life is still ahead of you. We evaluate the specific well's production history, decline trend, and operator's plans for the lease to put together a number that reflects what's realistically left."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does my ORRI last forever like a mineral interest does?",
+   "answer": "No, an ORRI terminates when the underlying lease terminates, whether from the well ceasing production in paying quantities or the lease otherwise expiring. It has no life independent of that specific lease."
+  },
+  {
+   "question": "What's the real difference between an ORRI and an NPRI?",
+   "answer": "An NPRI is carved from the mineral estate and tied to the land, surviving lease after lease. An ORRI is carved from the working interest under one specific lease and terminates when that lease does."
+  },
+  {
+   "question": "How do I know how much longer my ORRI's underlying lease will keep producing?",
+   "answer": "Review the well's production and decline history, which we can help pull, along with any indication of the operator's plans for further development under that same lease."
+  },
+  {
+   "question": "Is it better to sell an ORRI early or wait?",
+   "answer": "Since an ORRI's value is tied to remaining lease life, selling earlier in the well's productive period generally captures more remaining value than waiting until later in the decline curve, though this depends on your specific circumstances."
+  },
+  {
+   "question": "Can an ORRI cover multiple wells or just one?",
+   "answer": "It depends entirely on how the assignment or conveyance document that created it was written - some cover a single well, others cover an entire lease or unit with multiple wells. Check your specific document."
+  }
+ ],
+ "status": "written",
+ "wordCount": 877,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "lycoming-county",
+ "title": "Sell Mineral Rights in Lycoming County, PA",
+ "type": "county",
+ "group": "Marcellus NE",
+ "primaryKeyword": "lycoming county mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Lycoming County, PA",
+ "metaDescription": "Own mineral rights in Lycoming County, PA? Learn about dry-gas Marcellus values, post-production deductions, Act 13 fees, and how a fair sale works.",
+ "heroLead": "Lycoming County stretches from the West Branch Susquehanna through some of the thickest, most consistently productive dry-gas rock in the entire Marcellus play, with Williamsport sitting at its center as county seat.",
+ "intro": [
+  "Williamsport is best known outside Pennsylvania for the Little League World Series, but inside the state, and especially inside the gas industry, Lycoming County has been known for something else entirely for well over a decade: some of the steadiest, most heavily drilled dry-gas Marcellus acreage anywhere in the Commonwealth. My own family's experience selling minerals came from a much smaller county, but I've spent enough time in the Lycoming County courthouse pulling records for other families to know this county's story well, and it's one worth understanding before you sign anything.",
+  "This page walks through what actually drives value here, what your royalty statement is probably not telling you outright, and what the recorder of deeds in Williamsport can tell you about your own parcel before you ever talk to a buyer."
+ ],
+ "sections": [
+  {
+   "heading": "Why Lycoming Became a Dry-Gas Anchor County",
+   "paragraphs": [
+    "Lycoming sits toward the thick, productive core of the dry-gas Marcellus window, and operators including Anadarko in the play's earlier years, and successor operators since, ran extensive horizontal drilling programs through townships across the county. That sustained development means there's real, documented production and royalty history for most areas of the county, rather than speculative interest alone. Unlike wet-gas counties farther southwest, the gas here is almost pure methane, so royalty tracks natural gas pricing directly without a natural gas liquids cushion."
+   ]
+  },
+  {
+   "heading": "The Deduction Problem, in Plain Terms",
+   "paragraphs": [
+    "Pennsylvania courts settled the post-production deduction question in Kilmer v. Elexco Land Services, ruling that operators can subtract reasonable gathering, compression, dehydration, and processing costs from your royalty before paying you, unless your specific lease says otherwise. On top of that, the state's Guaranteed Minimum Royalty Act only requires a floor of one-eighth of production — it doesn't guarantee one-eighth of the wellhead value before those deductions. Put those two things together and a lot of Lycoming County families open a royalty statement expecting one number and see something noticeably smaller. That gap is real, it's legal under current Pennsylvania law, and it's the single biggest source of frustration we hear about from landowners across this county."
+   ]
+  },
+  {
+   "heading": "Act 13 Impact Fees — A Separate Pot of Money",
+   "paragraphs": [
+    "Every unconventional well drilled in Lycoming County pays an annual impact fee under Act 13, distributed to the county and to individual municipalities and townships for roads, water and sewer infrastructure, and emergency services. It's worth knowing about because it's a visible, public sign of how much drilling has actually happened in your specific township — but it's important to understand it doesn't go to mineral owners directly. It's a separate mechanism from your royalty, paid by the operator regardless of who owns the minerals."
+   ]
+  },
+  {
+   "heading": "What the Williamsport Courthouse Record Tells Us",
+   "paragraphs": [
+    "Before we discuss a number on any Lycoming County parcel, we pull the chain of title at the county recorder's office, check whether the parcel sits inside a filed drilling unit, and if there's an existing lease, we review its specific deduction and royalty language rather than assuming standard terms apply. A lot of older Lycoming County farms passed through multiple generations without formal partition, so it's common to find fractional interests split among cousins who may not even know each other well anymore — we've coordinated plenty of those multi-heir sales and it's routine work for us, not an obstacle."
+   ]
+  },
+  {
+   "heading": "Selling vs. Holding — What Actually Drives That Decision",
+   "paragraphs": [
+    "Some Lycoming County families are happy holding a producing interest for the long-term royalty stream, deductions and all. Others look at years of shrinking checks, a well that's declining as most Marcellus wells eventually do, and gas prices that swing lower on a regular cycle, and decide a lump-sum offer priced against current activity makes more sense for their situation. There's no universally right answer — it depends on your finances, your risk tolerance, and how many heirs are involved. We'll walk through the real numbers with you either way, including your well's production trend if it's already producing, rather than pushing you toward a decision that isn't yours to make."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my Lycoming County royalty check look smaller than expected?",
+   "answer": "Almost always it's post-production deductions — gathering, compression, and processing costs the operator is allowed to subtract under Kilmer v. Elexco unless your lease specifically prohibits it. We can walk through your actual statement line by line."
+  },
+  {
+   "question": "What's the difference between an impact fee and my royalty?",
+   "answer": "Act 13 impact fees are paid by the operator to the county and township for infrastructure and services — they're a separate mechanism from your royalty and don't reduce or add to what you're paid directly."
+  },
+  {
+   "question": "Several of us inherited a share of the same family farm's minerals — can you work with all of us?",
+   "answer": "Yes, we regularly coordinate sales among multiple heirs on a single Lycoming County interest, and each person can decide separately for their own share."
+  },
+  {
+   "question": "How is dry gas valued differently than wet gas from counties like Washington or Greene?",
+   "answer": "Dry gas royalty is based on gas volume and price alone, without the additional natural gas liquids revenue wet-gas counties see, so Lycoming County values track natural gas prices directly."
+  },
+  {
+   "question": "Do I need an attorney to sell a Lycoming County mineral interest?",
+   "answer": "You're not required to, but for anything involving inherited or fractional ownership, we'd rather you have a title attorney review the offer before signing, and we'll say so upfront rather than discourage it."
+  }
+ ],
+ "wordCount": 958,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-lycoming-county-pa.jpg",
+  "alt": "Sell Mineral Rights in Lycoming County, PA location",
+  "width": 1600,
+  "height": 1000
+ }
+}

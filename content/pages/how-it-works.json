@@ -1,0 +1,82 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Your PA Mineral Rights Works, Step by Step",
+ "metaDescription": "A plain walkthrough of how we evaluate and buy Pennsylvania mineral rights, from your first call through closing, written by a family that has sold their own.",
+ "heroLead": "When we sold our own minerals, someone finally sat down and explained the process in order. This page is us doing that for you.",
+ "intro": [
+  "We've found that most of the anxiety around selling mineral rights isn't really about the money, it's about not knowing what happens next. Will someone show up asking for documents we don't have. Will we be locked into something before we understand it. Is there a deadline we're missing. Those questions deserve real answers, not vague reassurance, so here's exactly how the process works when you talk with us.",
+  "None of this is unusual or complicated once it's laid out. It's the same handful of steps for nearly every Pennsylvania family we've worked with, adjusted for whatever makes your situation specific."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: you tell us what you have",
+   "paragraphs": [
+    "This starts with a conversation, not a commitment. We'll ask about your county, whether your minerals are leased, undrilled, or currently producing, and whether you have your deed or estate paperwork handy. If you don't have everything organized yet, that's fine; we can point you toward the county recorder of deeds or register of wills if something needs tracking down.",
+    "If there's an active well, we'll ask for your recent royalty statements too, since decline trends and deduction levels matter more to a fair evaluation than almost anything else."
+   ]
+  },
+  {
+   "heading": "Step two: we review your paperwork and explain our thinking",
+   "paragraphs": [
+    "Once we have your deed and, if applicable, your statements, we build an evaluation based on your actual county activity, formation, and production history rather than a flat rate. We'll walk you through how we got to our number, including how post-production deductions on your statements factor into projected future income if there's a producing well involved.",
+    "This is the point where we'd rather answer too many questions than too few. If something in our reasoning doesn't make sense, say so, and we'll explain it differently or point to the specific data behind it."
+   ]
+  },
+  {
+   "heading": "Step three: you decide, on your own timeline",
+   "paragraphs": [
+    "There's no countdown clock on our offers. Take the number to an attorney, get a second opinion from another buyer, or just sit with it for a while. If you decide to move forward, we'll begin title review, checking county records for liens, unresolved estates, or other owners' claims that need to be cleared before closing.",
+    "If your title has an issue, an estate that never went through formal probate, or heirs who haven't yet agreed on how to proceed, we'll tell you plainly what needs to happen and roughly how long that typically takes in Pennsylvania counties."
+   ]
+  },
+  {
+   "heading": "Step four: closing and what happens after",
+   "paragraphs": [
+    "Closing is a mineral deed, signed, notarized, and recorded at your county courthouse, with funds sent once recording is confirmed. If your interest is leased or producing, we handle notifying the operator and requesting a new division order so future payments route correctly, so you're not stuck managing that paperwork after the sale.",
+    "From that point forward, you're done with statements, deductions, and division orders on that interest. We keep our own copy of everything, and we'd encourage you to keep yours too, even after closing."
+   ]
+  },
+  {
+   "heading": "If something doesn't go as expected",
+   "paragraphs": [
+    "Occasionally title review turns up something nobody anticipated, a lien from decades ago, an heir nobody had accounted for, a boundary description that doesn't quite match current county mapping. When that happens, we'll explain exactly what it is and what it takes to resolve, rather than letting the process stall silently. Most of these issues are fixable; they just take a little more time than a clean title would."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process typically take?",
+   "answer": "With clean title and straightforward ownership, four to six weeks from first conversation to closing is common. Estates that never went through probate, or interests split among several heirs, usually take longer."
+  },
+  {
+   "question": "Do I have to sell my whole interest?",
+   "answer": "No. Many families sell a portion and keep the rest, especially if they want to retain some upside while addressing an immediate need. Ask us about a partial sale if that fits your situation."
+  },
+  {
+   "question": "What if I decide not to sell after talking with you?",
+   "answer": "That's entirely your choice. A conversation with us isn't a commitment, and plenty of families we've talked with have decided to hold and lease instead, which we understand completely."
+  },
+  {
+   "question": "Will you handle title issues, or is that on me?",
+   "answer": "We handle the title review and generally the resolution process, though for issues like unresolved probate, we may recommend a Pennsylvania attorney familiar with mineral title to help clear it efficiently."
+  },
+  {
+   "question": "What happens to my royalty checks after closing?",
+   "answer": "They stop coming to you and start going to us once the deed records and the operator updates its records, so it's worth keeping a copy of your last statement for your own records before that happens."
+  },
+  {
+   "question": "What if title review finds a problem with my ownership?",
+   "answer": "We'll explain exactly what was found and what it takes to resolve it, whether that's an heirship affidavit, a probate filing, or something else. Most issues are fixable; they just add time to the timeline."
+  }
+ ],
+ "wordCount": 890,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightspennsylvania-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

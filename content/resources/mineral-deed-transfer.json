@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer in Pennsylvania",
+ "metaDescription": "How mineral deed transfers actually work in Pennsylvania, what the recorder of deeds needs, and how heirship and split ownership complicate the process.",
+ "heroLead": "The clerk at the recorder of deeds office knew our family name before we introduced ourselves, mostly from all the years we spent tracing this title.",
+ "intro": [
+  "Transferring mineral rights sounds simple until you're standing at a county courthouse counter trying to explain that the deed on file is in your great-grandfather's name and half the heirs live out of state. We've been through that exact conversation. Pennsylvania's mineral title records go back generations in some counties, and understanding how a transfer actually works, deed to deed, is the difference between a smooth closing and a stalled one.",
+  "This guide covers the mechanics: what a mineral deed does, how recording works at the county level, and where heirship most often complicates things."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed actually transfers",
+   "paragraphs": [
+    "A mineral deed conveys ownership of the oil, gas, and mineral rights in a described tract, separately from the surface. In Pennsylvania, minerals were split from surface ownership many decades ago on a lot of family land, often when someone sold the farm but kept the minerals, or vice versa, which is why you'll sometimes hear the phrase severed estate. Your deed should describe the tract by metes and bounds or by reference to a prior recorded deed, state your fractional or net mineral acre interest, and specify whether it includes executive rights, the right to sign future leases.",
+    "When you sell, a new mineral deed is drafted naming you as grantor and the buyer as grantee, describing the same interest, then signed, notarized, and recorded at the county recorder of deeds where the property sits. Recording is what makes the transfer part of the public chain of title going forward."
+   ]
+  },
+  {
+   "heading": "How heirship complicates the chain",
+   "paragraphs": [
+    "If a mineral interest passed down without formal probate, which happens often on older family land in Pennsylvania, the courthouse record may still show a deceased relative as the owner of record. Before a sale can close cleanly, that has to be resolved, usually through probate if the estate was never opened, or through an heirship affidavit and supporting documents if enough time has passed that formal probate is no longer practical under Pennsylvania law.",
+    "When an interest is split among several siblings or cousins, each heir typically needs to sign the deed for their fractional share, or the group needs to agree on how the sale proceeds get divided. This is one of the more common reasons a mineral sale takes longer than expected, and it's worth raising with a buyer early rather than after an offer is already on the table."
+   ]
+  },
+  {
+   "heading": "What happens after recording",
+   "paragraphs": [
+    "Once the new deed is recorded, it becomes part of the public record any future title search will find. If the interest is under an active lease, the buyer typically needs to notify the operator with a copy of the recorded deed so future royalty payments and division orders route to the new owner rather than to you.",
+    "Keep a copy of everything for your own records, even after the sale closes. County recording systems are generally reliable in Pennsylvania, but having your own file saves time if any question comes up years later."
+   ]
+  },
+  {
+   "heading": "Executive rights and partial interests worth understanding",
+   "paragraphs": [
+    "Some older Pennsylvania deeds split even further than surface and minerals, separating the executive right to sign leases from the royalty interest itself. If your deed carries unusual language like this, it's worth having it reviewed before you sell, since it affects exactly what you're able to convey to a buyer.",
+    "Similarly, if you only own a fractional or partial interest in a larger tract, alongside cousins or other family branches, your deed should describe your specific share clearly. A title examiner can usually trace how that fraction was arrived at, even when the math spans several generations of splits."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a mineral deed and a lease?",
+   "answer": "A deed transfers ownership permanently. A lease only grants a company the right to explore and produce for a set term in exchange for royalty, while you keep ownership of the minerals themselves."
+  },
+  {
+   "question": "Do all heirs have to agree to sell?",
+   "answer": "Generally, yes, each heir's fractional share needs to be conveyed by that heir, or by someone with legal authority to act for them. Some heirs can sell their share while others keep theirs, split by interest."
+  },
+  {
+   "question": "What if the deed is still in a deceased relative's name?",
+   "answer": "This is common on older Pennsylvania family land. It usually needs to go through probate, or an heirship affidavit if enough time has passed, before a clean transfer can be recorded."
+  },
+  {
+   "question": "Does recording a deed cost money?",
+   "answer": "Yes, Pennsylvania counties charge a recording fee, and depending on the transaction there may be a realty transfer tax consideration, so ask your closing team or CPA how that applies to your specific sale."
+  },
+  {
+   "question": "What are executive rights and do I have them?",
+   "answer": "Executive rights are the authority to sign a lease on the minerals; some old deeds separate them from the royalty interest itself. Check your deed language, or have it reviewed, since it changes what you can convey in a sale."
+  }
+ ],
+ "wordCount": 879,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

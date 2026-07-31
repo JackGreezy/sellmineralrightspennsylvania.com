@@ -1,0 +1,82 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Sell Mineral Rights Pennsylvania",
+ "metaDescription": "How we collect, use, and protect the information you share with us when you ask about selling Pennsylvania mineral rights or royalty interests.",
+ "heroLead": "We ask for personal and property details to give you a real evaluation, so this page explains exactly what we do with what you share.",
+ "intro": [
+  "When our own family was deciding whether to sell part of our mineral interest, we handed over deeds, statements, and estate paperwork to more than one buyer before we found one worth trusting. Some of that information was sensitive, family names, addresses, financial figures, and we remember wondering exactly what happened to it after the conversation ended. This policy is our answer to that same question for anyone who reaches out to us.",
+  "In short: we collect what we need to evaluate your mineral or royalty interest and communicate with you, we don't sell your information to marketers, and you can ask us what we have on file or ask us to delete it."
+ ],
+ "sections": [
+  {
+   "heading": "What information we collect",
+   "paragraphs": [
+    "When you contact us or request an evaluation, we typically collect your name, phone number, email address, and mailing address, along with details about your mineral or royalty interest, county, acreage, lease status, and any deed, estate, or royalty statement documents you choose to share with us. We also collect basic technical information automatically when you visit this site, such as browser type and pages viewed, through standard analytics tools.",
+    "We only ask for property and ownership details relevant to evaluating your specific interest. We don't ask for financial account numbers, passwords, or sensitive personal identifiers as part of a normal evaluation conversation, and you should be cautious of anyone claiming to represent us who does."
+   ]
+  },
+  {
+   "heading": "How we use what you share",
+   "paragraphs": [
+    "We use your information to evaluate your mineral interest, communicate with you about that evaluation, and, if you choose to move forward, to prepare and complete a purchase, including title review and closing documents. If you've shared a deed or royalty statements, those documents are used only for evaluating and processing your specific transaction.",
+    "We don't sell your contact information to third-party marketers. We may share information with service providers who help us operate, such as title companies or closing attorneys, but only as needed to complete a transaction you've chosen to pursue with us."
+   ]
+  },
+  {
+   "heading": "How we protect and retain your information",
+   "paragraphs": [
+    "We take reasonable steps to protect the information you share with us, including limiting access to staff who need it to do their work. No online transmission or storage system is completely secure, and we can't guarantee absolute security, but we treat deed and financial documents you send us with the same care we'd want for our own family's paperwork.",
+    "If we complete a purchase with you, we retain relevant records as needed for legal, tax, and title purposes, generally for as long as applicable Pennsylvania recording and retention requirements suggest. If we don't move forward with a transaction, you can ask us to delete the information you've shared."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we have on file for you, ask us to correct inaccurate information, or ask us to delete information we're not required to retain for legal or transaction purposes. You can also opt out of any marketing communications from us at any time.",
+    "If you have questions about this policy or want to exercise any of these choices, reach out through our contact page and we'll respond directly rather than routing you through an automated system."
+   ]
+  },
+  {
+   "heading": "A note on the documents families send us",
+   "paragraphs": [
+    "We know a deed, a probate filing, or a royalty statement can contain sensitive family details beyond the mineral interest itself, names, addresses, sometimes financial history. We treat those documents as confidential, used only for evaluating your specific situation, and we don't publish, share publicly, or repurpose them for any reason beyond your own transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell or share my information with marketers?",
+   "answer": "No. We don't sell your contact or property information to third-party marketers. We only share information with service providers, like a title company, when needed to complete a transaction you've chosen to pursue."
+  },
+  {
+   "question": "What happens to my deed or statements if I don't sell to you?",
+   "answer": "You can ask us to delete documents you've shared if we don't move forward with a purchase. We don't have a reason to retain them once an evaluation is complete and no transaction occurs."
+  },
+  {
+   "question": "Will you ever ask for my bank account or Social Security number by phone?",
+   "answer": "Not as part of a normal evaluation conversation. Sensitive financial details are only needed at closing, through a formal, documented process, and you should be cautious of anyone requesting them earlier."
+  },
+  {
+   "question": "How can I see what information you have on me?",
+   "answer": "Reach out through our contact page and ask directly. We'll tell you what we have on file and correct or delete it at your request, within what's required for any completed transaction."
+  },
+  {
+   "question": "Does this policy cover third-party sites you might link to?",
+   "answer": "No, this policy covers information collected directly by us. If you follow a link to another website, that site's own privacy policy applies to information you share there."
+  },
+  {
+   "question": "Is my deed or statement information ever made public?",
+   "answer": "No. Documents you share stay confidential and are used only for evaluating and processing your own transaction, not published or shared beyond what's needed to complete it."
+  }
+ ],
+ "wordCount": 905,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

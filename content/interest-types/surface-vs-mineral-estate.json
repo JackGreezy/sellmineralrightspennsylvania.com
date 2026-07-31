@@ -1,0 +1,70 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Rights in Pennsylvania - What You Own",
+ "metaDescription": "Confused whether you own the surface, the minerals, or both on your Pennsylvania land? We explain the split estate and buy mineral rights either way.",
+ "heroLead": "Owning the farm doesn't automatically mean owning what's underneath it, and in Pennsylvania that surprises more landowners than you'd think.",
+ "intro": [
+  "Pennsylvania has one of the oldest histories of mineral rights severance in the country, going back to the coal era in the 1800s when landowners routinely sold off the coal, oil, and gas beneath their farms while keeping the surface to live on and work. That practice created what's called a split estate - the surface and the minerals owned separately, sometimes by completely unrelated parties, sometimes because a family sold the minerals generations ago and simply forgot, sometimes because a family kept the minerals and sold the surface instead.",
+  "If you own a farm in Marcellus or Utica country and you're not sure whether you actually own what's underneath it, you're not alone. We talk to landowners regularly who assumed they owned their minerals simply because they owned the land, only to find a deed from decades or even a century ago that severed the mineral estate entirely."
+ ],
+ "sections": [
+  {
+   "heading": "How to Actually Check What You Own",
+   "paragraphs": [
+    "The only reliable way to know is to check your deed, and often the deeds before it going back through the chain of title, at the county recorder of deeds. Look for a reservation or exception clause - language like 'excepting and reserving all coal, oil, gas, and other minerals' - in your deed or any prior deed in the chain. If that language exists anywhere in the chain, the minerals were severed at that point and didn't pass with the surface from then forward, regardless of how many times the surface itself has changed hands since.",
+    "This is common enough in Pennsylvania, particularly in the older coal counties and parts of the state where land changed hands multiple times through the 1800s and early 1900s, that we always recommend checking before assuming either way. A title search, which we can help facilitate, will trace this definitively."
+   ]
+  },
+  {
+   "heading": "If You Own the Surface But Not the Minerals",
+   "paragraphs": [
+    "This is its own frustrating situation - an operator can generally access the minerals beneath your surface under the reasonable use doctrine even without your consent, since Pennsylvania law generally treats the mineral estate as dominant over the surface estate for purposes of extracting it, though operators still typically need to compensate you for actual surface damage and disruption. If you're in this position, you don't own mineral rights to sell, but you may have separate rights and considerations around surface use agreements when an operator wants to build access roads, well pads, or pipelines on your land.",
+    "That's a different conversation from what we typically handle - we buy mineral and royalty interests, not surface use negotiations - but it's worth understanding the distinction clearly so you're not confused about what you can and can't control."
+   ]
+  },
+  {
+   "heading": "If You Own the Minerals But Not the Surface",
+   "paragraphs": [
+    "This happens too, particularly with families whose ancestors sold off farmland decades ago but specifically reserved the mineral rights before doing so. If that's your situation, you own a real, valuable asset even though you have no connection to the surface anymore and may not even know exactly where the land is beyond a legal description in an old deed. These interests are fully sellable the same as any other mineral interest, and the fact that you don't own the surface doesn't diminish the mineral estate's value at all."
+   ]
+  },
+  {
+   "heading": "If You Own Both",
+   "paragraphs": [
+    "Owning both surface and minerals gives you the most straightforward position - full control over leasing decisions and the benefit of any surface use compensation negotiations if a well gets sited on your land. It also means, if you decide to sell your minerals, you can choose to sell only the mineral estate while keeping the surface, which is what most owners in this position actually do, since the land itself often carries family or practical value the minerals underneath it don't share."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I find out if my mineral rights were severed from my surface?",
+   "answer": "Check your deed and prior deeds in the chain of title at the county recorder of deeds for reservation or exception language covering coal, oil, gas, or minerals. A title search can trace this definitively if your own copies are incomplete."
+  },
+  {
+   "question": "Can an operator drill under my land if I only own the surface?",
+   "answer": "Generally yes, Pennsylvania law typically treats the mineral estate as dominant, allowing reasonable use of the surface to access minerals, though the operator usually owes compensation for actual surface damage."
+  },
+  {
+   "question": "If I own minerals but sold the surface, is my interest still worth selling?",
+   "answer": "Yes, mineral interests are valued and sold independently of surface ownership - not owning the land above doesn't reduce what the mineral estate underneath is worth."
+  },
+  {
+   "question": "Can I sell just my minerals and keep my surface land?",
+   "answer": "Yes, this is common and straightforward - mineral and surface estates can be conveyed separately, so selling your mineral rights doesn't require selling or affecting your surface ownership."
+  },
+  {
+   "question": "Why would my ancestors have sold the minerals but kept the farm?",
+   "answer": "This was common historically, particularly during Pennsylvania's coal era, when landowners needed cash and buyers wanted mineral rights without the burden of managing surface farmland, so the two got split by agreement."
+  }
+ ],
+ "status": "written",
+ "wordCount": 910,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

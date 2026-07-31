@@ -1,0 +1,63 @@
+{
+ "slug": "laurel-mountain-pa",
+ "title": "Sell Mineral Rights in Laurel Mountain, PA",
+ "type": "city",
+ "kind": "city",
+ "county": "Westmoreland",
+ "group": "Marcellus SW",
+ "primaryKeyword": "sell mineral rights laurel mountain pa",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Laurel Mountain, PA",
+ "metaDescription": "Laurel Mountain, a small Westmoreland County borough near Forbes State Forest, sits above wet-gas Marcellus acreage. What that means for old timber deeds.",
+ "heroLead": "Laurel Mountain is a tiny borough tucked near Forbes State Forest in Westmoreland County, where old timber and mineral deeds often tell very different stories about who owns what.",
+ "intro": [
+  "Land around Laurel Mountain was logged hard in the late 1800s and early 1900s, and a lot of the deeds from that era reserved timber rights, mineral rights, or both, separately from the surface. A century later, the timber's long since regrown, the mineral reservation is still sitting there in the county record, and plenty of current landowners have no idea it exists because nobody's mentioned it since their grandparents' generation."
+ ],
+ "sections": [
+  {
+   "heading": "Timber Deeds Are Not the Same as Mineral Deeds",
+   "paragraphs": [
+    "It's a common mix-up around Laurel Mountain: a family assumes because an old logging company once operated on their land, the minerals must be tied up too. Sometimes they are, sometimes the timber rights and mineral rights were kept entirely separate. We read the actual deed language rather than assuming based on the property's logging history.",
+    "We've also come across Laurel Mountain deeds where the same 1890s logging-era document reserved both timber and minerals in the same sentence, which requires careful reading to separate what actually applies to gas rights today."
+   ]
+  },
+  {
+   "heading": "Mountain Terrain and Well Placement",
+   "paragraphs": [
+    "The terrain around Laurel Mountain and Forbes State Forest is steeper and more forested than the open farmland found elsewhere in Westmoreland County, which affects where a well pad can practically be sited, but modern horizontal drilling can still reach minerals under mountainous terrain from a pad set on more accessible ground nearby."
+   ]
+  },
+  {
+   "heading": "What We Verify Before Any Offer",
+   "paragraphs": [
+    "We pull the original severance deed to confirm exactly what was reserved, check for any existing lease, and look at whether a unit has been filed anywhere near the borough. Given how small and rural Laurel Mountain is, we also check whether nearby tracts in the same unit have already produced meaningful royalty history."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My family has old logging records — does that tell me about mineral rights?",
+   "answer": "Not reliably on its own. Timber and mineral reservations were often handled as separate transactions, so we check the actual mineral deed language specifically."
+  },
+  {
+   "question": "Can a well reach my land if it's on steep, forested terrain?",
+   "answer": "Often yes, through a horizontal wellbore drilled from a pad on more accessible ground nearby, though it depends on the specific unit layout."
+  },
+  {
+   "question": "Is this area actively being leased or drilled?",
+   "answer": "It's less densely developed than open Westmoreland farmland, but we check current filings for your specific parcel rather than assuming either way."
+  },
+  {
+   "question": "Does state forest land nearby affect my private mineral rights?",
+   "answer": "Not your ownership directly, though it can affect access and how a drilling unit is laid out around bordering private tracts near Forbes State Forest."
+  }
+ ],
+ "wordCount": 486,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-laurel-mountain-pa.jpg",
+  "alt": "Sell Mineral Rights in Laurel Mountain, PA location",
+  "width": 1600,
+  "height": 1000
+ }
+}

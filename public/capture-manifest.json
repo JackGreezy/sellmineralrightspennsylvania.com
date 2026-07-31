@@ -1,0 +1,32 @@
+{
+  "src": "https://puretecwater.com/",
+  "host": "puretecwater.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://puretecwater.com/",
+      "bytes": 302172
+    },
+    {
+      "label": "about",
+      "url": "https://puretecwater.com/about-us/",
+      "bytes": 259485
+    },
+    {
+      "label": "contact",
+      "url": "https://puretecwater.com/contact-us/",
+      "bytes": 307330
+    },
+    {
+      "label": "index",
+      "url": "https://puretecwater.com/resources/",
+      "bytes": 286495
+    },
+    {
+      "label": "slug",
+      "url": "https://puretecwater.com/resources/emergency-mobile-support/",
+      "bytes": 244958
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

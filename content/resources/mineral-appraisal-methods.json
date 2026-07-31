@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Mineral Rights Are Appraised in Pennsylvania",
+ "metaDescription": "The methods buyers and appraisers actually use to value Pennsylvania mineral rights, from discounted cash flow to comparable sales, explained plainly.",
+ "heroLead": "A cousin of ours once got three numbers from three different people for the same acreage, and none of them explained how they got there.",
+ "intro": [
+  "Appraisal sounds like it should be a science, and to a point it is, but the honest truth is that mineral valuation in Pennsylvania blends a few different methods depending on whether your interest is producing, leased and undrilled, or entirely unleased. Anyone quoting you a number without asking which situation you're in is guessing more than appraising.",
+  "We've sat across the table enough times to know owners want to understand the mechanics behind a figure, not only be handed one. Here's how it actually gets built, method by method."
+ ],
+ "sections": [
+  {
+   "heading": "Discounted cash flow, for producing interests",
+   "paragraphs": [
+    "If your minerals are already producing under a well, the primary method is a discounted cash flow analysis: projecting future royalty income based on the well's decline curve, current and expected gas prices, and the post-production deductions showing up on your actual statements, then discounting those future payments back to a present value because a dollar received five years from now is worth less than one in hand today.",
+    "The decline curve matters enormously here. Marcellus and Utica wells typically show a steep initial decline in the first one to three years, then flatten into a longer, lower-volume tail. A buyer using your recent royalty statements can model where your well sits on that curve, which is why several months, ideally a couple years, of statements produce a far more defensible number than a single check."
+   ]
+  },
+  {
+   "heading": "Comparable sales and lease bonus data",
+   "paragraphs": [
+    "For unleased or recently leased acreage without production history, buyers lean more on comparable data: recent lease bonus amounts paid nearby, recent mineral sale prices in the same township or county, and permit activity showing whether operators are actively pursuing that formation in your area. Bradford, Susquehanna, Washington, and Greene counties, for example, have very different activity pictures right now, and a fair valuation reflects that rather than treating all of Pennsylvania the same.",
+    "This method is inherently rougher than cash flow analysis because it's inferring value from neighbors rather than your own production, which is part of why unleased acreage tends to carry more valuation uncertainty than a producing well with two years of clean statements behind it."
+   ]
+  },
+  {
+   "heading": "What actually moves the number up or down",
+   "paragraphs": [
+    "Formation and depth matter, since deeper Utica wells cost more to drill than shallower Marcellus wells, affecting operator economics and, in turn, activity pace. Your net mineral acres, your royalty fraction, whether you're in the core of the play or the flank, and how heavy the post-production deductions have been running on your statements all shift the analysis meaningfully.",
+    "Be wary of anyone offering a number before reviewing your deed and, if applicable, your production history. A real appraisal, even an informal one for purposes of a purchase offer, starts with your actual paperwork, not a flat rate applied to your county."
+   ]
+  },
+  {
+   "heading": "What we ask for before we talk numbers",
+   "paragraphs": [
+    "When our own family sat down with a buyer, the first thing they asked for wasn't an answer, it was our deed and a stack of royalty statements. That felt backwards at the time, but it made sense once we understood the process: without those documents, any number offered is a guess dressed up as an appraisal.",
+    "If a buyer is willing to work through your actual paperwork with you, county activity, decline curve, deduction trend, lease terms if applicable, that's a sign they're building a real number instead of reciting a script. It's a reasonable thing to expect from anyone making you an offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a licensed appraiser to sell?",
+   "answer": "Not typically for a private sale, though a formal appraisal can be useful for estate or tax purposes. We are a buyer, not a licensed appraiser, so any figure we discuss with you is an offer, not an appraisal for other purposes."
+  },
+  {
+   "question": "Why did two buyers give me such different numbers?",
+   "answer": "Different buyers weigh decline curves, deduction trends, and comparable activity differently, and some simply haven't reviewed your actual statements before quoting. Ask each one to walk through their method."
+  },
+  {
+   "question": "Does unleased acreage get appraised the same way as producing minerals?",
+   "answer": "No, unleased acreage relies more heavily on comparable lease and sale data nearby since there's no production history yet, which generally makes the valuation less precise than for a producing well."
+  },
+  {
+   "question": "How much do post-production deductions affect the appraisal?",
+   "answer": "Meaningfully. Heavier deductions reduce the net cash flow a buyer can expect, which lowers the present value even if gross production looks strong. That's part of why recent royalty statements matter so much."
+  },
+  {
+   "question": "How far back should my royalty statements go for an appraisal?",
+   "answer": "A couple years is ideal if you have it, since that gives a buyer enough history to model where your well sits on its decline curve. A single month is better than nothing, but it tells a far less complete story."
+  }
+ ],
+ "wordCount": 856,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightspennsylvania-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

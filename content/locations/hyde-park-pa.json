@@ -1,0 +1,58 @@
+{
+ "slug": "hyde-park-pa",
+ "title": "Sell Mineral Rights in Hyde Park, PA",
+ "type": "city",
+ "kind": "city",
+ "county": "Westmoreland",
+ "group": "Marcellus SW",
+ "primaryKeyword": "sell mineral rights hyde park pa",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Hyde Park, PA (Westmoreland)",
+ "metaDescription": "Hyde Park landowners in Westmoreland County: what a courthouse title search turns up on old mineral severances, and how to get a real offer on your interest.",
+ "heroLead": "Hyde Park is a quiet borough just outside Jeannette, and like most of Westmoreland County it sits inside gas-rich Marcellus wet-gas territory.",
+ "intro": [
+  "I spend a lot of time at the Westmoreland County Recorder of Deeds in Greensburg pulling old severance documents, and Hyde Park comes up more than you'd expect for such a small borough. The pattern is almost always the same: a coal company or a gas company bought the minerals out from under a farm in the early 1900s, kept them separate from the surface ever since, and somewhere along the way an heir ends up holding a fraction of that original interest without a clear idea what it is or what it pays."
+ ],
+ "sections": [
+  {
+   "heading": "Reading the Courthouse Record First",
+   "paragraphs": [
+    "Before we ever quote a number on a Hyde Park property, we pull the chain of title back to the original severance deed. That tells us whether you own oil and gas, coal, or both, whether the reservation covers the whole tract or just a fraction, and whether there's an existing lease already recorded against it. Skipping that step is how sellers end up signing away more, or less, than they actually own."
+   ]
+  },
+  {
+   "heading": "What Drilling Activity Looks Like Around Jeannette",
+   "paragraphs": [
+    "The Marcellus horizontal wells drilled around this part of Westmoreland tend to run in units that stretch across several old farm boundaries, which is exactly why so many Hyde Park interests are fractional today — a single unit might pull in mineral owners from five or six different original tracts. If a unit has been filed that includes your parcel, that filing is public record and it's one of the first things worth checking."
+   ]
+  },
+  {
+   "heading": "Royalties, Deductions, and What You Actually Keep",
+   "paragraphs": [
+    "Pennsylvania law lets operators net out post-production costs before paying royalty, so the number on your check is rarely the number you'd calculate from the wellhead price alone. That gap is exactly why some Hyde Park families decide a lump-sum sale, priced against current activity, makes more sense than waiting on royalty checks that shrink every time gas prices soften."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if the deed lists my great-grandfather's name, not mine?",
+   "answer": "That's common in Hyde Park's older severances. We help you document the chain of inheritance so a sale, or a lease, can close cleanly at the county recorder's office."
+  },
+  {
+   "question": "Does a pending well nearby affect what my minerals are worth?",
+   "answer": "Yes, usually upward — active units and recent royalty history give us real numbers to work from instead of guesswork."
+  },
+  {
+   "question": "How fast can this actually close?",
+   "answer": "Once title is confirmed clean, most Hyde Park deals we handle close in a matter of weeks, not months."
+  }
+ ],
+ "wordCount": 472,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-hyde-park-pa.jpg",
+  "alt": "Sell Mineral Rights in Hyde Park, PA location",
+  "width": 1600,
+  "height": 1000
+ }
+}

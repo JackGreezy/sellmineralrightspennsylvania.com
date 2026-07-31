@@ -1,0 +1,76 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | Fourth-Generation PA Mineral Owners",
+ "metaDescription": "We're a Pennsylvania family that sold our own mineral rights, and we buy from other owners across the state with the same paperwork honesty we wished for.",
+ "heroLead": "We're not a call center reading from a script. We're the family that once sat where you're sitting.",
+ "intro": [
+  "Our family has owned a piece of ground in Pennsylvania's northern tier for four generations, since before anyone in the family had heard the word Marcellus. The land itself changed hands within the family more than once, split among children, passed through an estate that took longer to settle than anyone expected, but the minerals stayed with us the whole time, quietly sitting on a title report until gas activity picked up and everything changed.",
+  "When it came time for us to decide what to do with our own interest, we didn't find much honest information. We found form letters, vague appraisals, and a lot of people happy to explain what our minerals were worth without ever looking at our deed. So we did it the hard way, learned the mechanics ourselves, and eventually sold a portion of our interest to a buyer who actually walked us through the paperwork. That experience is the reason this site exists."
+ ],
+ "sections": [
+  {
+   "heading": "What our own sale taught us",
+   "paragraphs": [
+    "The biggest surprise wasn't the number, it was how much the post-production deductions on our royalty statements had grown over the years without us fully understanding why. Once we read our lease closely, the \"at the well\" language explained it, but nobody had ever walked us through that connection before. We also spent an embarrassing amount of time thinking Pennsylvania's Act 13 impact fee was somehow coming out of our own check, when it's actually a fee the operator pays to the county, separate from royalty entirely.",
+    "Once we understood both of those things clearly, the decision to sell got a lot easier to make with confidence, rather than out of confusion or pressure. That's the standard we hold ourselves to with every family we work with now."
+   ]
+  },
+  {
+   "heading": "Why we focus on Pennsylvania specifically",
+   "paragraphs": [
+    "Pennsylvania's mineral ownership picture is genuinely different from other states. Severed estates going back generations are common on old family land, courthouse records in some counties still reflect owners who passed away decades ago, and the mix of Marcellus core counties in the northeast against the Marcellus-and-Utica southwest means value drivers vary a lot within the same state. We'd rather know one state well than spread ourselves thin across a dozen basins we don't understand as deeply.",
+    "That focus also means we've seen the specific complications Pennsylvania families run into, unresolved probate, executive rights split from royalty on older deeds, multi-county spacing units, often enough that we can usually tell you quickly what's involved in clearing your particular situation."
+   ]
+  },
+  {
+   "heading": "How we approach every conversation",
+   "paragraphs": [
+    "We ask for your deed and, if there's production, your recent statements before we discuss numbers, because we don't think a real offer can be built any other way. We explain our reasoning rather than just stating a figure, and we're comfortable with you taking your paperwork to a second buyer or an attorney before deciding anything.",
+    "We are a buyer and connector, not a licensed appraiser, attorney, or CPA, and we'll tell you plainly when your situation calls for one of those professionals instead of, or alongside, a conversation with us."
+   ]
+  },
+  {
+   "heading": "What we still remember from the other side of the table",
+   "paragraphs": [
+    "It's easy to forget, once you're the one making offers, how it feels to be the one deciding whether to sign. We try not to. Every deed we review reminds us of our own, sitting in a folder for years before anyone in the family really understood what it meant, and every royalty statement we look at reminds us of the ones we used to hold up to the light trying to make the deduction column make sense.",
+    "That's not a sales pitch, it's just where this business came from. If a family we're talking with decides not to sell, to us or anyone else, we'd still rather they walk away understanding their own paperwork better than they did before we talked."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you actually a family, or is that just a marketing story?",
+   "answer": "Our own mineral ownership goes back four generations in Pennsylvania, and we sold a portion of our own interest before starting to buy from other families. That's the honest basis for the voice on this site."
+  },
+  {
+   "question": "Why do you focus only on Pennsylvania?",
+   "answer": "We'd rather understand one state's title, formation, and regulatory realities deeply than spread across many states we know less well. Pennsylvania's older severed estates and Act 13 impact-fee structure are different enough from other basins that local focus matters."
+  },
+  {
+   "question": "Do you work with heirs and split ownership?",
+   "answer": "Yes, regularly. Split ownership among siblings or cousins is common on older Pennsylvania mineral interests, and we're used to walking families through what a sale looks like when several heirs are involved."
+  },
+  {
+   "question": "What's the first thing you'll ask me for?",
+   "answer": "Your deed or estate documents, and if your minerals are leased or producing, your most recent royalty statements. Those documents are what let us give you a grounded answer instead of a guess."
+  },
+  {
+   "question": "Can I talk to you without committing to anything?",
+   "answer": "Yes. A conversation with us is not an obligation to sell, and we'd rather you feel informed and unpressured than rushed into a decision."
+  },
+  {
+   "question": "Do you buy in every Pennsylvania county?",
+   "answer": "We look at counties across both the northeast and southwest of the state, though activity and our interest level vary by formation and recent drilling. Reach out with your county and we'll tell you honestly where things stand there."
+  }
+ ],
+ "wordCount": 953,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightspennsylvania-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "metaTitle": "Got a Mailbox Offer for Your PA Mineral Rights? Compare It",
+ "metaDescription": "Received an unsolicited letter offering to buy your Pennsylvania mineral rights? Get a second opinion before you sign anything, no obligation.",
+ "heroLead": "A letter shows up quoting a number for minerals you didn't know were for sale, and the whole thing is designed to make you feel like you'd better act before the offer disappears.",
+ "intro": [
+  "We've been on the receiving end of these letters ourselves, back when our own family still had a producing interest, and the pattern is familiar - a company you've never heard of, a number that sounds decent if you don't have anything to compare it to, and language nudging you toward signing quickly. Sometimes the offer is perfectly fair. Sometimes it's a lowball number banking on the fact that most owners have no idea what their interest is actually worth and no easy way to find out.",
+  "The honest answer is you can't tell which one you've got just by reading the letter. The only way to know if an unsolicited offer is fair is to get a second read on your actual production history and lease terms from someone who isn't the one trying to buy it from you cheap."
+ ],
+ "sections": [
+  {
+   "heading": "Why These Letters Show Up in the First Place",
+   "paragraphs": [
+    "Mineral and royalty ownership records are public - deed records, division order filings, and in some cases operator payment data can be pulled by anyone willing to do the research, and a whole industry exists around buying interests below what they're worth from owners who don't have a reference point for value. That doesn't make every company sending these letters dishonest, but it does mean the letter's number was set by someone whose interest is paying you as little as they can while still getting you to sign.",
+    "The letter often arrives with urgency built in - a short response window, language about the offer expiring, sometimes a check already enclosed that becomes binding if cashed. None of that pressure is really necessary if the offer is genuinely fair. A fair number should hold up whether you sign this week or take a month to think about it."
+   ]
+  },
+  {
+   "heading": "What a Fair Offer Should Be Grounded In",
+   "paragraphs": [
+    "A legitimate offer reflects your actual production history if the interest is producing - the specific wells, their position on the decline curve, the operator, and how your lease's royalty and post-production cost language is written. For a non-producing or leased-but-undrilled interest, it should reflect real activity in your specific county and how close your acreage sits to current development, not a blanket number applied to every parcel in a mailing list.",
+    "If the letter you got doesn't reference any of that specifically - no mention of your actual wells, no acknowledgment of whether you're in a wet-gas or dry-gas county, just a flat number - that's a sign it was calculated off a spreadsheet, not your actual interest."
+   ]
+  },
+  {
+   "heading": "How to Actually Compare Offers",
+   "paragraphs": [
+    "The simplest thing to do is send us the same information you'd send whoever sent the letter - your division order or lease, your county, and if you have it, your recent royalty statements - and we'll give you our own number based on the same details. You're under no obligation to take our offer over theirs, or to take either offer at all. Having two independent numbers, calculated from the same underlying facts, tells you a lot more than one number in isolation ever could.",
+    "If our number comes in lower than theirs, we'll tell you that too. The point isn't to win every deal, it's to make sure you're not signing something based on pressure and a single data point."
+   ]
+  },
+  {
+   "heading": "What to Watch For Before You Sign Anything",
+   "paragraphs": [
+    "Read the deed language carefully, not only the cover letter - some unsolicited purchase offers are written broadly enough to convey more than the specific well or formation mentioned in the letter, sometimes reaching future formations or adjacent acreage you didn't realize were included. If anything in the deed is unclear, an attorney who handles Pennsylvania oil and gas transactions can review it for the cost of an hour or two, which is cheap insurance against signing away more than you meant to."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is it safe to cash a check that came attached to an offer letter?",
+   "answer": "Be careful - some offer letters include language stating that cashing the enclosed check constitutes acceptance of the sale terms. Read the letter fully before cashing anything, and don't assume a small check is just a goodwill gesture."
+  },
+  {
+   "question": "Why would a company lowball an offer instead of just paying fair value?",
+   "answer": "Because they profit from the spread between what they pay you and what the interest is actually worth once resold or held for royalty income, and many owners have no independent way to check the number, so a lowball offer often goes uncontested."
+  },
+  {
+   "question": "Can I get a comparison offer without committing to sell to you?",
+   "answer": "Yes, we're glad to provide a valuation based on your documents with no obligation to accept it or work with us further."
+  },
+  {
+   "question": "What details should I check in the deed before signing an unsolicited offer?",
+   "answer": "Make sure the deed's legal description and formation language matches only what you intend to sell - some unsolicited purchase deeds are drafted broadly enough to include more than the letter implied."
+  },
+  {
+   "question": "How long should I take before responding to an unsolicited offer?",
+   "answer": "As long as you need. A genuinely fair offer doesn't require an artificial deadline, and it's reasonable to get a second opinion before responding to any letter, regardless of the timeline it suggests."
+  }
+ ],
+ "status": "written",
+ "wordCount": 939,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

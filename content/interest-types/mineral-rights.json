@@ -1,0 +1,71 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Are Mineral Rights? Pennsylvania Owner's Guide",
+ "metaDescription": "Own Pennsylvania mineral rights and unsure exactly what that means? We explain ownership, leasing, and royalty basics, then give a straightforward offer.",
+ "heroLead": "Owning mineral rights means owning what's underneath the ground, separate and apart from whatever's growing or built on top of it, and that simple fact surprises a lot of Pennsylvania landowners the first time they really think it through.",
+ "intro": [
+  "When our family sold our own minerals, the hardest part wasn't the paperwork - it was understanding what we actually owned in the first place. Mineral rights are the full bundle of ownership in the oil, gas, coal, and other resources beneath a piece of land, and that bundle includes the executive right to negotiate and sign a lease, the right to a bonus payment when you do, delay rentals if the lease calls for them, and a royalty share of anything produced once a well comes online.",
+  "That's the broadest, most complete form of subsurface ownership, and it's different from the narrower carved-out interests like an NPRI, ORRI, or working interest, each of which holds only a piece of that full bundle. If you inherited or hold a straightforward mineral interest with no history of it being split into those narrower pieces, this is what you own."
+ ],
+ "sections": [
+  {
+   "heading": "The Rights That Come Bundled Together",
+   "paragraphs": [
+    "Full mineral ownership gives you the executive right - the authority to decide whether to lease at all, to whom, and on what terms, which is the piece that carved-out royalty owners like NPRI holders don't have. It also gives you the right to a signing bonus when a lease is executed, delay rental payments if your lease's primary term requires them to keep it active without drilling, and the royalty share of production once a well is drilled and completed.",
+    "In Pennsylvania, that bundle also includes practical realities specific to this state - the right to whatever protection the Guaranteed Minimum Royalty Act provides on your lease's royalty floor, and depending on your specific tract, exposure to Act 13 impact fee considerations that affect local infrastructure funding around your property even though that fee doesn't come out of your royalty directly."
+   ]
+  },
+  {
+   "heading": "How Mineral Ownership Gets Established and Passed Down",
+   "paragraphs": [
+    "Mineral rights are real property in Pennsylvania, conveyed by deed the same as a house or a farm, and they pass through inheritance the same way too - by will, or by intestate succession if there's no will, through the probate process in whatever county the owner resided in. Because Pennsylvania has such a long history of mineral severance going back to the coal era, ownership chains can be genuinely old, sometimes tracing back a century or more through multiple generations of a family, multiple wills, and occasionally a gap or two that takes real courthouse research to close.",
+    "This is why title work matters so much before any sale - confirming the actual chain of ownership from the original severance or purchase down to you, through however many transfers happened along the way, is usually the single most involved part of putting together an accurate offer."
+   ]
+  },
+  {
+   "heading": "Producing vs. Non-Producing, and Why That Changes Everything",
+   "paragraphs": [
+    "A producing mineral interest, tied to a well actively generating royalty checks, is valued largely off that actual production and payment history - real numbers, real decline curves, a real track record with a specific operator. A non-producing interest, whether it's never been leased or was leased and the lease expired without a well being drilled, is valued instead off the probability of future development based on nearby activity, permits, and how operators have been expanding leasehold in your county recently.",
+    "Both are real, sellable assets, but they require very different approaches to valuation, and anyone offering you a number should be able to explain clearly which category your interest falls into and why that shaped what they're offering."
+   ]
+  },
+  {
+   "heading": "What We Need to Put Together an Offer",
+   "paragraphs": [
+    "For a producing interest, we want your division order, lease, and recent royalty statements. For a non-producing interest, we want your deed and whatever ownership documentation establishes your chain of title, plus the county and general location so we can research nearby activity. Either way, we'll walk you through exactly how we arrived at our number, section by section, the same way we'd want it explained if the acreage were ours."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between mineral rights and a royalty interest?",
+   "answer": "Full mineral rights include the executive right to negotiate and sign leases plus bonus, delay rental, and royalty rights. A standalone royalty interest, like an NPRI, is a narrower carve-out with royalty rights only, no executive authority."
+  },
+  {
+   "question": "How do I find out exactly what I own?",
+   "answer": "Start with your deed, and any prior deeds in the chain of title at the county recorder of deeds, looking for any reservation, exception, or prior conveyance language that might have carved your interest into something narrower than full mineral ownership."
+  },
+  {
+   "question": "Do mineral rights expire if they're never leased?",
+   "answer": "No, mineral ownership itself doesn't expire from lack of leasing in Pennsylvania - it's a permanent property interest that simply sits unleased until you or a future owner decides to lease it, unless a specific deed provision states otherwise."
+  },
+  {
+   "question": "Can I sell part of my mineral rights and keep the rest?",
+   "answer": "Yes, partial sales - a percentage interest, specific formations, or a term interest - can often be structured depending on your goals, though most owners choose a full sale for simplicity."
+  },
+  {
+   "question": "What documents do you need to make an offer on my mineral rights?",
+   "answer": "For a producing interest, your division order, lease, and recent royalty statements. For a non-producing interest, your deed and ownership documentation, plus the county and location of the acreage."
+  }
+ ],
+ "status": "written",
+ "wordCount": 954,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "trafford-pa",
+ "title": "Sell Mineral Rights in Trafford, PA",
+ "type": "city",
+ "kind": "city",
+ "county": "Westmoreland",
+ "group": "Marcellus SW",
+ "primaryKeyword": "sell mineral rights trafford pa",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Trafford, PA",
+ "metaDescription": "Own mineral rights near Trafford on the Westmoreland-Allegheny line? We buy Marcellus interests directly from families with honest cash offers.",
+ "heroLead": "Trafford straddles the Westmoreland and Allegheny county line, which means a family's mineral rights here sometimes get filed in two different courthouses depending on exactly where the old farm sat.",
+ "intro": [
+  "Trafford is a small borough split between Westmoreland and Allegheny counties, historically centered on the Westinghouse Air Brake works and the rail lines that served it. Because the borough crosses a county line, mineral records for property here can be filed with either the Westmoreland or Allegheny recorder of deeds depending on the exact parcel, which is one of the first things we confirm when a Trafford family reaches out.",
+  "Marcellus wet-gas development has touched the Westmoreland side of the county more than the Allegheny side historically, though both counties have seen leasing and unit activity over the years."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming Which County Your Deed Lives In",
+   "paragraphs": [
+    "Before we can research your title or check unit activity accurately, we confirm whether your specific parcel is recorded in Westmoreland or Allegheny County. It's a detail that trips up a lot of Trafford families searching records on their own without knowing which courthouse to start with."
+   ]
+  },
+  {
+   "heading": "What Development Looks Like on Each Side",
+   "paragraphs": [
+    "Westmoreland County has generally seen more consistent Marcellus development than the more urbanized Allegheny County side, though this varies by specific location. We check current DEP permits and unit filings against your exact parcel rather than relying on general county trends."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my Trafford property is in Westmoreland or Allegheny County?",
+   "answer": "We can confirm this quickly using your parcel identification number or address. It matters for which recorder of deeds office holds your title history."
+  },
+  {
+   "question": "Is drilling activity different depending on which side of the line I'm on?",
+   "answer": "Historically the Westmoreland side has seen more consistent Marcellus activity, but we evaluate based on your specific parcel and current permit data, not general assumptions."
+  },
+  {
+   "question": "Can you still help if my deed has an old Westinghouse-era reference in it?",
+   "answer": "Yes. Older industrial-era deeds around Trafford sometimes carry unusual language. We review the full history to confirm what mineral rights you currently hold."
+  },
+  {
+   "question": "Will I need to deal with two different courthouses to sell?",
+   "answer": "No. Once we confirm which county holds your record, we handle title work and recording through that one office directly, so you're not stuck coordinating between Westmoreland and Allegheny yourself."
+  },
+  {
+   "question": "Does it matter which side of Trafford my family's original farm sat on?",
+   "answer": "It matters for recordkeeping purposes, since that determines which courthouse holds your title history, but it doesn't change how we evaluate or price your mineral interest."
+  }
+ ],
+ "status": "written",
+ "wordCount": 450,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-trafford-pa.jpg",
+  "alt": "Sell Mineral Rights in Trafford, PA location",
+  "width": 1600,
+  "height": 1000
+ }
+}

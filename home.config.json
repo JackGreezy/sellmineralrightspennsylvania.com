@@ -1,0 +1,30 @@
+{
+  "domain": "sellmineralrightspennsylvania.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightspennsylvania.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightspennsylvania.com",
+  "reference": "https://puretecwater.com/",
+  "refhost": "puretecwater-com",
+  "biz": "Sell Mineral Rights Pennsylvania",
+  "businessName": "Sell Mineral Rights Pennsylvania",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "PENNSYLVANIA",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "region": "Pittsburgh, the Marcellus and Utica fairways, and mineral-owning Pennsylvania counties statewide",
+  "phone": "412-555-1041",
+  "email": "pennsylvania@sellmineralrightspennsylvania.com",
+  "address": "301 Grant St, Pittsburgh, PA 15219",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/basins/mineral-rights-basins-marcellus-shale-sellmineralrightspennsylvania-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightspennsylvania.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Pennsylvania Areas", "/locations"],
+    ["Owner Guides", "/resources"],
+    ["About", "/about"]
+  ],
+  "cta": ["Request a Pennsylvania Review", "/contact#contact-form"]
+}

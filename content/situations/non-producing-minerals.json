@@ -1,0 +1,72 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "metaTitle": "Sell Non-Producing Mineral Rights in Pennsylvania",
+ "metaDescription": "Own Pennsylvania mineral rights with no active well or lease? Non-producing acreage still has value in an active play. Get a straightforward offer.",
+ "heroLead": "No well, no lease, no royalty check ever - just a mineral interest sitting quietly on a deed somewhere, easy to forget about until you're asked what to do with it.",
+ "intro": [
+  "A good share of the mineral interests in Pennsylvania have never produced a dime and never been under lease at all, especially in counties on the edges of the Marcellus and Utica core where operators simply haven't gotten around to leasing every tract yet. If that's your situation, it can feel like there's nothing to actually sell - no royalty history, no operator relationship, nothing but old paperwork saying you own something underground.",
+  "That's not quite true. Non-producing minerals in an active or nearby-active play still carry value tied to the probability that acreage in your area gets leased and eventually drilled. It's a different kind of value than a producing interest, and it should be priced that way, but it's real."
+ ],
+ "sections": [
+  {
+   "heading": "Never Leased vs. Leased and Expired",
+   "paragraphs": [
+    "These are two different situations that get lumped together under the same 'non-producing' label. Acreage that's never been leased at all is entirely unencumbered - whoever owns it controls the terms of any future lease from scratch. Acreage that was leased at some point but the lease expired without a well being drilled has reverted back to unleased status, but it also comes with a history: you know an operator was interested at some point, which tells you something about the area's prospectivity even if that particular deal didn't pan out.",
+    "If you're not sure which situation you're in, checking the county recorder of deeds for any recorded lease or memorandum of lease against your specific tract will usually clear it up, along with whether that lease has a recorded release or has simply run past its stated term."
+   ]
+  },
+  {
+   "heading": "Why Some Ground Never Gets Leased",
+   "paragraphs": [
+    "Operators build leasehold in blocks big enough to support an efficient horizontal spacing unit, and they prioritize areas where geology, existing infrastructure, and permitting history make the economics work. A single scattered tract in a county with limited nearby activity can simply fall outside where any operator has bothered to build a leasehold position, not because the geology underneath it is bad, but because nobody's assembled enough surrounding acreage to make a unit work yet.",
+    "That can change. Leasehold positions expand outward from core areas over time as operators look for additional drilling locations, and acreage that's been ignored for years can suddenly become relevant when a company's development plan shifts in that direction."
+   ]
+  },
+  {
+   "heading": "How We Think About Value Here",
+   "paragraphs": [
+    "For non-producing minerals, we're looking at your county's overall activity level, how close the nearest producing wells or active permits are, and whether operators have been expanding leasehold in your direction recently. A tract in Washington or Greene County with active drilling a few miles away reads very differently than similar acreage in a county with no meaningful activity in the current cycle. We're honest when a tract looks too far from current development to carry much value right now, rather than quoting a number we can't back up.",
+    "Some owners hold non-producing minerals for decades hoping the timing eventually works out, and that's a legitimate choice if you're not in a hurry. Others would rather have certainty now than keep waiting on a leasehold expansion that may or may not reach their tract in their lifetime."
+   ]
+  },
+  {
+   "heading": "What to Have Ready",
+   "paragraphs": [
+    "The main thing we need is confirmation of your ownership - a deed, probate record, or prior title work showing the chain back to whoever originally owned the interest. Because there's no operator relationship or division order to point to, establishing clean title is usually the biggest piece of the process for non-producing minerals, more so than for a producing interest where the operator's own records already confirm ownership."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my non-producing mineral interest worth anything at all?",
+   "answer": "It depends heavily on location relative to current drilling activity. In or near the Marcellus and Utica core counties, non-producing minerals often still carry real value; in counties with little nearby activity, the value is more limited but not necessarily zero."
+  },
+  {
+   "question": "How do I find out if my acreage has ever been leased?",
+   "answer": "Check the county recorder of deeds for any recorded lease or memorandum of lease tied to your specific tract description. We can also help you check this."
+  },
+  {
+   "question": "Should I try to lease it myself before selling?",
+   "answer": "You can, though finding a company willing to lease an isolated tract outside an active leasehold block can take time and isn't guaranteed. Selling outright removes that uncertainty."
+  },
+  {
+   "question": "What paperwork do I need if there's never been a lease or well?",
+   "answer": "Mainly proof of your ownership - a deed or probate documentation establishing the chain of title. Without an operator's division order records to confirm ownership, clean title documentation matters more here."
+  },
+  {
+   "question": "Why would anyone buy minerals that have never produced anything?",
+   "answer": "Buyers who understand the play are pricing in the probability of future leasing and development, not only current income, similar to how leased-but-undrilled acreage is valued."
+  }
+ ],
+ "status": "written",
+ "wordCount": 869,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

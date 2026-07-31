@@ -1,0 +1,20 @@
+{
+ "domain": "sellmineralrightspennsylvania.com",
+ "keyword": "sell mineral rights pennsylvania",
+ "segment": "pennsylvania-state",
+ "intent": "seller",
+ "tier": "Expansion (110 head vol)",
+ "available": true,
+  "voice": "Pennsylvania royalty-statement and county-record desk; exact about lease language, paid decimals, production months, deductions, title fractions, and written terms",
+  "angle": "Marcellus and Utica owner review; post-production deductions and Act 13 public context kept separate from private royalty evidence",
+ "taxonomyCounts": {
+  "locations": 305,
+  "basins": 2,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 367,
+ "status": "built-and-verified"
+}

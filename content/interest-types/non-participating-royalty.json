@@ -1,0 +1,70 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling an NPRI (Non-Participating Royalty) in Pennsylvania",
+ "metaDescription": "Own a non-participating royalty interest on Pennsylvania mineral acreage? No lease say, no bonus rights, just royalty. We buy NPRIs and explain the fine print.",
+ "heroLead": "An NPRI owner gets a royalty check without ever getting a say in the lease that produced it, which is exactly as frustrating as it sounds when the terms don't work in your favor.",
+ "intro": [
+  "A non-participating royalty interest is a carved-out right to a share of production revenue that comes without the bundle of rights that normally travels with mineral ownership - no right to negotiate or sign the lease, no right to a bonus payment when a new lease is signed, no right to delay rentals. What you keep is purely the royalty share once production starts, which is why it's called non-participating: you don't participate in the leasing decisions that determine how much that royalty is worth.",
+  "This gets created a few different ways in Pennsylvania - sometimes a prior owner sold or reserved just the royalty portion of their mineral estate while keeping or selling the executive rights separately, sometimes it's the result of an old family transaction that split the estate this way generations ago. Whatever the origin, if you hold an NPRI, the person or company holding the executive right is the one who negotiated your lease terms, for better or worse."
+ ],
+ "sections": [
+  {
+   "heading": "Why NPRI Owners Often Feel Stuck",
+   "paragraphs": [
+    "Because you don't hold the executive right, you had no input on the royalty fraction, the post-production cost language, or which operator got the lease in the first place. If the mineral owner who does hold executive rights negotiated a lease with aggressive deduction language, or leased to an operator with a spotty payment history, you're along for that ride with no ability to have negotiated differently, even though the royalty checks land in your name.",
+    "This is one of the more common frustrations we hear from NPRI owners in Pennsylvania's wet gas counties specifically - the executive owner may have prioritized a larger signing bonus over royalty-friendly deduction terms, since they got the bonus and you didn't, and that tradeoff shows up in your royalty statement for the life of the well."
+   ]
+  },
+  {
+   "heading": "How an NPRI's Value Is Different From a Full Mineral Interest",
+   "paragraphs": [
+    "An NPRI is valued purely on its royalty stream - production history, decline curve, the specific royalty fraction you hold, and the lease's cost-sharing terms - without any of the additional value a full mineral or executive interest carries from future bonus potential or leasing control. If the underlying acreage isn't yet leased, an NPRI generally has very limited near-term value, since you have no ability to initiate a lease yourself and can only wait for the executive rights holder to act.",
+    "Because of that, NPRI valuation leans heavily on whether there's already a producing lease in place and how that specific lease is written, more so than a full mineral interest evaluation would."
+   ]
+  },
+  {
+   "heading": "The Guaranteed Minimum Royalty Act and NPRI Owners",
+   "paragraphs": [
+    "Pennsylvania's Guaranteed Minimum Royalty Act sets a floor of one-eighth of gross value received for most oil and gas leases, and that floor applies to the lease itself regardless of how the royalty is subsequently split between different owners, including NPRI holders. If your royalty statement looks like the deductions taken have pushed your effective share below what the underlying lease's royalty fraction should provide, that's worth reviewing, though your specific NPRI conveyance document also matters for exactly how your fraction was carved out and whether it tracks the lease's stated royalty precisely."
+   ]
+  },
+  {
+   "heading": "Selling an NPRI",
+   "paragraphs": [
+    "Selling a non-participating royalty interest doesn't require any involvement from whoever holds the executive rights - it's your interest to sell independently. We'll want to see the conveyance document that created your NPRI, since the exact language there determines your royalty fraction and whether it applies to all formations and depths or something more limited, along with production and division order history if the interest is currently producing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between an NPRI and a regular royalty interest from mineral ownership?",
+   "answer": "Both receive a royalty share of production, but an NPRI is specifically a carved-out interest with no executive rights - no ability to negotiate or sign leases, no bonus payments - while a mineral owner's royalty comes bundled with those additional rights."
+  },
+  {
+   "question": "Can I negotiate my own lease terms if I only hold an NPRI?",
+   "answer": "No, the executive rights holder negotiates and signs the lease. As an NPRI owner you receive whatever royalty terms that lease establishes, without input into the negotiation."
+  },
+  {
+   "question": "Is my NPRI worth much if the underlying acreage isn't leased yet?",
+   "answer": "Generally limited value in that scenario, since you can't initiate a lease yourself and have to wait for the executive rights holder to act. Value increases substantially once there's an active producing lease in place."
+  },
+  {
+   "question": "Do I need the executive rights holder's permission to sell my NPRI?",
+   "answer": "No, an NPRI is your independent property interest and can be sold without their involvement or consent."
+  },
+  {
+   "question": "How do I find the document that created my NPRI?",
+   "answer": "It should be recorded at the county recorder of deeds where the mineral acreage sits, typically as a reservation or conveyance in a prior deed. We can help locate it if you don't have a copy."
+  }
+ ],
+ "status": "written",
+ "wordCount": 883,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

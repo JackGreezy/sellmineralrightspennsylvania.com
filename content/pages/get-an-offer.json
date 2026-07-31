@@ -1,0 +1,80 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get a Mineral Rights Offer in Pennsylvania",
+ "metaDescription": "Start a no-pressure conversation about your Pennsylvania mineral rights. We review your deed and statements before ever discussing a number.",
+ "heroLead": "Tell us about your minerals. We'll tell you honestly what we can offer and why, before you decide anything.",
+ "intro": [
+  "Reaching out here doesn't commit you to anything. It starts a conversation the way we wish ours had started years ago, with someone asking about your deed and your paperwork before ever throwing out a number. If you've received a letter from us or another buyer with a figure already attached, that's a starting point at best, not a real offer, and we'd rather build yours from your actual situation.",
+  "Whether your interest is unleased ground that's never seen a rig, acreage under an active lease waiting on a well, or a producing interest with years of royalty statements behind it, we can walk through what a fair evaluation looks like for your specific case."
+ ],
+ "sections": [
+  {
+   "heading": "What to have ready, if you have it",
+   "paragraphs": [
+    "Your deed or the estate documents that established your ownership are the most useful place to start. If you're not sure where your deed is, the county recorder of deeds where the property sits can usually help track down a copy, and we can point you in the right direction if you're stuck.",
+    "If your minerals are leased or producing, gather what royalty statements you have, ideally a year or two if you can find them, since decline trends and deduction levels matter to how we build an evaluation. If you don't have any of this yet, reach out anyway; we can tell you what's needed and help you figure out where to look."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "We'll ask a few questions about your county, your acreage, and your lease or production status, then request your deed and any statements you have. From there we build an evaluation grounded in your county's recent activity, your formation and depth, and, if applicable, your decline curve and deduction trend, and we'll walk you through exactly how we arrived at our number.",
+    "There's no pressure to respond by a deadline, and no obligation once you've heard our offer. If you want to compare it against another buyer or run it past an attorney, we'd rather you do that than sign something you're unsure about."
+   ]
+  },
+  {
+   "heading": "If your situation is complicated, tell us anyway",
+   "paragraphs": [
+    "Unresolved estates, interests split among several heirs, deeds that still list a relative who's passed, these are common on Pennsylvania mineral interests, not rare exceptions. We'd rather hear about the complication upfront than have it surface partway through the process, because in most cases we've dealt with something similar before and can tell you what it takes to clear.",
+    "If part of your family wants to sell and part wants to hold, that's workable too. Interests can often be split by heir, so some family members sell their share while others keep theirs."
+   ]
+  },
+  {
+   "heading": "What a real offer is built from",
+   "paragraphs": [
+    "For a producing interest, that means your decline curve, recent monthly volumes, and how heavy the post-production deductions have been running on your statements, discounted back to a present value rather than treated as a flat multiple. For unleased or leased-but-undrilled acreage, it means recent lease bonus and sale activity nearby, permit filings, and where your tract sits within the formation, core Marcellus, southwest Marcellus-and-Utica, or flank.",
+    "We won't ask you to trust a number without explaining where it came from, and we won't rush you toward a signature before you've had a chance to sit with it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need my deed in hand before I reach out?",
+   "answer": "No, reach out first and we'll help you figure out how to track it down if you don't already have it, usually through your county recorder of deeds."
+  },
+  {
+   "question": "How fast can I expect a response?",
+   "answer": "We typically respond quickly once you reach out, though building an actual evaluation takes a bit longer since it depends on reviewing your specific deed and paperwork."
+  },
+  {
+   "question": "Is getting an offer the same as agreeing to sell?",
+   "answer": "No. Hearing our number is not a commitment, and you're free to take your time, compare it against another buyer, or decide not to sell at all."
+  },
+  {
+   "question": "What if my minerals aren't leased or producing?",
+   "answer": "We can still evaluate unleased acreage, though the evaluation leans more on your county's recent activity and deed acreage than on production history, since there isn't any yet."
+  },
+  {
+   "question": "Can multiple heirs in my family submit together?",
+   "answer": "Yes, and it's often easier that way. If your interest is split among siblings or cousins, we can walk the whole family through the process together rather than separately."
+  },
+  {
+   "question": "Do you evaluate interests that are currently under an unsolicited offer from someone else?",
+   "answer": "Yes, and it's a smart thing to do before signing anything. We can review the same paperwork and give you our honest read, even if you ultimately decide to go with another buyer."
+  },
+  {
+   "question": "Do you charge anything for an evaluation?",
+   "answer": "No. Reviewing your deed and paperwork to give you an honest evaluation doesn't cost you anything, regardless of whether you ultimately decide to sell."
+  }
+ ],
+ "wordCount": 860,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

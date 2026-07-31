@@ -1,0 +1,83 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Sell Mineral Rights Pennsylvania",
+ "metaDescription": "The terms governing use of this site and any offer we make on your Pennsylvania mineral or royalty interest, written in plain language.",
+ "heroLead": "We'd rather these terms be clear than clever, so here's what using this site and working with us actually means.",
+ "intro": [
+  "This page covers the terms for using this website and for any conversation, evaluation, or offer that follows from reaching out to us about your Pennsylvania mineral or royalty interest. We've tried to write it the way we'd want it explained to our own family, plainly, without legal language doing the work of hiding something.",
+  "By using this site or contacting us, you're agreeing to these terms. If anything here is unclear, ask us directly before moving forward with any evaluation or offer."
+ ],
+ "sections": [
+  {
+   "heading": "This site is educational, not professional advice",
+   "paragraphs": [
+    "The information on this site, including our resource guides on royalty statements, division orders, deeds, and taxes, is provided for general educational purposes about Pennsylvania mineral rights. It is not legal, tax, or appraisal advice, and it isn't a substitute for consulting a licensed attorney or CPA about your specific situation. We are a buyer and connector, not a licensed appraiser, attorney, or accountant.",
+    "Nothing on this site should be read as a guarantee of a specific value, offer amount, or outcome for your particular mineral or royalty interest. Value depends on your county, formation, lease terms, and production history, and any figure we discuss with you is specific to your own paperwork, not a general promise."
+   ]
+  },
+  {
+   "heading": "How an offer works, and when it becomes binding",
+   "paragraphs": [
+    "A conversation, evaluation, or verbal or written offer from us is not a binding agreement to buy or sell your mineral interest. A transaction becomes binding only when both parties sign a formal purchase agreement or mineral deed, and even then, closing is subject to satisfactory title review confirming your ownership and clearing any liens or competing claims.",
+    "We reserve the right to adjust or withdraw a preliminary offer if title review, updated statements, or other documentation reveals information materially different from what was initially shared with us. We'll explain clearly if that happens and why."
+   ]
+  },
+  {
+   "heading": "Your responsibilities",
+   "paragraphs": [
+    "When you share documents or information with us, you're representing that you have the right to share them and that the information is accurate to the best of your knowledge. If you're acting on behalf of an estate, a group of heirs, or another owner, you're representing that you have the authority to do so, or that you'll disclose who else needs to be involved before closing.",
+    "You're responsible for reviewing any offer or closing document carefully, and we encourage you to consult an attorney or CPA before signing anything, particularly if your title, estate, or tax situation is complicated."
+   ]
+  },
+  {
+   "heading": "Limitation of liability and changes to these terms",
+   "paragraphs": [
+    "This site and its content are provided as is, without warranties of any kind regarding accuracy, completeness, or fitness for a particular purpose, though we make a genuine effort to keep the educational material accurate and current. To the extent permitted by Pennsylvania law, we're not liable for decisions made based solely on general information found on this site rather than a review of your specific situation.",
+    "We may update these terms from time to time as our practices or applicable Pennsylvania law change. Continued use of this site after changes are posted means you accept the updated terms."
+   ]
+  },
+  {
+   "heading": "Governing law and how disputes get handled",
+   "paragraphs": [
+    "These terms, and any transaction that follows from them, are governed by the laws of the Commonwealth of Pennsylvania, without regard to conflict-of-law principles. If a disagreement arises between us, we'd rather resolve it directly through a conversation first, and we encourage bringing in an attorney early if a resolution isn't straightforward.",
+    "Nothing here limits your right to consult an attorney at any point, before, during, or after a transaction with us, and we'd genuinely rather you do so than proceed with unanswered questions."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a verbal offer from you binding?",
+   "answer": "No. Only a signed purchase agreement or mineral deed creates a binding transaction, and even that is subject to satisfactory title review before closing."
+  },
+  {
+   "question": "Can you change an offer after making it?",
+   "answer": "We can adjust a preliminary offer if title review or updated documentation reveals something materially different from what was initially shared, and we'll explain clearly why if that happens."
+  },
+  {
+   "question": "Is the information on this site legal or tax advice?",
+   "answer": "No. It's general educational content about Pennsylvania mineral rights. Talk to your CPA or attorney about your specific legal or tax situation before making decisions."
+  },
+  {
+   "question": "What if I'm acting on behalf of other heirs?",
+   "answer": "You're responsible for having the authority to act on their behalf, or for disclosing who else needs to be involved before any transaction closes. This protects your family as much as it protects us."
+  },
+  {
+   "question": "Will these terms ever change?",
+   "answer": "They may, as our practices or Pennsylvania law evolve. We'll post updates here, and continued use of the site after an update means you accept the revised terms."
+  },
+  {
+   "question": "What law governs these terms?",
+   "answer": "The laws of the Commonwealth of Pennsylvania govern these terms and any transaction between us, without regard to conflict-of-law principles."
+  }
+ ],
+ "wordCount": 867,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

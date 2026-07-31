@@ -1,0 +1,493 @@
+{
+  "notes": "Faithful Puretec relabel for a Pennsylvania royalty-statement and county-record desk. The donor's deep-blue and cyan palette, display/body type system, full-bleed hero, sticky service ledger, horizontal industry carousel, image-and-stat split, resource-card grid, map-like county cadence, and dense footer remain the visual system.",
+  "refhost": "puretecwater-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "scripts": "strip",
+  "external_css_images": "strip",
+  "home_final_repair_css": ".section-homepage_services>.container{width:min(1540px,calc(100% - 48px))!important;max-width:none!important}.section-homepage_services>.container>.d-lg-flex{display:grid!important;grid-template-columns:minmax(300px,.7fr) minmax(0,1.3fr)!important;gap:clamp(2rem,5vw,6rem)!important}.section-homepage_services .block-text{flex:none!important;min-width:0!important}.section-homepage_services .blocks{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:clamp(2rem,4vw,4.5rem)!important;flex:none!important;width:100%!important;max-width:none!important}.section-homepage_services .blocks>.item,.section-homepage_services .blocks>.item+.item{display:block!important;min-width:0!important;margin-top:0!important}.section-homepage_services .blocks>.item .image{width:100%!important;height:260px!important}.section-homepage_services .blocks>.item .text{box-sizing:border-box!important;width:100%!important;min-height:0!important;margin:0!important;padding:1.75rem 0 0!important}.section-homepage_services .blocks>.item .text h3{max-width:15ch!important;font-size:clamp(1.8rem,2.25vw,2.75rem)!important;line-height:1.02!important;word-break:normal!important;overflow-wrap:normal!important}.section-homepage_services .blocks>.item .text p{max-width:34rem!important;font-size:1rem!important;line-height:1.6!important;word-break:normal!important;overflow-wrap:normal!important}.section-homepage_services>.rr-view-all{position:relative!important;left:auto!important;right:auto!important;bottom:auto!important;display:inline-flex!important;margin:3.5rem 0 6rem max(24px,calc((100% - 1540px)/2))!important}.section-locations>.container{display:grid!important;grid-template-columns:minmax(280px,.65fr) minmax(0,1.35fr)!important;gap:clamp(3rem,6vw,8rem)!important;width:min(1540px,calc(100% - 48px))!important;max-width:none!important}.section-locations .block-text{max-width:none!important;margin-left:0!important}.section-locations .locations-list{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:1px!important;width:100%!important;max-width:none!important;margin:2rem 0 0!important;background:rgba(255,255,255,.25)!important}.section-locations .locations-list>div,.section-locations .locations-list>a{box-sizing:border-box!important;width:auto!important;max-width:none!important;min-width:0!important;padding:0!important}.section-locations .locations-list>div>.item,.section-locations .locations-list>a>.item{box-sizing:border-box!important;height:100%!important;padding:1.5rem!important;background:rgba(18,60,119,.88)!important}.section-locations .locations-list .h4,.section-locations .locations-list p{display:block!important;width:100%!important;max-width:none!important;color:#fff!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important;writing-mode:horizontal-tb!important}.section-locations .locations-list .h4{font-size:clamp(1.05rem,1.35vw,1.35rem)!important;line-height:1.18!important}.section-locations .locations-list p{font-size:.94rem!important;line-height:1.55!important}@media(max-width:960px){.section-homepage_services>.container>.d-lg-flex,.section-locations>.container{grid-template-columns:1fr!important}.section-homepage_services .block-text{position:relative!important;top:auto!important}.section-homepage_services .blocks{grid-template-columns:repeat(2,minmax(0,1fr))!important}.section-locations .locations-list{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){.section-homepage_services>.container,.section-locations>.container{width:calc(100% - 32px)!important}.section-homepage_services .blocks,.section-locations .locations-list{grid-template-columns:1fr!important}}",
+  "chrome": {
+    "header": {
+      "selector": ".header-wrapper",
+      "tag": "header",
+      "force_tag": true,
+      "wrap_header": false,
+      "strip_global": [
+        "body > iframe",
+        "body > noscript",
+        "[class*=cookie]",
+        "[id*=cookie]",
+        "[class*=consent]",
+        ".grecaptcha-badge",
+        "body > title",
+        "body > meta",
+        "body > link[rel*=icon]"
+      ],
+      "strip": [
+        ".sub-menu",
+        ".sticky-menu",
+        "img",
+        "noscript"
+      ],
+      "logo_slots": [".logo"],
+      "footer_logo_slot": ".footer-logo",
+      "nav_link_selector": "#nav > li:not(.navbar-button) > a",
+      "nav_append_slot": "#nav",
+      "nav_append_class": "nav-link",
+      "mobile_menu_slot": "#main-menu",
+      "burger_selector": ".navbar-toggler",
+      "burger_slot": ".site-main-menu > .container-fluid",
+      "ensure_nav": true,
+      "utility_links": {
+        "selector": "#nav > li.navbar-button > a",
+        "keep": [
+          ["Request a Pennsylvania Review", "/contact#contact-form"]
+        ]
+      },
+      "repair_css": "body{padding-top:0!important}header.header-wrapper{position:sticky!important;z-index:2147480000!important;top:0!important;display:block!important;width:100%!important;overflow:visible!important;background:#fff!important;color:#123c77!important;border-bottom:1px solid rgba(18,60,119,.14)!important}header.header-wrapper .site-main-menu{position:relative!important;display:block!important;width:100%!important;overflow:visible!important;background:#fff!important}header.header-wrapper .site-main-menu>.container-fluid{box-sizing:border-box!important;display:flex!important;align-items:center!important;width:min(1540px,calc(100% - 48px))!important;min-height:94px!important;margin:0 auto!important;padding:0!important;gap:clamp(1rem,2.2vw,2.8rem)!important;overflow:visible!important}header.header-wrapper .logo{display:flex!important;align-items:center!important;flex:0 0 auto!important;min-width:218px!important;margin:0!important;padding:0!important;text-decoration:none!important}header.header-wrapper .rr-wordmark{display:flex!important;flex-direction:column!important;gap:.16rem!important;color:#123c77!important;font-family:Heading,Arial,sans-serif!important;font-weight:700!important;line-height:.92!important;letter-spacing:.01em!important;text-decoration:none!important}header.header-wrapper .rr-wm-1{font-size:.86rem!important;letter-spacing:.09em!important}header.header-wrapper .rr-wm-2{color:#00a6cf!important;font-size:1.05rem!important;letter-spacing:.075em!important}header.header-wrapper #main-menu{position:static!important;display:flex!important;align-items:center!important;flex:1 1 auto!important;min-width:0!important;overflow:visible!important}header.header-wrapper .navbar-collapse-content{display:flex!important;align-items:center!important;width:100%!important;min-width:0!important;overflow:visible!important}header.header-wrapper #nav{display:flex!important;align-items:center!important;justify-content:flex-end!important;gap:clamp(.72rem,1.4vw,1.65rem)!important;flex:1 1 auto!important;margin:0!important;padding:0!important;overflow:visible!important;list-style:none!important}header.header-wrapper #nav>li{position:relative!important;display:flex!important;align-items:center!important;min-height:94px!important;margin:0!important;padding:0!important}header.header-wrapper #nav>li:empty{display:none!important}header.header-wrapper #nav>li>a{display:flex!important;align-items:center!important;min-height:94px!important;padding:0!important;color:#123c77!important;font-family:Base,Arial,sans-serif!important;font-size:clamp(.72rem,.78vw,.88rem)!important;font-weight:700!important;white-space:nowrap!important;text-decoration:none!important}header.header-wrapper #nav>li.navbar-button>a{box-sizing:border-box!important;min-height:50px!important;padding:0 1.2rem!important;background:#00a6cf!important;color:#fff!important}header.header-wrapper .navbar-phone{display:flex!important;align-items:center!important;flex:0 0 auto!important;margin-left:clamp(.35rem,1vw,1rem)!important}header.header-wrapper .navbar-phone a{color:#123c77!important;font-family:Base,Arial,sans-serif!important;font-size:.9rem!important;font-weight:800!important;white-space:nowrap!important;text-decoration:none!important}.rr-dropdown-menu{font-family:Base,Arial,sans-serif!important;border-radius:0!important;border-top:4px solid #00a6cf!important}.rr-dropdown-host::before{height:18px!important}.rr-burger{margin-left:auto!important}.rr-header-phone{white-space:nowrap!important}@media(max-width:1320px){header.header-wrapper .site-main-menu>.container-fluid{width:calc(100% - 32px)!important;gap:.8rem!important}header.header-wrapper .logo{min-width:180px!important}header.header-wrapper #nav{gap:.65rem!important}header.header-wrapper #nav>li>a{font-size:.69rem!important}header.header-wrapper .navbar-phone a{font-size:.78rem!important}header.header-wrapper #nav>li.navbar-button>a{padding:0 .85rem!important}}@media(max-width:1120px){header.header-wrapper #main-menu,header.header-wrapper .navbar-phone{display:none!important}header.header-wrapper .navbar-toggler,header.header-wrapper .rr-burger{display:flex!important;margin-left:auto!important}}"
+    },
+    "footer": {
+      "selector": ".footer",
+      "tag": "footer",
+      "strip": [
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "script",
+        "noscript",
+        "iframe",
+        ".footer-social",
+        "address"
+      ],
+      "columns": [
+        {
+          "heading": "Owner Questions",
+          "links": [
+            ["Owner Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Marcellus Shale", "/basins/marcellus-shale"],
+            ["Utica Shale", "/basins/utica-shale"]
+          ]
+        },
+        {
+          "heading": "Statement Records",
+          "links": [
+            ["Royalty Statement Guide", "/resources/royalty-statements-guide"],
+            ["Division Orders", "/resources/division-orders-explained"],
+            ["Documents Checklist", "/resources/documents-checklist"],
+            ["Pennsylvania Owner Guides", "/resources"]
+          ]
+        },
+        {
+          "heading": "Pennsylvania Coverage",
+          "links": [
+            ["All Pennsylvania Areas", "/locations"],
+            ["Washington County", "/locations/washington-county"],
+            ["Greene County", "/locations/greene-county"],
+            ["Susquehanna County", "/locations/susquehanna-county"],
+            ["Bradford County", "/locations/bradford-county"]
+          ]
+        },
+        {
+          "heading": "Owner Desk",
+          "links": [
+            ["About", "/about"],
+            ["Request a Pennsylvania Review", "/contact#contact-form"],
+            ["Mineral Investing", "/investing"],
+            ["1031 Exchange Guides", "/exchange-1031"],
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"]
+          ]
+        }
+      ],
+      "column_selector": ".footer-menu > ul > li",
+      "replace_column_siblings": true,
+      "column_heading_selector": "a:first-child",
+      "drop_link_pattern": "Facebook|LinkedIn|Instagram|YouTube|Youtube|Twitter|\\bX\\b|Careers|News|Cookie|Sitemap",
+      "tagline_pattern": "Puretec|All rights reserved|Industrial Water",
+      "text_map": {
+        "(800) 906-6060": "412-555-1041",
+        "hello@puretecwater.com": "pennsylvania@sellmineralrightspennsylvania.com"
+      },
+      "copyright_year": 2026,
+      "ensure_ia": true,
+      "repair_css": "footer.footer{display:block!important;overflow:hidden!important;background:#123c77!important;color:#fff!important;font-family:Base,Arial,sans-serif!important}footer.footer>.container{box-sizing:border-box!important;width:min(1540px,calc(100% - 48px))!important;max-width:none!important;margin:0 auto!important;padding:clamp(4rem,7vw,7rem) 0 2rem!important}.footer-columns{display:grid!important;grid-template-columns:minmax(230px,.72fr) minmax(0,1.28fr)!important;gap:clamp(2rem,6vw,7rem)!important}.footer-left,.footer-right{display:block!important;min-width:0!important}.footer-logo{margin:0 0 2rem!important}.footer-logo .rr-wordmark{display:flex!important;flex-direction:column!important;color:#fff!important;font-family:Heading,Arial,sans-serif!important;text-decoration:none!important}.footer-logo .rr-wm-1{font-size:.9rem!important;letter-spacing:.1em!important}.footer-logo .rr-wm-2{color:#77d7ef!important;font-size:1.2rem!important;letter-spacing:.08em!important}.footer-contact{display:grid!important;gap:.8rem!important}.footer-contact-col{display:block!important}.footer-contact-col span{display:none!important}.footer-contact-col p,.footer-contact-col a{margin:0!important;color:#fff!important;font-size:.92rem!important;line-height:1.45!important;text-decoration:none!important}.footer-menu>ul{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:clamp(1.2rem,3vw,3.4rem)!important;margin:0!important;padding:0!important;list-style:none!important}.footer-menu>ul>li{display:block!important;min-width:0!important}.footer-menu>ul>li>a:first-child{display:block!important;margin:0 0 1rem!important;color:#77d7ef!important;font-size:.74rem!important;font-weight:800!important;letter-spacing:.11em!important;text-transform:uppercase!important;text-decoration:none!important}.footer-menu ul.sub-menu{display:grid!important;gap:.72rem!important;margin:0!important;padding:0!important;list-style:none!important}.footer-menu ul.sub-menu a{display:block!important;color:#fff!important;font-size:.86rem!important;line-height:1.35!important;text-decoration:none!important}.footer-utility{margin-top:2.5rem!important;padding-top:1.25rem!important;border-top:1px solid rgba(255,255,255,.22)!important}.footer-utility .nav{display:flex!important;flex-wrap:wrap!important;gap:1rem!important;margin:0!important;padding:0!important;list-style:none!important}.footer-utility a,.footer-copyright,.footer-copyright p{color:rgba(255,255,255,.78)!important;font-size:.75rem!important;text-decoration:none!important}.rr-footer-ia{display:none!important}.rr-footer-map{width:100%!important;max-width:none!important;margin-top:3.25rem!important;border:1px solid rgba(119,215,239,.62)!important;border-radius:0!important}footer.footer img,footer.footer picture,footer.footer svg,footer.footer video,footer.footer source,footer.footer canvas{display:none!important}@media(max-width:1050px){.footer-columns{grid-template-columns:1fr!important}.footer-menu>ul{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){footer.footer>.container{width:calc(100% - 32px)!important}.footer-menu>ul{grid-template-columns:1fr!important}}"
+    }
+  },
+  "purge": {
+    "brand": [
+      "\\bPuretec\\b",
+      "puretecwater\\.com",
+      "Puretec Industrial Water"
+    ],
+    "content": [
+      "high purity water",
+      "deionized water",
+      "water treatment",
+      "reverse osmosis",
+      "mobile deionization",
+      "DI tank",
+      "industrial water",
+      "Oxnard",
+      "Anaheim",
+      "San Jose",
+      "San Diego",
+      "Gilbert, AZ",
+      "Humble, TX"
+    ],
+    "strip_selectors": [
+      "[class*=cookie]",
+      "[id*=cookie]",
+      "[class*=consent]",
+      ".grecaptcha-badge",
+      ".social-share-block",
+      ".share-block",
+      "body > img",
+      "img[width='1']",
+      "img[height='1']",
+      "noscript"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "recaptcha",
+      "wpconsent",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "youtube",
+      "gravityforms"
+    ],
+    "style_replacements": [
+      [
+        "https://puretecwater\\.com/wp-content/themes/puretec-industrial-water/assets/vendor/icomoon/fonts/icomoon\\.ttf\\?urp1hz",
+        "/assets-f/fonts/5f1f632042a496.ttf"
+      ],
+      [
+        "https://puretecwater\\.com/wp-content/themes/puretec-industrial-water/assets/vendor/icomoon/fonts/icomoon\\.woff\\?urp1hz",
+        "/assets-f/fonts/23aa35a680e7fe.woff"
+      ],
+      [
+        "https://fonts\\.gstatic\\.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7\\.woff2",
+        "/assets-f/fonts/6ab57b19c69b50.woff2"
+      ]
+    ],
+    "social_pattern": "facebook\\.com|linkedin\\.com|instagram\\.com|youtube\\.com"
+  },
+  "buttons": {
+    "class": "button"
+  },
+  "forms": {
+    "form_class": "rr-contact-form",
+    "input_class": "rr-contact-control",
+    "group_class": "rr-contact-field",
+    "wrap_class": "rr-contact-form-shell"
+  },
+  "pages": {
+    "legal_template": "slug",
+    "home": {
+      "signature": [
+        ".section-page_hero",
+        ".section-homepage_services",
+        ".section-industries_overview",
+        ".section-stats_and_video",
+        ".section-resource_center_homepage",
+        ".section-locations"
+      ],
+      "semantic_title_selector": ".section-page_hero h1",
+      "strip": [
+        ".section-testimonials",
+        ".section-careers_homepage .block-video",
+        ".section-careers_homepage .block-logo",
+        ".section-resource_center_homepage .block-tax",
+        ".section-resource_center_homepage .searchandfilter",
+        ".section-stats_and_video .video-btn",
+        "[class*=cookie]",
+        "[id*=cookie]"
+      ],
+      "sections": [
+        {
+          "selector": ".section-page_hero",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "copy": "home_title"},
+            {"sel": ".text .h3", "copy": "home_eyebrow"},
+            {"sel": "p", "copy": "home_meta"},
+            {"sel": ".bg", "bg": "/ours/basins/mineral-rights-basins-marcellus-shale-sellmineralrightspennsylvania-com.jpg"}
+          ]
+        },
+        {
+          "selector": ".section-homepage_services",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".block-text .h4 span", "copy": "home_eyebrow"},
+            {"sel": ".block-text h2", "copy": "home_intro_title"},
+            {"sel": ".block-text p", "copy": "home_intro"}
+          ]
+        },
+        {
+          "selector": ".section-homepage_services",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 4,
+          "heading": ".block-text h2",
+          "card": ".blocks > .item",
+          "clear_selector": ".blocks > .item",
+          "card_fields": {
+            "title": ".text h3",
+            "sub": ".text p",
+            "image": ".image .img-bg",
+            "_link_card": true,
+            "summary_chars": 170
+          },
+          "view_all": ["Review All Owner Situations", "/situations"]
+        },
+        {
+          "selector": ".section-industries_overview",
+          "action": "card-grid",
+          "source": "locations",
+          "limit": 8,
+          "heading": ".block-text h2",
+          "card": ".swiper-wrapper > .swiper-slide",
+          "clear_selector": ".swiper-wrapper > .swiper-slide",
+          "card_fields": {
+            "title": ".text h3",
+            "sub": ".item-excerpt p",
+            "image": ".image .img-bg",
+            "more": ".button-arrow",
+            "_link_card": true,
+            "summary_chars": 160
+          },
+          "view_all": ["Open All Pennsylvania Area Files", "/locations"],
+          "view_all_selector": ".block-text a.button"
+        },
+        {
+          "selector": ".section-stats_and_video",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".block-text h2", "copy": "home_basins_title"},
+            {"sel": ".block-text p", "copy": "home_basins_body"},
+            {"sel": ".block-stats .item:nth-child(1) .h4", "text": "LEASE"},
+            {"sel": ".block-stats .item:nth-child(1) p", "text": "Read the royalty clause, valuation point, deductions, products, pooling authority, and amendments."},
+            {"sel": ".block-stats .item:nth-child(2) .h4", "text": "UNIT"},
+            {"sel": ".block-stats .item:nth-child(2) p", "text": "Match the declaration, tract participation, division order, owner fraction, and paid decimal."},
+            {"sel": ".block-stats .item:nth-child(3) .h4", "text": "CHECK"},
+            {"sel": ".block-stats .item:nth-child(3) p", "text": "Reconcile volume, price, taxes, gathering, compression, transport, adjustments, and suspense."},
+            {"sel": ".bg", "bg": "/ours/basins/mineral-rights-basins-utica-shale-sellmineralrightspennsylvania-com.jpg"}
+          ]
+        },
+        {
+          "selector": ".section-careers_homepage",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".text .h4 span", "text": "PENNSYLVANIA DEDUCTION REVIEW"},
+            {"sel": ".text h2", "text": "The Number Is Only Useful When the Statement Explains It"},
+            {"sel": ".text p", "copy": "home_about_2"},
+            {"sel": ".block-ctas>div:nth-child(1) a", "text": "Read the Royalty Statement Guide", "href": "/resources/royalty-statements-guide"},
+            {"sel": ".block-ctas>div:nth-child(2) a", "text": "Request a Statement Review", "href": "/contact#contact-form"},
+            {"sel": ".bg", "bg": "/ours/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightspennsylvania-com.jpg"}
+          ]
+        },
+        {
+          "selector": ".section-resource_center_homepage",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".block-title h2", "copy": "home_resources_title"},
+            {"sel": ".block-title .block-cta a", "text": "Open All Owner Guides", "href": "/resources"}
+          ]
+        },
+        {
+          "selector": ".section-resource_center_homepage",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 6,
+          "heading": ".block-title h2",
+          "card": "#search-filter-results-576 .row > div",
+          "clear_selector": "#search-filter-results-576 .row > div",
+          "card_fields": {
+            "title": ".text h3",
+            "sub": ".text .post-meta",
+            "image": ".image .img-bg",
+            "more": ".button-arrow",
+            "_link_card": true,
+            "summary_chars": 150
+          },
+          "kill_in_card": [".post-cat"],
+          "view_all": ["Open All Pennsylvania Owner Guides", "/resources"],
+          "view_all_selector": ".block-title .block-cta a"
+        },
+        {
+          "selector": ".section-locations",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".block-text h2", "copy": "home_locations_title"},
+            {"sel": ".block-text p", "copy": "home_locations_body"},
+            {"sel": ".block-text a.button", "text": "Request a Pennsylvania Review", "href": "/contact#contact-form"},
+            {"sel": ".bg", "bg": "/ours/locations/sell-mineral-rights-canonsburg-pa.jpg"}
+          ]
+        },
+        {
+          "selector": ".section-locations",
+          "action": "card-grid",
+          "source": "locations",
+          "limit": 6,
+          "heading": ".block-text h2",
+          "card": ".locations-list > div",
+          "clear_selector": ".locations-list > div",
+          "card_fields": {
+            "title": ".item .h4",
+            "sub": ".item p",
+            "_link_card": true,
+            "summary_chars": 105
+          },
+          "kill_in_card": [".icon-marker"],
+          "view_all": ["Open All Pennsylvania Area Files", "/locations"]
+        }
+      ],
+      "carousels": [
+        {
+          "selector": ".section-industries_overview",
+          "slides": ".swiper-wrapper > .swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-buttons .swiper-button-prev",
+          "next": ".swiper-buttons .swiper-button-next",
+          "visible": 3
+        }
+      ],
+      "repair_css": ".section-page_hero{position:relative!important;display:flex!important;min-height:clamp(520px,72vh,820px)!important;overflow:hidden!important;background:#123c77!important;color:#fff!important}.section-page_hero .bg{position:absolute!important;inset:0!important;display:block!important;background-position:center!important;background-size:cover!important}.section-page_hero .bg::after{content:''!important;position:absolute!important;inset:0!important;background:linear-gradient(90deg,rgba(8,35,68,.9),rgba(8,35,68,.24))!important}.section-page_hero>.container{position:relative!important;z-index:2!important;display:flex!important;align-items:flex-end!important;width:min(1540px,calc(100% - 48px))!important;max-width:none!important;padding-bottom:clamp(3rem,8vw,7rem)!important}.section-page_hero .text{max-width:840px!important}.section-page_hero h1{display:block!important;max-width:12ch!important;margin:0 0 1.4rem!important;color:#fff!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(3.4rem,7vw,7.2rem)!important;line-height:.92!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important}.section-page_hero p{max-width:720px!important;color:rgba(255,255,255,.9)!important;font-size:clamp(1rem,1.55vw,1.25rem)!important;line-height:1.55!important}.section-homepage_services .blocks{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:0!important}.section-homepage_services .blocks>.item{display:block!important;min-width:0!important}.section-homepage_services .blocks>.item .image{height:260px!important}.section-homepage_services .blocks>.item .img-bg{display:block!important;width:100%!important;height:100%!important;background-position:center!important;background-size:cover!important}.section-homepage_services .blocks>.item .text{box-sizing:border-box!important;min-height:240px!important}.section-industries_overview{overflow:hidden!important}.section-industries_overview .swiper{overflow:hidden!important}.section-industries_overview .swiper-wrapper{display:flex!important;gap:1.25rem!important;width:max-content!important;transform:translateX(0)!important;transition:transform .35s ease!important}.section-industries_overview .swiper-slide{position:relative!important;left:auto!important;top:auto!important;flex:0 0 min(360px,78vw)!important;width:min(360px,78vw)!important;min-width:0!important;opacity:1!important}.section-industries_overview .swiper-slide .image{height:260px!important}.section-industries_overview .swiper-slide .img-bg{display:block!important;width:100%!important;height:100%!important;background-position:center!important;background-size:cover!important}.section-industries_overview .swiper-slide .item-excerpt{display:block!important}.section-industries_overview .swiper-buttons{display:flex!important;gap:.75rem!important;margin-top:1.5rem!important}.section-industries_overview .swiper-button-prev,.section-industries_overview .swiper-button-next{position:relative!important;left:auto!important;right:auto!important;top:auto!important;display:flex!important;align-items:center!important;justify-content:center!important;width:50px!important;height:50px!important;margin:0!important;border:1px solid #123c77!important;background:#fff!important;color:#123c77!important;cursor:pointer!important}.section-stats_and_video{background:#eaf5fa!important;color:#123c77!important}.section-stats_and_video .block-stats .item .h4{font-family:Heading,Arial,sans-serif!important;color:#00a6cf!important;font-size:clamp(1.35rem,2vw,2rem)!important}.section-careers_homepage{overflow:hidden!important;background:#123c77!important;color:#fff!important}.section-careers_homepage .block-text,.section-careers_homepage .block-text h2,.section-careers_homepage .block-text p{color:#fff!important}.section-careers_homepage .block-text{margin-left:auto!important}.section-resource_center_homepage #search-filter-results-576>.row{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:1.5rem!important}.section-resource_center_homepage #search-filter-results-576>.row>div{box-sizing:border-box!important;width:auto!important;max-width:none!important;min-width:0!important;padding:0!important}.section-resource_center_homepage .item .image{display:block!important;height:240px!important}.section-resource_center_homepage .item .img-bg{display:block!important;width:100%!important;height:100%!important;background-position:center!important;background-size:cover!important}.section-locations .locations-list{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:1px!important;margin-top:2rem!important;background:rgba(255,255,255,.25)!important}.section-locations .locations-list>div{box-sizing:border-box!important;width:auto!important;max-width:none!important;padding:0!important}.section-locations .locations-list>div>.item{box-sizing:border-box!important;height:100%!important;padding:1.5rem!important;background:rgba(18,60,119,.8)!important}.section-locations .locations-list .h4,.section-locations .locations-list p{display:block!important;width:100%!important;max-width:none!important;color:#fff!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important;writing-mode:horizontal-tb!important}@media(max-width:960px){.section-homepage_services .blocks{grid-template-columns:1fr!important}.section-resource_center_homepage #search-filter-results-576>.row{grid-template-columns:repeat(2,minmax(0,1fr))!important}.section-locations .locations-list{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){.section-page_hero>.container{width:calc(100% - 32px)!important}.section-page_hero h1{font-size:clamp(2.8rem,15vw,4.7rem)!important}.section-resource_center_homepage #search-filter-results-576>.row,.section-locations .locations-list{grid-template-columns:1fr!important}}"
+    },
+    "about": {
+      "signature": [
+        ".section-page_hero",
+        ".section-our_values"
+      ],
+      "title": ".section-page_hero h1",
+      "title_as_h1": true,
+      "hero_meta": ".section-page_hero p",
+      "hero_bg": ".section-page_hero .bg",
+      "strip": [
+        ".section-map",
+        ".section-quote",
+        ".section-careers_overview",
+        "[class*=cookie]",
+        "[id*=cookie]"
+      ],
+      "sections": [
+        {
+          "selector": ".section-page_hero",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "copy": "about_title"},
+            {"sel": "p", "copy": "about_story_body"},
+            {"sel": ".bg", "bg": "/ours/basins/mineral-rights-basins-marcellus-shale-sellmineralrightspennsylvania-com.jpg"}
+          ]
+        }
+      ],
+      "block_template": ".section-our_values",
+      "block_remove_selector": ".section-our_values",
+      "block_host": ".wrapper",
+      "hero_anchor": ".section-page_hero",
+      "block_heading": ".block-text h2",
+      "block_body": ".block-text .text p",
+      "block_image": ".block-video .img-bg img",
+      "block_image_tax": "resources",
+      "block_strip": [
+        ".video-btn",
+        ".block-quote",
+        ".block-text .text p:nth-of-type(n+2)",
+        "noscript"
+      ],
+      "repair_css": ".section-page_hero{position:relative!important;min-height:clamp(440px,58vw,690px)!important;overflow:hidden!important;background:#123c77!important;color:#fff!important}.section-page_hero .bg{position:absolute!important;inset:0!important;background-position:center!important;background-size:cover!important}.section-page_hero .bg::after{content:''!important;position:absolute!important;inset:0!important;background:linear-gradient(90deg,rgba(18,60,119,.93),rgba(18,60,119,.34))!important}.section-page_hero>.container{position:relative!important;z-index:2!important;width:min(1540px,calc(100% - 48px))!important;max-width:none!important}.section-page_hero .text{max-width:820px!important}.section-page_hero h1{display:block!important;max-width:14ch!important;color:#fff!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(3rem,6vw,6.4rem)!important;line-height:.95!important;white-space:normal!important;word-break:normal!important}.section-page_hero p{max-width:720px!important;color:rgba(255,255,255,.88)!important;line-height:1.6!important}.section-our_values{overflow:hidden!important}.section-our_values .block-content{display:grid!important;grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;align-items:stretch!important;gap:0!important}.section-our_values .block-text{box-sizing:border-box!important;padding:clamp(2.4rem,6vw,6rem)!important}.section-our_values .block-video{min-height:clamp(320px,42vw,620px)!important}.section-our_values .block-video .img-bg{display:block!important;width:100%!important;height:100%!important}.section-our_values .block-video img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}.section-our_values:nth-of-type(even){background:#eaf5fa!important}.section-our_values:nth-of-type(even) .block-video{order:-1!important}.section-our_values h2{display:block!important;max-width:15ch!important;color:#123c77!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(2.2rem,4.5vw,4.8rem)!important;line-height:.98!important;white-space:normal!important;word-break:normal!important}.section-our_values p{color:#354d63!important;font-size:1.05rem!important;line-height:1.75!important}@media(max-width:760px){.section-page_hero>.container{width:calc(100% - 32px)!important}.section-our_values .block-content{grid-template-columns:1fr!important}.section-our_values:nth-of-type(even) .block-video{order:0!important}.section-our_values .block-video{min-height:300px!important}}"
+    },
+    "contact": {
+      "signature": [
+        ".section-contact_us",
+        "form#gform_4"
+      ],
+      "semantic_title_selector": ".section-contact_us h1",
+      "strip": [
+        ".section-page_title",
+        ".section-locations_with_map",
+        "[class*=cookie]",
+        "[id*=cookie]",
+        "script",
+        "iframe"
+      ],
+      "sections": [
+        {
+          "selector": ".section-contact_us",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".block-text h1", "copy": "contact_title"},
+            {"sel": ".bg", "bg": "/ours/pages/mineral-rights-pages-contact-sellmineralrightspennsylvania-com.jpg"}
+          ]
+        }
+      ],
+      "form_slot": "form#gform_4",
+      "submit_label": "Request a Pennsylvania Mineral Review",
+      "repair_css": ".section-contact_us{position:relative!important;overflow:hidden!important;background:#eaf5fa!important}.section-contact_us>.bg{position:absolute!important;inset:0 auto 0 0!important;display:block!important;width:42%!important;background-position:center!important;background-size:cover!important}.section-contact_us>.bg::after{content:''!important;position:absolute!important;inset:0!important;background:rgba(18,60,119,.72)!important}.section-contact_us>.container{position:relative!important;z-index:2!important;box-sizing:border-box!important;display:grid!important;grid-template-columns:minmax(260px,.72fr) minmax(0,1.28fr)!important;gap:clamp(2rem,6vw,7rem)!important;width:min(1380px,calc(100% - 48px))!important;max-width:none!important;margin:0 auto!important}.section-contact_us .block-text{box-sizing:border-box!important;padding-top:clamp(2rem,5vw,4rem)!important}.section-contact_us .block-text h1{display:block!important;max-width:11ch!important;color:#fff!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(3rem,5.5vw,6rem)!important;line-height:.95!important;white-space:normal!important;word-break:normal!important}.section-contact_us .block-form{box-sizing:border-box!important;padding:clamp(2rem,5vw,5rem)!important;background:#fff!important}.rr-contact-form-shell{display:block!important;width:100%!important;max-width:none!important}.rr-contact-form{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:1rem!important;width:100%!important}.rr-contact-field{display:block!important;min-width:0!important;margin:0!important}.rr-contact-field:nth-child(4),.rr-contact-form>button{grid-column:1/-1!important}.rr-contact-control{box-sizing:border-box!important;display:block!important;width:100%!important;min-height:58px!important;padding:1rem!important;border:1px solid #9eb5cc!important;border-radius:0!important;background:#fff!important;color:#123c77!important;font-family:Base,Arial,sans-serif!important;font-size:1rem!important}.rr-contact-control::placeholder{color:#526b80!important;opacity:1!important}.rr-contact-control:focus{outline:3px solid rgba(0,166,207,.24)!important;border-color:#00a6cf!important}.rr-contact-form textarea{min-height:170px!important;resize:vertical!important}.rr-contact-form>button{min-height:58px!important;border:0!important;background:#00a6cf!important;color:#fff!important;font-family:Base,Arial,sans-serif!important;font-weight:800!important;cursor:pointer!important}@media(max-width:820px){.section-contact_us>.bg{width:100%!important;height:360px!important}.section-contact_us>.container{grid-template-columns:1fr!important;width:calc(100% - 32px)!important}.section-contact_us .block-text{min-height:320px!important}.section-contact_us .block-form{padding:1.5rem!important}.rr-contact-form{grid-template-columns:1fr!important}.rr-contact-field:nth-child(4),.rr-contact-form>button{grid-column:1!important}}"
+    },
+    "index": {
+      "signature": [
+        ".section-resources",
+        "#search-filter-results-562"
+      ],
+      "title": ".section-resources .block-title h1",
+      "semantic_title_selector": ".section-resources .block-title h1",
+      "hero_heading": ".section-resources .block-title h1",
+      "hero_bg": ".section-resources > .bg",
+      "grid": "#search-filter-results-562 > .row",
+      "card": ":scope > div",
+      "clear_selector": ":scope > div",
+      "card_fields": {
+        "title": ".text h3",
+        "sub": ".text .post-meta",
+        "image": ".image .img-bg",
+        "more": ".button-arrow",
+        "_link_card": true,
+        "summary_chars": 175
+      },
+      "kill_in_card": [".post-cat"],
+      "strip": [
+        ".section-resources--featured",
+        ".block-filters",
+        ".pagination",
+        "[class*=cookie]",
+        "[id*=cookie]"
+      ],
+      "repair_css": ".section-resources{position:relative!important;overflow:hidden!important;background:#f4f7f9!important;color:#123c77!important}.section-resources>.bg{position:absolute!important;inset:0 0 auto 0!important;display:block!important;height:430px!important;background-position:center!important;background-size:cover!important}.section-resources>.bg::after{content:''!important;position:absolute!important;inset:0!important;background:linear-gradient(90deg,rgba(18,60,119,.96),rgba(18,60,119,.58))!important}.section-resources>.container{position:relative!important;z-index:2!important;width:min(1420px,calc(100% - 48px))!important;max-width:none!important}.section-resources .block-title{display:flex!important;align-items:flex-end!important;min-height:330px!important;padding-bottom:3rem!important}.section-resources .block-title h1{display:block!important;max-width:15ch!important;color:#fff!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(3.2rem,6vw,6.4rem)!important;line-height:.95!important;white-space:normal!important;word-break:normal!important}.section-resources #search-filter-results-562>.row{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:1.5rem!important;margin:clamp(2.5rem,5vw,5rem) 0!important}.section-resources #search-filter-results-562>.row>div{box-sizing:border-box!important;width:auto!important;max-width:none!important;min-width:0!important;margin:0!important;padding:0!important}.section-resources .item{box-sizing:border-box!important;width:100%!important;min-width:0!important;height:100%!important;background:#fff!important}.section-resources .item .image{display:block!important;height:260px!important}.section-resources .item .img-bg{display:block!important;width:100%!important;height:100%!important;background-position:center!important;background-size:cover!important}.section-resources .item .text{box-sizing:border-box!important;padding:1.45rem!important}.section-resources .item h3,.section-resources .item p,.section-resources .item a{display:block!important;width:100%!important;max-width:none!important;color:#123c77!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important;writing-mode:horizontal-tb!important}.section-resources .item h3{font-family:Heading,Arial,sans-serif!important;font-size:1.55rem!important;line-height:1.1!important}@media(max-width:980px){.section-resources #search-filter-results-562>.row{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){.section-resources>.container{width:calc(100% - 32px)!important}.section-resources #search-filter-results-562>.row{grid-template-columns:1fr!important}}"
+    },
+    "slug": {
+      "signature": [
+        "article.section-single_blog",
+        ".post-content"
+      ],
+      "title": ".section-single_blog .block-title h1",
+      "semantic_title_selector": ".section-single_blog .block-title h1",
+      "hero_bg": ".section-single_blog > .bg",
+      "prose": ".section-single_blog .post-content",
+      "simple_prose": ".section-single_blog .post-content",
+      "strip": [
+        ".section-single_blog .post-meta",
+        ".section-single_blog--related",
+        ".section-single_blog .block-title a.button",
+        ".call-to.contact",
+        ".post-content img",
+        ".post-content picture",
+        ".post-content video",
+        "[class*=cookie]",
+        "[id*=cookie]"
+      ],
+      "flags": ["wide-prose", "hero-only-image"],
+      "repair_css": "article.section-single_blog{position:relative!important;display:block!important;overflow:visible!important;background:#fff!important;color:#263f53!important;font-family:Base,Arial,sans-serif!important}article.section-single_blog>.bg{position:relative!important;display:block!important;width:100%!important;height:clamp(390px,52vw,680px)!important;background-position:center!important;background-size:cover!important}article.section-single_blog>.bg::after{content:''!important;position:absolute!important;inset:0!important;background:linear-gradient(90deg,rgba(18,60,119,.92),rgba(18,60,119,.24))!important}article.section-single_blog>.container{box-sizing:border-box!important;width:min(1180px,calc(100% - 48px))!important;max-width:none!important;margin:0 auto!important;padding:0!important}article.section-single_blog .block-title{position:absolute!important;z-index:2!important;top:clamp(190px,28vw,380px)!important;left:50%!important;display:block!important;width:min(1180px,calc(100% - 48px))!important;transform:translateX(-50%)!important}article.section-single_blog .block-title h1{display:block!important;max-width:15ch!important;margin:0!important;color:#fff!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(2.8rem,5.8vw,6rem)!important;line-height:.96!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important;writing-mode:horizontal-tb!important}article.section-single_blog .row-main{display:block!important;margin:0!important}article.section-single_blog .row-main>.col-12.col-lg-9{box-sizing:border-box!important;width:100%!important;max-width:none!important;margin:0!important;padding:0!important}article.section-single_blog .section-single_blog--main{display:block!important;width:100%!important;max-width:none!important}.rr-detail-prose,[data-rr-prose='detail']{box-sizing:border-box!important;display:block!important;width:100%!important;max-width:none!important;margin:0!important;padding:clamp(3.5rem,7vw,6.5rem) 0!important;color:#263f53!important;font-family:Base,Arial,sans-serif!important;font-size:1.08rem!important;line-height:1.78!important;opacity:1!important;visibility:visible!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important;writing-mode:horizontal-tb!important}.rr-detail-prose h2,.rr-detail-prose h3,.rr-detail-prose p,.rr-detail-prose ul,.rr-detail-prose ol,.rr-detail-prose a,[data-rr-prose='detail'] h2,[data-rr-prose='detail'] h3,[data-rr-prose='detail'] p,[data-rr-prose='detail'] ul,[data-rr-prose='detail'] ol,[data-rr-prose='detail'] a{display:block!important;width:100%!important;max-width:none!important;color:#263f53!important;opacity:1!important;visibility:visible!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important;writing-mode:horizontal-tb!important}.rr-detail-prose h2,[data-rr-prose='detail'] h2{margin:2.8rem 0 1rem!important;color:#123c77!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(2rem,3.5vw,3.6rem)!important;line-height:1.02!important}.rr-detail-prose h3,[data-rr-prose='detail'] h3{margin:2rem 0 .7rem!important;color:#0087ad!important;font-family:Heading,Arial,sans-serif!important;font-size:clamp(1.3rem,2vw,1.8rem)!important;line-height:1.15!important}.rr-detail-prose a,[data-rr-prose='detail'] a{display:inline!important;color:#007da6!important;text-decoration:underline!important}.rr-related-grid{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:1px!important;margin:1.5rem 0 2.5rem!important;background:#9fc8dc!important}.rr-related-card{display:flex!important;min-width:0!important;min-height:90px!important;padding:1.25rem!important;border:0!important;border-radius:0!important;background:#eaf5fa!important;color:#123c77!important;text-decoration:none!important}.rr-related-card span{white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important}.rr-related-card small{color:#0087ad!important}@media(max-width:700px){article.section-single_blog>.container,article.section-single_blog .block-title{width:calc(100% - 32px)!important}article.section-single_blog .block-title{top:190px!important}.rr-related-grid{grid-template-columns:1fr!important}}"
+    }
+  }
+}

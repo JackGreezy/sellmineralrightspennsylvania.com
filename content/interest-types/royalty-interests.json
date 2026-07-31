@@ -1,0 +1,70 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Selling a Pennsylvania Royalty Interest - What It's Worth",
+ "metaDescription": "Own a royalty interest tied to a producing Marcellus or Utica well in Pennsylvania? We evaluate your statement history and give a straightforward offer.",
+ "heroLead": "A royalty interest is the piece most Pennsylvania mineral owners actually deal with day to day - the check that shows up, the statement full of numbers you have to squint at, the thing your family calls 'the gas money.'",
+ "intro": [
+  "When people say they own mineral rights in Pennsylvania, what they usually mean in practice is that they own a royalty interest tied to a lease on their minerals - the right to a percentage share of production revenue once a well is drilled and producing. That royalty share typically comes bundled with the rest of your mineral estate, unlike a standalone NPRI or ORRI, which means you also had (or have) the right to negotiate the lease itself, receive a signing bonus, and collect delay rentals if the lease requires them.",
+  "We look at more royalty statements than almost anyone outside an operator's own accounting department, and the honest truth is most owners never fully understand what they're looking at. Gross value, net value, deductions with abbreviations that mean nothing without a decoder - it's confusing on purpose or by accident, and either way it leaves owners unsure whether their check reflects what it should."
+ ],
+ "sections": [
+  {
+   "heading": "Reading Your Own Royalty Statement",
+   "paragraphs": [
+    "Most Pennsylvania royalty statements show a gross production volume and value, then a series of deductions - gathering, compression, dehydration, sometimes fractionation if you're in a wet gas county - before landing on the net amount actually paid to you. Your royalty fraction, usually somewhere around one-eighth in many older leases or higher in more recently negotiated ones, gets applied either to the gross figure or the net figure depending on exactly how your lease's royalty clause was written, and that distinction alone can be worth real money over the life of a well.",
+    "If you've never compared your actual royalty fraction against what your statement implies you're receiving after deductions, that's worth doing at least once, particularly if your lease predates the more recent generation of royalty-friendly lease language that many owners negotiated later in the play's development."
+   ]
+  },
+  {
+   "heading": "What Drives Your Royalty Value Beyond the Lease Terms",
+   "paragraphs": [
+    "Two owners with identical royalty fractions on the same lease can still see very different check amounts depending on their net mineral acres within the pooled spacing unit, which well or wells in that unit are actually contributing to their share, and where those wells sit on the production decline curve. A well in its first eighteen months of production behaves completely differently than the same well five years later, and your royalty check reflects wherever in that curve your specific wells currently sit.",
+    "Commodity price matters too, obviously, and it's the piece nobody controls. Natural gas prices swing with weather, storage levels, and national supply and demand, and a royalty check can shrink or grow month to month for reasons that have nothing to do with your well's actual production volume."
+   ]
+  },
+  {
+   "heading": "The Guaranteed Minimum Royalty Act, Plainly",
+   "paragraphs": [
+    "Pennsylvania's 1979 Guaranteed Minimum Royalty Act requires most oil and gas leases in the state to provide for a royalty of at least one-eighth of gross value received at the wellhead. It doesn't ban post-production deductions outright, but it's been the basis for real disputes over whether certain deduction practices improperly reduce owners below that statutory floor. If your effective royalty, after every deduction is subtracted, looks like it's landed under one-eighth of what the gas actually sold for, that's a conversation worth having with an attorney who handles Pennsylvania royalty disputes specifically, not something to assume is just normal."
+   ]
+  },
+  {
+   "heading": "What a Producing Royalty Interest Is Worth to Sell",
+   "paragraphs": [
+    "We build an offer from your actual statement history - typically the last one to two years of checks - combined with the operator's reserve and decline behavior in that specific field, and your lease's royalty and deduction terms. A royalty interest with a strong, consistent payment history from a reliable operator like a major Marcellus player evaluates differently than an interest with sporadic payments or an operator known for slow or inconsistent statements. We'll walk you through exactly how we got to our number, statement by statement, rather than handing you a figure with no explanation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty fraction change from what I remember signing?",
+   "answer": "It typically hasn't changed - what shifts is the net amount after deductions, which can make the effective percentage feel different from the stated lease fraction. Compare your gross value line against your net payment to see the actual deduction impact."
+  },
+  {
+   "question": "Is my royalty applied to gross or net value?",
+   "answer": "It depends on your specific lease's royalty clause language - some are calculated on gross proceeds at the wellhead, others allow post-production costs to be netted first. Your original lease document will specify which applies."
+  },
+  {
+   "question": "How many years of statements do you need to make an offer?",
+   "answer": "Typically the last one to two years gives us enough production and payment history to evaluate the interest accurately, though more history is helpful if you have it."
+  },
+  {
+   "question": "Does my royalty interest include future wells drilled on the same unit?",
+   "answer": "Generally yes, if your lease and mineral ownership cover the acreage those future wells would be pooled into, though it depends on your specific lease and deed language."
+  },
+  {
+   "question": "What if my royalty checks have stopped or gotten inconsistent?",
+   "answer": "That can happen for several reasons - the well's decline, a change in operator, or an address or ownership record issue on the operator's end. Worth checking your statement history and contacting the operator's royalty department directly to confirm."
+  }
+ ],
+ "status": "written",
+ "wordCount": 951,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightspennsylvania-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
