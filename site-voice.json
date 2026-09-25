@@ -28,6 +28,7 @@
       "reusable voice pack"
     ]
   },
+  "business_subject": "the Pennsylvania review team",
   "scrub": [
     [
       "\\bI['’]m\\b",
@@ -100,7 +101,10 @@
     [
       "\\bwe\\b",
       "the Pennsylvania review team"
-    ]
+    ],
+    ["(^|(?<=[.!?]\\s)|(?<=>))the owner\\b", "The owner"],
+    ["(^|(?<=[.!?]\\s)|(?<=>))the Pennsylvania review team\\b", "The Pennsylvania review team"],
+    ["\\bthe Pennsylvania review team mention\\b", "the Pennsylvania review team mentions"]
   ],
   "question_scrub": [
     [
@@ -158,7 +162,9 @@
     [
       "\\bSell Mineral Rights Pennsylvania\\b",
       "you"
-    ]
+    ],
+    ["^your\\b", "Your"],
+    ["^you\\b", "You"]
   ],
   "heroes": [
     [
@@ -261,7 +267,7 @@
     "faq_intro": "Each answer points back to a Pennsylvania deed, lease clause, unit record, paid decimal, production month, deduction line, or written term that can be checked.",
     "related_kicker": "CONNECTED OWNER RECORDS",
     "related_heading": "Carry the Same Statement Into the Next Review",
-    "related_intro": "Keep the tract, lease clause, unit participation, paid decimal, production month, deduction question, and open title issue from {item} visible while reviewing these {taxonomy} records.",
+    "related_intro": "The same tract, lease clause, unit participation, paid decimal, production month, and deduction question carry into each of these records.",
     "related_action": "Open the Complete Pennsylvania Owner Index"
   },
   "taxonomy_enrichment": {

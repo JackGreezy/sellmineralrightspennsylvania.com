@@ -1,0 +1,36 @@
+{
+  "classes": {
+    "#contact-form button[type=submit]": "button"
+  },
+  "remove": {
+    "all": [
+      ".sticky-menu",
+      "header .navbar-phone",
+      "header .navbar-nav > li:empty",
+      "footer .footer-menu > ul > li > a > span",
+      ".gform_heading .gform_required_legend",
+      ".rr-m-link[href=\"/contact\"] ~ .rr-m-link[href=\"/contact\"]",
+      ".section-industries_overview"
+    ],
+    "slug": [
+      "article.section-single_blog > .container > .h1",
+      "article.section-single_blog > .container > .row-main"
+    ]
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "related": "article.section-single_blog > .container",
+    "cta": "article.section-single_blog > .container"
+  },
+  "templates": {
+    "faq": "<div class=\"block-stats\"><div class=\"text page-body\"><h2>{heading}</h2><p>{intro}</p></div><div class=\"block-content\">{items}</div></div>",
+    "faq_item": "<div class=\"item page-body\"><div class=\"h4\">{q}</div>{a}</div>",
+    "related": "<div class=\"section-resource_center_homepage\"><div class=\"container\"><div class=\"block-title d-flex align-items-center\"><h2 class=\"mb-0\">{heading}</h2><div class=\"block-cta\"><a class=\"button\" href=\"{all_href}\">{all_label}</a></div></div><p>{intro}</p><div class=\"block-results\"><div class=\"row\">{items}</div></div></div></div>",
+    "related_item": "<div class=\"col-12 col-md-6 col-lg-4 d-flex flex-column\"><div class=\"item flex-grow-1 d-flex flex-column\"><div class=\"text page-body flex-grow-1 d-flex flex-column\"><h3>{name}</h3><p>{teaser}</p><div class=\"mt-auto\"><a class=\"button-arrow\" href=\"{href}\">Read more</a></div></div></div></div>",
+    "cta": "<section class=\"call-to contact\"><div class=\"container\"><div class=\"row\"><div class=\"col-12 col-lg-6 contact\"><div class=\"contact-description\"><h2>{title}</h2><p>{intro}</p></div></div><div class=\"col-12 col-lg-6 button-contact\"><a href=\"{contact_href}\">{label}</a><a href=\"{tel_href}\">Call {phone}</a></div></div></div></section>"
+  }
+}
