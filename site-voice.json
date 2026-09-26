@@ -1,343 +1,332 @@
 {
-  "_": "This voice belongs only to sellmineralrightspennsylvania.com. It is a Pennsylvania royalty-statement and county-record desk: exact about lease language, unit participation, paid decimals, production months, deductions, title fractions, written offer assumptions, and the conveyance recorded after closing. It is not a reusable mineral-rights voice pack.",
-  "identity": {
-    "name": "Pennsylvania royalty statement and county record desk",
-    "domain_lock": "sellmineralrightspennsylvania.com",
-    "reusable": false,
-    "cadence": "locate the tract, read the lease, match the unit, reconcile the decimal, audit the deductions, separate public context from private royalty evidence, write the offer assumptions, match the recorded conveyance",
-    "lexicon": [
-      "Marcellus record",
-      "Utica record",
-      "lease royalty clause",
-      "unit declaration",
-      "paid decimal",
-      "production month",
-      "gathering charge",
-      "compression charge",
-      "owner statement",
-      "recorded conveyance"
-    ],
-    "avoid": [
-      "first-person singular narration",
-      "generic national-buyer copy",
-      "instant cash",
-      "highest offer",
-      "guaranteed drilling",
-      "fabricated testimonials",
-      "Act 13 as private royalty proof",
-      "reusable voice pack"
-    ]
-  },
-  "business_subject": "the Pennsylvania review team",
-  "scrub": [
-    [
-      "\\bI['’]m\\b",
-      "Sell Mineral Rights Pennsylvania is"
-    ],
-    [
-      "\\bI['’]ve\\b",
-      "Sell Mineral Rights Pennsylvania has"
-    ],
-    [
-      "\\bI['’]ll\\b",
-      "Sell Mineral Rights Pennsylvania will"
-    ],
-    [
-      "\\bI['’]d\\b",
-      "Sell Mineral Rights Pennsylvania would"
-    ],
-    [
-      "\\bmyself\\b",
-      "the owner directly"
-    ],
-    [
-      "\\bmy\\b",
-      "the owner's"
-    ],
-    [
-      "\\bme\\b",
-      "the owner"
-    ],
-    [
-      "\\bI\\b",
-      "the owner"
-    ],
-    [
-      "\\bwe['’]ve\\b",
-      "the Pennsylvania review team has"
-    ],
-    [
-      "\\bwe['’]re\\b",
-      "the Pennsylvania review team is"
-    ],
-    [
-      "\\bwe['’]ll\\b",
-      "the Pennsylvania review team will"
-    ],
-    [
-      "\\bwe['’]d\\b",
-      "the Pennsylvania review team would"
-    ],
-    [
-      "\\bourselves\\b",
-      "the Pennsylvania review team"
-    ],
-    [
-      "\\bours\\b",
-      "the interest under review"
-    ],
-    [
-      "\\bnot mine\\b",
-      "not the owner's interest"
-    ],
-    [
-      "\\bour\\b",
-      "the Pennsylvania review team's"
-    ],
-    [
-      "\\bus\\b",
-      "the Pennsylvania review team"
-    ],
-    [
-      "\\bwe\\b",
-      "the Pennsylvania review team"
-    ],
-    ["(^|(?<=[.!?]\\s)|(?<=>))the owner\\b", "The owner"],
-    ["(^|(?<=[.!?]\\s)|(?<=>))the Pennsylvania review team\\b", "The Pennsylvania review team"],
-    ["\\bthe Pennsylvania review team mention\\b", "the Pennsylvania review team mentions"]
+ "_": "This voice belongs only to sellmineralrightspennsylvania.com. It is a Pennsylvania royalty-statement and county-record desk: exact about lease language, unit participation, paid decimals, production months, deductions, title fractions, written offer assumptions, and the conveyance recorded after closing. It is not a reusable mineral-rights voice pack.",
+ "identity": {
+  "name": "Pennsylvania royalty statement and county record desk",
+  "domain_lock": "sellmineralrightspennsylvania.com",
+  "reusable": false,
+  "cadence": "locate the tract, read the lease, match the unit, reconcile the decimal, audit the deductions, separate public context from private royalty evidence, write the offer assumptions, match the recorded conveyance",
+  "lexicon": [
+   "Marcellus record",
+   "Utica record",
+   "lease royalty clause",
+   "unit declaration",
+   "paid decimal",
+   "production month",
+   "gathering charge",
+   "compression charge",
+   "owner statement",
+   "recorded conveyance"
   ],
-  "question_scrub": [
-    [
-      "\\bHow do Sell Mineral Rights Pennsylvania\\b",
-      "How do you"
-    ],
-    [
-      "\\bDoes Sell Mineral Rights Pennsylvania\\b",
-      "Do you"
-    ],
-    [
-      "\\bCan Sell Mineral Rights Pennsylvania\\b",
-      "Can you"
-    ],
-    [
-      "\\bWhat if Sell Mineral Rights Pennsylvania\\b",
-      "What if you"
-    ],
-    [
-      "\\bIs Sell Mineral Rights Pennsylvania\\b",
-      "Are you"
-    ],
-    [
-      "\\bWill Sell Mineral Rights Pennsylvania\\b",
-      "Will you"
-    ],
-    [
-      "\\bShould Sell Mineral Rights Pennsylvania\\b",
-      "Should you"
-    ],
-    [
-      "\\bthe Pennsylvania review desk['’]s\\b",
-      "your"
-    ],
-    [
-      "\\bthe Pennsylvania review desk\\b",
-      "you"
-    ],
-    [
-      "\\bthe Pennsylvania review team['’]s\\b",
-      "your"
-    ],
-    [
-      "\\bthe Pennsylvania review team\\b",
-      "you"
-    ],
-    [
-      "\\bthe owner['’]s\\b",
-      "your"
-    ],
-    [
-      "\\bthe owner\\b",
-      "you"
-    ],
-    [
-      "\\bSell Mineral Rights Pennsylvania\\b",
-      "you"
-    ],
-    ["^your\\b", "Your"],
-    ["^you\\b", "You"]
-  ],
-  "heroes": [
-    [
-      "Sell Mineral Rights in Pennsylvania",
-      "Connect the Pennsylvania tract, lease royalty clause, unit declaration, paid decimal, production-month detail, deductions, written offer assumptions, and recorded conveyance before deciding."
-    ],
-    [
-      "Audit the Royalty Statement Before Comparing Offers",
-      "Gas volume, realized price, taxes, gathering, compression, transport, adjustments, and the paid decimal can move independently from one production month to the next."
-    ],
-    [
-      "Match the Marcellus or Utica Interest to the Record",
-      "A nearby well or public production map can add context, but the deed, lease, unit record, division order, and owner statement define the interest being reviewed."
-    ],
-    [
-      "Resolve the Heir Fraction Before the Closing Clock",
-      "Probate papers, recorded reservations, family conveyances, and division orders should lead to the same Pennsylvania owner fraction before deed language is finalized."
-    ]
-  ],
-  "copy": {
-    "home_eyebrow": "PENNSYLVANIA ROYALTY STATEMENT DESK",
-    "home_title": "Sell Mineral Rights in Pennsylvania",
-    "home_meta": "Review Pennsylvania mineral rights through the tract record, lease royalty clause, unit participation, paid decimal, production months, deductions, written terms, and recording plan.",
-    "home_intro_title": "Put the Pennsylvania Tract, Lease, and Check on One Review",
-    "home_intro": "A useful Pennsylvania mineral review keeps the source deed, reservation language, lease, unit declaration, division order, owner fraction, production months, deduction detail, written offer, and proposed conveyance in one working file.",
-    "home_about_2": "Marcellus and Utica interests do not price cleanly from one royalty check. Gas volume, realized price, natural-gas-liquids detail, taxes, gathering, compression, transport, adjustments, and downtime can change independently.",
-    "home_about_3": "Act 13 impact-fee reports and public well records can describe regional activity. They do not replace the private lease, paid decimal, owner statement, title chain, or the exact interest that can be conveyed.",
-    "home_situations_title": "Start With the Owner Situation",
-    "home_situations_body": "Inheritance, probate, a split family interest, an unsolicited offer, a producing check, or leased-but-undrilled acreage determines which record needs attention first.",
-    "home_interests_title": "Name the Estate Before Pricing It",
-    "home_interests_body": "Minerals, royalties, non-participating royalties, overrides, working interests, and surface ownership carry different rights and require different conveyance language.",
-    "home_basins_title": "Read the Marcellus and Utica Record After the Tract Is Located",
-    "home_basins": "County, municipality, tract description, acreage, lease, unit, well, operator, products, owner fraction, and statement months establish the file before nearby activity is compared.",
-    "home_basins_body": "County, municipality, tract description, acreage, lease, unit, well, operator, products, owner fraction, and statement months establish the file before nearby activity is compared.",
-    "home_resources_title": "Build the Pennsylvania Owner Docket",
-    "home_resources_body": "Deeds, leases, unit declarations, division orders, royalty statements, public well records, written offers, and proposed conveyances answer different parts of the decision.",
-    "home_locations_title": "Pennsylvania Coverage by County Record",
-    "home_locations_body": "The review follows documented private mineral and royalty interests through western, northern, and Appalachian Pennsylvania counties.",
-    "home_investing_title": "Underwrite the Decimal and the Deduction Line",
-    "home_investing": "Volumes, realized pricing, products, taxes, deductions, adjustments, downtime, title expense, operator concentration, development stage, and resale liquidity belong in the investment case.",
-    "home_exchange_title": "Keep Exchange Timing Separate From Pennsylvania Title Work",
-    "home_exchange": "A qualified intermediary and independent tax counsel should assess potential exchange treatment before closing or receipt of proceeds while Pennsylvania title and recording work follows its own dated checklist.",
-    "hero_cta": "Request a Pennsylvania Mineral Review",
-    "index_tagline": "Use the {title} record to connect the owner question to the Pennsylvania tract, lease clause, unit participation, paid decimal, deduction detail, written terms, and next documented step.",
-    "detail_cta_title": "Put This Pennsylvania Interest on the Statement Review",
-    "detail_cta_body": "Share the Pennsylvania county, interest type, producing status, operator if known, recent statement detail, and the decision that needs a clearer written answer. Do not submit bank credentials, government identification numbers, or original documents.",
-    "detail_followup": "Carry this topic back to the same tract, lease clause, unit record, paid decimal, production month, deduction line, owner fraction, and written offer.",
-    "faq_heading": "Questions From the Pennsylvania Statement File",
-    "about_title": "A Pennsylvania Mineral Buyer Built Around the Owner Statement",
-    "about_story_title": "The Tract Record Defines the Review",
-    "about_story_body": "County, municipality, legal description, acreage, reservation language, estate type, and owner fraction identify the Pennsylvania interest under review.",
-    "about_scope_title": "The Lease Clause Sets the Royalty Framework",
-    "about_scope_body": "Royalty rate, valuation language, deductions, products, pooling authority, unit participation, and amendment history should be read together.",
-    "about_terms_title": "The Paid Decimal Needs a Documentary Source",
-    "about_terms_body": "The owner fraction, lease royalty, unit allocation, division order, and payor record should explain the decimal used on the statement.",
-    "about_roles_title": "The Deduction Line Needs a Production-Month Audit",
-    "about_roles_body": "Gathering, compression, transport, processing, taxes, prior-period adjustments, and suspense releases can move separately from volume and price.",
-    "about_close_title": "The Offer and Conveyance Must Describe the Same Asset",
-    "about_close_body": "The written offer, agreement, deed, retained rights, settlement record, funding confirmation, and county recording should match the same tract and fraction.",
-    "contact_title": "Request a Pennsylvania Mineral Record Review",
-    "contact_intro": "Share the Pennsylvania county, interest type, producing status, operator if known, recent statement detail, and the decision that needs a clearer answer. The review can begin with the records already available.",
-    "contact_form_title": "Start With the Pennsylvania Record in Hand",
-    "contact_form_body": "A deed, lease, unit declaration, division order, owner statement, probate record, or written offer can identify the next useful check.",
-    "footer_tagline": "Tract located. Lease read. Unit matched. Decimal reconciled. Deductions audited. Terms written. Recording matched.",
-    "privacy": "Sell Mineral Rights Pennsylvania uses submitted contact, ownership, property, production, title, lease, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold.",
-    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
-    "nf_title": "That Pennsylvania Record Is Not in This Owner Docket",
-    "nf_body": "Return to owner situations, interest types, Marcellus and Utica records, Pennsylvania guides, county files, or the mineral-review form.",
-    "nf_cta": "Return to the Pennsylvania Owner Desk"
-  },
-  "about_blocks": [
-    [
-      "Locate the Pennsylvania Tract",
-      "County, municipality, legal description, acreage, reservation language, estate type, and ownership fraction establish the interest under review."
-    ],
-    [
-      "Read the Lease Royalty Clause",
-      "Royalty rate, valuation point, post-production language, pooling authority, amendment history, and product treatment frame the statement review."
-    ],
-    [
-      "Match the Unit and Division Order",
-      "Unit declarations, tract participation, owner fraction, lease royalty, and payor records should lead to the same paid decimal."
-    ],
-    [
-      "Audit the Production Month",
-      "Gas volume, liquids, realized price, taxes, gathering, compression, transport, processing, adjustments, and suspense should reconcile to the owner statement."
-    ],
-    [
-      "Separate Public Context From Private Evidence",
-      "Act 13 reports, public wells, permits, and nearby activity can add context without replacing the private lease, title chain, unit record, or royalty statement."
-    ],
-    [
-      "Match the Pennsylvania Recording",
-      "The written offer, agreement, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same tract and fraction."
-    ]
-  ],
-  "slug_ui": {
-    "faq_kicker": "DEDUCTION CHECK",
-    "faq_heading": "Resolve the Statement Question Before Comparing the Number",
-    "faq_intro": "Each answer points back to a Pennsylvania deed, lease clause, unit record, paid decimal, production month, deduction line, or written term that can be checked.",
-    "related_kicker": "CONNECTED OWNER RECORDS",
-    "related_heading": "Carry the Same Statement Into the Next Review",
-    "related_intro": "The same tract, lease clause, unit participation, paid decimal, production month, and deduction question carry into each of these records.",
-    "related_action": "Open the Complete Pennsylvania Owner Index"
-  },
-  "taxonomy_enrichment": {
-    "locations": [
-      [
-        "Anchor {name} to the County Record",
-        "A Pennsylvania location guide should lead back to a real tract record. The working file identifies the county, municipality, legal description, acreage, mineral reservation, estate type, owner fraction, and the deed, probate record, or trust instrument supporting the present ownership claim."
-      ],
-      [
-        "Connect Local Activity to the Actual Interest",
-        "Marcellus and Utica development varies by county, formation, unit, operator, and production stage. Public wells and Act 13 reporting can add context, while the private lease, unit record, paid decimal, and statement months define the interest under review."
-      ],
-      [
-        "Keep the Local Review in Writing",
-        "The owner copy for {name} should retain the source deed, lease, unit declaration, division order, statement evidence, deduction questions, written offer assumptions, retained-rights language, settlement record, and recording reference."
-      ]
-    ],
-    "investing": [
-      [
-        "Locate {name} on the Pennsylvania Record",
-        "A Pennsylvania mineral investment should be traced from the recorded interest through the lease and unit to the paid decimal before a yield or multiple is trusted. The review begins with the source deed, reservation language, acreage, formation and depth limits, lease royalty clause, amendments, unit declaration, tract participation, division order, and payor record. Those documents should describe the same county interest and owner fraction. {name} becomes useful only after the ownership record and the income record can be reconciled without assuming that a nearby well, a county production total, or one recent check represents the asset being evaluated."
-      ],
-      [
-        "Stress the Statement by Production Month",
-        "Volumes, realized price, products, taxes, gathering, compression, transport, processing, prior-period adjustments, downtime, and suspense releases can move independently and should be tested across several statement months. The model for {name} should retain the operator, property and well identifiers, production month, sales month, product, gross volume, owner decimal, gross value, each deduction, taxes, net value, and any adjustment code. Comparing those fields across a consistent period exposes whether a change came from production, price, the paid decimal, a deduction category, a correction, or a release from suspense. That is a stronger starting point than annualizing the latest deposit."
-      ],
-      [
-        "Write the Downside Case First",
-        "A disciplined Pennsylvania mineral model tests lower volumes, weaker pricing, wider deductions, longer downtime, title expense, operator concentration, delayed development, and limited resale liquidity before assigning value to upside activity. For {name}, the written case should distinguish producing value from undeveloped optionality, identify which assumptions come from private records, and label which assumptions rely only on public context. It should also test the cost and timing of curing probate, trust, entity, or fractional-title issues. A buyer or owner can then compare the expected cash flow, downside case, holding period, and sale alternatives without treating uncertain future wells as guaranteed production."
-      ]
-    ],
-    "exchange-1031": [
-      [
-        "Place {name} on the Exchange Calendar",
-        "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a Pennsylvania mineral sale closes or proceeds are received. The working calendar for {name} should show the proposed sale date, intermediary engagement, control of proceeds, identification deadline, acquisition deadline, replacement-property review, lender milestones, title work, and closing dependencies. The Pennsylvania mineral buyer can provide transaction records, but cannot decide tax eligibility or replace the owner’s advisors. Recording who is responsible for each dated step helps prevent a title correction, settlement revision, or late document request from being mistaken for an extension of a federal deadline."
-      ],
-      [
-        "Keep Pennsylvania Title Work and Federal Timing Distinct",
-        "Deed work, probate, heirship, trusts, corrective instruments, payor records, and county recording can move on a different schedule from exchange deadlines. A review of {name} should identify the current record owner, vesting instrument, legal description, mineral or royalty estate, county, owner fraction, lease and unit references, retained rights, and any unresolved estate or entity authority. Those items determine what can be conveyed and who can sign. The intermediary, tax counsel, title professionals, and transaction parties should receive the same dated description of the asset so a Pennsylvania title cure does not quietly alter the property scope or the exchange paperwork."
-      ],
-      [
-        "Match the Property Scope",
-        "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change the tract, estate, formation, depth, county, owner fraction, or entity. For {name}, the file should compare those descriptions line by line before closing and retain the final signed documents, funding confirmation, intermediary record, and county recording reference. Any boot, debt replacement, related-party question, partial sale, entity mismatch, or change in replacement property belongs with qualified tax and legal advisors before reliance. The goal is a documented handoff in which the Pennsylvania mineral conveyance and the exchange record describe the transaction consistently."
-      ]
-    ]
-  },
-  "form_fields": [
-    [
-      "name",
-      "text",
-      "Name",
-      true
-    ],
-    [
-      "email",
-      "email",
-      "Email",
-      true
-    ],
-    [
-      "phone",
-      "tel",
-      "Phone",
-      true
-    ],
-    [
-      "message",
-      "textarea",
-      "Message",
-      true
-    ]
+  "avoid": [
+   "first-person singular narration",
+   "generic national-buyer copy",
+   "instant cash",
+   "highest offer",
+   "guaranteed drilling",
+   "fabricated testimonials",
+   "Act 13 as private royalty proof",
+   "reusable voice pack"
   ]
+ },
+ "business_subject": "the Pennsylvania review team",
+ "scrub": [
+  [
+   "\\bI['’]m\\b",
+   "Sell Mineral Rights Pennsylvania is"
+  ],
+  [
+   "\\bI['’]ve\\b",
+   "Sell Mineral Rights Pennsylvania has"
+  ],
+  [
+   "\\bI['’]ll\\b",
+   "Sell Mineral Rights Pennsylvania will"
+  ],
+  [
+   "\\bI['’]d\\b",
+   "Sell Mineral Rights Pennsylvania would"
+  ],
+  [
+   "\\bmyself\\b",
+   "the owner directly"
+  ],
+  [
+   "\\bmy\\b",
+   "the owner's"
+  ],
+  [
+   "\\bme\\b",
+   "the owner"
+  ],
+  [
+   "\\bI\\b",
+   "the owner"
+  ],
+  [
+   "\\bnot mine\\b",
+   "not the owner's interest"
+  ],
+  [
+   "(^|(?<=[.!?]\\s)|(?<=>))the owner\\b",
+   "The owner"
+  ]
+ ],
+ "question_scrub": [
+  [
+   "\\bHow do Sell Mineral Rights Pennsylvania\\b",
+   "How do you"
+  ],
+  [
+   "\\bDoes Sell Mineral Rights Pennsylvania\\b",
+   "Do you"
+  ],
+  [
+   "\\bCan Sell Mineral Rights Pennsylvania\\b",
+   "Can you"
+  ],
+  [
+   "\\bWhat if Sell Mineral Rights Pennsylvania\\b",
+   "What if you"
+  ],
+  [
+   "\\bIs Sell Mineral Rights Pennsylvania\\b",
+   "Are you"
+  ],
+  [
+   "\\bWill Sell Mineral Rights Pennsylvania\\b",
+   "Will you"
+  ],
+  [
+   "\\bShould Sell Mineral Rights Pennsylvania\\b",
+   "Should you"
+  ],
+  [
+   "\\bthe Pennsylvania review desk['’]s\\b",
+   "your"
+  ],
+  [
+   "\\bthe Pennsylvania review desk\\b",
+   "you"
+  ],
+  [
+   "\\bthe Pennsylvania review team['’]s\\b",
+   "your"
+  ],
+  [
+   "\\bthe Pennsylvania review team\\b",
+   "you"
+  ],
+  [
+   "\\bthe owner['’]s\\b",
+   "your"
+  ],
+  [
+   "\\bthe owner\\b",
+   "you"
+  ],
+  [
+   "\\bSell Mineral Rights Pennsylvania\\b",
+   "you"
+  ],
+  [
+   "^your\\b",
+   "Your"
+  ],
+  [
+   "^you\\b",
+   "You"
+  ]
+ ],
+ "heroes": [
+  [
+   "Sell Mineral Rights in Pennsylvania",
+   "Connect the Pennsylvania tract, lease royalty clause, unit declaration, paid decimal, production-month detail, deductions, written offer assumptions, and recorded conveyance before deciding."
+  ],
+  [
+   "Audit the Royalty Statement Before Comparing Offers",
+   "Gas volume, realized price, taxes, gathering, compression, transport, adjustments, and the paid decimal can move independently from one production month to the next."
+  ],
+  [
+   "Match the Marcellus or Utica Interest to the Record",
+   "A nearby well or public production map can add context, but the deed, lease, unit record, division order, and owner statement define the interest being reviewed."
+  ],
+  [
+   "Resolve the Heir Fraction Before the Closing Clock",
+   "Probate papers, recorded reservations, family conveyances, and division orders should lead to the same Pennsylvania owner fraction before deed language is finalized."
+  ]
+ ],
+ "copy": {
+  "home_eyebrow": "PENNSYLVANIA ROYALTY STATEMENT DESK",
+  "home_title": "Sell Mineral Rights in Pennsylvania",
+  "home_meta": "Review Pennsylvania mineral rights through the tract record, lease royalty clause, unit participation, paid decimal, production months, deductions, written terms, and recording plan.",
+  "home_intro_title": "Put the Pennsylvania Tract, Lease, and Check on One Review",
+  "home_intro": "A useful Pennsylvania mineral review keeps the source deed, reservation language, lease, unit declaration, division order, owner fraction, production months, deduction detail, written offer, and proposed conveyance in one working file.",
+  "home_about_2": "Marcellus and Utica interests do not price cleanly from one royalty check. Gas volume, realized price, natural-gas-liquids detail, taxes, gathering, compression, transport, adjustments, and downtime can change independently.",
+  "home_about_3": "Act 13 impact-fee reports and public well records can describe regional activity. They do not replace the private lease, paid decimal, owner statement, title chain, or the exact interest that can be conveyed.",
+  "home_situations_title": "Start With the Owner Situation",
+  "home_situations_body": "Inheritance, probate, a split family interest, an unsolicited offer, a producing check, or leased-but-undrilled acreage determines which record needs attention first.",
+  "home_interests_title": "Name the Estate Before Pricing It",
+  "home_interests_body": "Minerals, royalties, non-participating royalties, overrides, working interests, and surface ownership carry different rights and require different conveyance language.",
+  "home_basins_title": "Read the Marcellus and Utica Record After the Tract Is Located",
+  "home_basins": "County, municipality, tract description, acreage, lease, unit, well, operator, products, owner fraction, and statement months establish the file before nearby activity is compared.",
+  "home_basins_body": "County, municipality, tract description, acreage, lease, unit, well, operator, products, owner fraction, and statement months establish the file before nearby activity is compared.",
+  "home_resources_title": "Build the Pennsylvania Owner Docket",
+  "home_resources_body": "Deeds, leases, unit declarations, division orders, royalty statements, public well records, written offers, and proposed conveyances answer different parts of the decision.",
+  "home_locations_title": "Pennsylvania Coverage by County Record",
+  "home_locations_body": "The review follows documented private mineral and royalty interests through western, northern, and Appalachian Pennsylvania counties.",
+  "home_investing_title": "Underwrite the Decimal and the Deduction Line",
+  "home_investing": "Volumes, realized pricing, products, taxes, deductions, adjustments, downtime, title expense, operator concentration, development stage, and resale liquidity belong in the investment case.",
+  "home_exchange_title": "Keep Exchange Timing Separate From Pennsylvania Title Work",
+  "home_exchange": "A qualified intermediary and independent tax counsel should assess potential exchange treatment before closing or receipt of proceeds while Pennsylvania title and recording work follows its own dated checklist.",
+  "hero_cta": "Request a Pennsylvania Mineral Review",
+  "index_tagline": "Use the {title} record to connect the owner question to the Pennsylvania tract, lease clause, unit participation, paid decimal, deduction detail, written terms, and next documented step.",
+  "detail_cta_title": "Put This Pennsylvania Interest on the Statement Review",
+  "detail_cta_body": "Share the Pennsylvania county, interest type, producing status, operator if known, recent statement detail, and the decision that needs a clearer written answer. Do not submit bank credentials, government identification numbers, or original documents.",
+  "detail_followup": "Carry this topic back to the same tract, lease clause, unit record, paid decimal, production month, deduction line, owner fraction, and written offer.",
+  "faq_heading": "Questions From the Pennsylvania Statement File",
+  "about_title": "A Pennsylvania Mineral Buyer Built Around the Owner Statement",
+  "about_story_title": "The Tract Record Defines the Review",
+  "about_story_body": "County, municipality, legal description, acreage, reservation language, estate type, and owner fraction identify the Pennsylvania interest under review.",
+  "about_scope_title": "The Lease Clause Sets the Royalty Framework",
+  "about_scope_body": "Royalty rate, valuation language, deductions, products, pooling authority, unit participation, and amendment history should be read together.",
+  "about_terms_title": "The Paid Decimal Needs a Documentary Source",
+  "about_terms_body": "The owner fraction, lease royalty, unit allocation, division order, and payor record should explain the decimal used on the statement.",
+  "about_roles_title": "The Deduction Line Needs a Production-Month Audit",
+  "about_roles_body": "Gathering, compression, transport, processing, taxes, prior-period adjustments, and suspense releases can move separately from volume and price.",
+  "about_close_title": "The Offer and Conveyance Must Describe the Same Asset",
+  "about_close_body": "The written offer, agreement, deed, retained rights, settlement record, funding confirmation, and county recording should match the same tract and fraction.",
+  "contact_title": "Request a Pennsylvania Mineral Record Review",
+  "contact_intro": "Share the Pennsylvania county, interest type, producing status, operator if known, recent statement detail, and the decision that needs a clearer answer. The review can begin with the records already available.",
+  "contact_form_title": "Start With the Pennsylvania Record in Hand",
+  "contact_form_body": "A deed, lease, unit declaration, division order, owner statement, probate record, or written offer can identify the next useful check.",
+  "footer_tagline": "Tract located. Lease read. Unit matched. Decimal reconciled. Deductions audited. Terms written. Recording matched.",
+  "privacy": "Sell Mineral Rights Pennsylvania uses submitted contact, ownership, property, production, title, lease, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold.",
+  "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
+  "nf_title": "That Pennsylvania Record Is Not in This Owner Docket",
+  "nf_body": "Return to owner situations, interest types, Marcellus and Utica records, Pennsylvania guides, county files, or the mineral-review form.",
+  "nf_cta": "Return to the Pennsylvania Owner Desk"
+ },
+ "about_blocks": [
+  [
+   "Locate the Pennsylvania Tract",
+   "County, municipality, legal description, acreage, reservation language, estate type, and ownership fraction establish the interest under review."
+  ],
+  [
+   "Read the Lease Royalty Clause",
+   "Royalty rate, valuation point, post-production language, pooling authority, amendment history, and product treatment frame the statement review."
+  ],
+  [
+   "Match the Unit and Division Order",
+   "Unit declarations, tract participation, owner fraction, lease royalty, and payor records should lead to the same paid decimal."
+  ],
+  [
+   "Audit the Production Month",
+   "Gas volume, liquids, realized price, taxes, gathering, compression, transport, processing, adjustments, and suspense should reconcile to the owner statement."
+  ],
+  [
+   "Separate Public Context From Private Evidence",
+   "Act 13 reports, public wells, permits, and nearby activity can add context without replacing the private lease, title chain, unit record, or royalty statement."
+  ],
+  [
+   "Match the Pennsylvania Recording",
+   "The written offer, agreement, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same tract and fraction."
+  ]
+ ],
+ "slug_ui": {
+  "faq_kicker": "DEDUCTION CHECK",
+  "faq_heading": "Resolve the Statement Question Before Comparing the Number",
+  "faq_intro": "Each answer points back to a Pennsylvania deed, lease clause, unit record, paid decimal, production month, deduction line, or written term that can be checked.",
+  "related_kicker": "CONNECTED OWNER RECORDS",
+  "related_heading": "Carry the Same Statement Into the Next Review",
+  "related_intro": "The same tract, lease clause, unit participation, paid decimal, production month, and deduction question carry into each of these records.",
+  "related_action": "Open the Complete Pennsylvania Owner Index"
+ },
+ "taxonomy_enrichment": {
+  "locations": [
+   [
+    "Anchor the Tract to the County Record",
+    "A Pennsylvania location guide should lead back to a real tract record. The working file identifies the county, municipality, legal description, acreage, mineral reservation, estate type, owner fraction, and the deed, probate record, or trust instrument supporting the present ownership claim."
+   ],
+   [
+    "Connect Local Activity to the Actual Interest",
+    "Marcellus and Utica development varies by county, formation, unit, operator, and production stage. Public wells and Act 13 reporting can add context, while the private lease, unit record, paid decimal, and statement months define the interest under review."
+   ],
+   [
+    "Keep the Local Review in Writing",
+    "A county-specific owner file should retain the source deed, lease, unit declaration, division order, statement evidence, deduction questions, written offer assumptions, retained-rights language, settlement record, and recording reference for that tract."
+   ]
+  ],
+  "investing": [
+   [
+    "Locate the Interest on the Pennsylvania Record",
+    "A Pennsylvania mineral investment should be traced from the recorded interest through the lease and unit to the paid decimal before a yield or multiple is trusted. The review begins with the source deed, reservation language, acreage, formation and depth limits, lease royalty clause, amendments, unit declaration, tract participation, division order, and payor record. Those documents should describe the same county interest and owner fraction. An investment becomes useful to compare only after the ownership record and the income record can be reconciled, without assuming that a nearby well, a county production total, or one recent check represents the asset being evaluated."
+   ],
+   [
+    "Stress the Statement by Production Month",
+    "Volumes, realized price, products, taxes, gathering, compression, transport, processing, prior-period adjustments, downtime, and suspense releases can move independently and should be tested across several statement months. A sound underwriting model retains the operator, property and well identifiers, production month, sales month, product, gross volume, owner decimal, gross value, each deduction, taxes, net value, and any adjustment code. Comparing those fields across a consistent period exposes whether a change came from production, price, the paid decimal, a deduction category, a correction, or a release from suspense. That is a stronger starting point than annualizing the latest deposit."
+   ],
+   [
+    "Write the Downside Case First",
+    "A disciplined Pennsylvania mineral model tests lower volumes, weaker pricing, wider deductions, longer downtime, title expense, operator concentration, delayed development, and limited resale liquidity before assigning value to upside activity. The written case should distinguish producing value from undeveloped optionality, identify which assumptions come from private records, and label which assumptions rely only on public context. It should also test the cost and timing of curing probate, trust, entity, or fractional-title issues. A buyer or owner can then compare the expected cash flow, downside case, holding period, and sale alternatives without treating uncertain future wells as guaranteed production."
+   ]
+  ],
+  "exchange-1031": [
+   [
+    "Place the Timeline on the Exchange Calendar",
+    "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a Pennsylvania mineral sale closes or proceeds are received. The working calendar should show the proposed sale date, intermediary engagement, control of proceeds, identification deadline, acquisition deadline, replacement-property review, lender milestones, title work, and closing dependencies. The Pennsylvania mineral buyer can provide transaction records, but cannot decide tax eligibility or replace the owner’s advisors. Recording who is responsible for each dated step helps prevent a title correction, settlement revision, or late document request from being mistaken for an extension of a federal deadline."
+   ],
+   [
+    "Keep Pennsylvania Title Work and Federal Timing Distinct",
+    "Deed work, probate, heirship, trusts, corrective instruments, payor records, and county recording can move on a different schedule from exchange deadlines. A careful review should identify the current record owner, vesting instrument, legal description, mineral or royalty estate, county, owner fraction, lease and unit references, retained rights, and any unresolved estate or entity authority. Those items determine what can be conveyed and who can sign. The intermediary, tax counsel, title professionals, and transaction parties should receive the same dated description of the asset so a Pennsylvania title cure does not quietly alter the property scope or the exchange paperwork."
+   ],
+   [
+    "Match the Property Scope",
+    "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change the tract, estate, formation, depth, county, owner fraction, or entity. Before closing, the file should compare those descriptions line by line and retain the final signed documents, funding confirmation, intermediary record, and county recording reference. Any boot, debt replacement, related-party question, partial sale, entity mismatch, or change in replacement property belongs with qualified tax and legal advisors before reliance. The goal is a documented handoff in which the Pennsylvania mineral conveyance and the exchange record describe the transaction consistently."
+   ]
+  ]
+ },
+ "form_fields": [
+  [
+   "name",
+   "text",
+   "Name",
+   true
+  ],
+  [
+   "email",
+   "email",
+   "Email",
+   true
+  ],
+  [
+   "phone",
+   "tel",
+   "Phone",
+   true
+  ],
+  [
+   "message",
+   "textarea",
+   "Message",
+   true
+  ]
+ ],
+ "taxonomy_titles": {
+  "locations": "Pennsylvania Counties and Towns",
+  "situations": "Owner Situations",
+  "interest-types": "Mineral and Royalty Interest Types",
+  "basins": "Pennsylvania Producing Formations",
+  "resources": "Owner Resources",
+  "investing": "Mineral Investing",
+  "exchange-1031": "Mineral 1031 Exchange Guides"
+ },
+ "taxonomy_intros": {
+  "locations": "County recording practice, Marcellus and Utica development pace, and family-title history vary block by block across Pennsylvania. Choose a county or town to see which records this desk checks there before writing an offer.",
+  "situations": "Inheritance, probate, a divided family interest, an unsolicited letter, or acreage that is leased but never drilled each call for a different first document. Find the circumstance closest to yours and what it changes about the review.",
+  "interest-types": "Mineral, royalty, non-participating royalty, overriding royalty, and working interests carry different rights, different risk, and different prices. See which one a specific deed or lease actually describes before any number is discussed.",
+  "basins": "Formation depth, operator pace, spacing, and gathering infrastructure change what a Pennsylvania tract is worth. Read how the Marcellus and Utica records differ before comparing a producing or undeveloped interest.",
+  "resources": "Practical preparation for a Pennsylvania mineral sale: royalty statements, division orders, deeds, appraisal methods, taxes, and the closing steps a direct buyer actually uses.",
+  "investing": "How a Pennsylvania mineral buyer underwrites an interest: reconciled cash flow, decline, development timing, and title risk, tested against several statement months rather than one recent check.",
+  "exchange-1031": "Selling Pennsylvania minerals inside a 1031 exchange puts closing dates, taxpayer identity, and property descriptions on a hard federal calendar. This desk supplies the transaction facts an intermediary and tax counsel need."
+ }
 }
