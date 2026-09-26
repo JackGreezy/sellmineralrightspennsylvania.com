@@ -131,8 +131,10 @@ html body.rr-native [data-rr-taste-faq] .item p{margin:0!important;color:#202020
 /* Related: the donor resource-center cards, text only, on the pale band */
 html body.rr-native [data-rr-taste-related].section-resource_center_homepage{position:relative!important;left:50%!important;box-sizing:border-box!important;width:100vw!important;max-width:none!important;margin:64px 0 0 -50vw!important;padding:72px 0!important;background:#eaf5fa!important}
 html body.rr-native [data-rr-taste-related]>.container{max-width:1240px!important;margin:0 auto!important;padding:0 20px!important}
-html body.rr-native [data-rr-taste-related] .block-title{flex-wrap:wrap!important;gap:16px 24px!important;margin:0 0 12px!important}
-html body.rr-native [data-rr-taste-related] .block-title h2{margin:0!important;color:#202020!important;font:800 clamp(28px,2.6vw,44px)/1.05 Inter,sans-serif!important;letter-spacing:-.035em!important}
+html body.rr-native.rr-taste-slug article.section-single_blog [data-rr-taste-related] .block-title{display:flex!important;flex-wrap:wrap!important;align-items:center!important;justify-content:space-between!important;gap:16px 24px!important;margin:0 0 24px!important;max-width:none!important}
+html body.rr-native [data-rr-taste-related] .block-title h2{flex:1 1 320px!important;min-width:0!important;margin:0!important;color:#202020!important;font:800 clamp(28px,2.6vw,44px)/1.05 Inter,sans-serif!important;letter-spacing:-.035em!important}
+html body.rr-native [data-rr-taste-related] .block-title .block-cta{position:static!important;flex:none!important;margin:0 0 0 auto!important}
+html body.rr-native [data-rr-taste-related] .block-title .block-cta a.button{white-space:nowrap!important}
 html body.rr-native [data-rr-taste-related]>.container>p{max-width:720px!important;margin:0 0 30px!important;color:#202020!important}
 html body.rr-native [data-rr-taste-related] .block-results .row{row-gap:24px!important}
 html body.rr-native [data-rr-taste-related] .block-results .item{border:1px solid #707070!important;border-radius:20px!important;background:#fff!important}

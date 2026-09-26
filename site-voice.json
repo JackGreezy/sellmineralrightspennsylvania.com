@@ -59,7 +59,7 @@
    "the owner"
   ],
   [
-   "\\bI\\b",
+   "\\bI\\b(?!-\\d)",
    "the owner"
   ],
   [
