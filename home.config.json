@@ -54,5 +54,1819 @@
   "brand_apple_icon": "/brand/apple-touch-icon.png",
   "brand_repair_css_append": "a.rr-approved-logo-link{display:flex!important;align-items:center!important;justify-content:flex-start!important;flex-shrink:0!important;width:min(186px,14vw)!important;max-width:100%!important;height:46px!important;overflow:visible!important;text-decoration:none!important;padding:0!important}\nimg.rr-approved-logo,img.rr-brand-logo{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:46px!important;object-fit:contain!important;object-position:left center!important;filter:brightness(0) invert(1)!important}\n@media(max-width:760px){a.rr-approved-logo-link{width:min(168px,46vw)!important;height:40px!important}img.rr-approved-logo{max-height:40px!important}}\n/* rr-logo-call-start */\n.rr-mobile-call{--call-bg:#167568;--call-fg:#ffffff;--call-radius:6px}\n.rr-mobile-call{display:none!important}\n@media(max-width:760px),(hover:none) and (pointer:coarse){\n body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))!important}\n .rr-mobile-call{display:flex!important;position:fixed!important;inset:auto 18px calc(18px + env(safe-area-inset-bottom,0px)) auto!important;width:56px!important;height:56px!important;min-width:56px!important;align-items:center!important;justify-content:center!important;background:var(--call-bg)!important;color:var(--call-fg)!important;border:2px solid var(--call-fg)!important;border-radius:var(--call-radius,6px)!important;box-shadow:0 3px 12px #0004!important;z-index:900!important;text-decoration:none!important;transform:none!important;opacity:1!important;visibility:visible!important}\n .rr-mobile-call:focus-visible{outline:3px solid var(--call-fg)!important;outline-offset:3px!important}\n .rr-mobile-call-icon{display:block!important;width:24px!important;height:24px!important;background:currentColor!important;mask:url('/brand/phone.svg') center/contain no-repeat;-webkit-mask:url('/brand/phone.svg') center/contain no-repeat}\n body:has(input:focus,textarea:focus) .rr-mobile-call{display:none!important}\n}\n/* rr-logo-call-end */\n",
   "brand_runtime_script": "/brand/visibility.js?v=5d6424499781",
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/greene-county": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/susquehanna-county": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/butler-county": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/westmoreland-county": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/fayette-county": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/tioga-county": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/wellsboro-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/republic-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/coal-center-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/westland-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/south-greensburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/bobtown-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/nixon-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/grindstone-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/south-uniontown-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/mammoth-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/allison-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/dushore-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/thompsonville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/lynnwood-pricedale-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/ronco-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/lawson-heights-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/monessen-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/lake-arthur-estates-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/centerville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/liberty-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/southwest-greensburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/morrisville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/roscoe-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/montrose-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/mcgovern-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/slippery-rock-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/cecil-bishop-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/petrolia-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/hendersonville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/homeacre-lyndora-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/st-vincent-college-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/little-meadows-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/lawrence-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/edenborn-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/wylandville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/derry-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/green-hills-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/west-liberty-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/millsboro-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/brownsville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/east-vandergrift-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/leraysville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/greensboro-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/van-voorhis-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/smock-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/sayre-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/tunkhannock-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/oliver-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/laporte-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/canton-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/youngstown-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/fairhope-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/donora-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/baidland-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/west-falls-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/rome-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/muse-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/shanor-northvue-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/calumet-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/west-brownsville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/nemacolin-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/millwood-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/east-butler-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/dawson-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/midway-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/new-eagle-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/lawrenceville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/cross-creek-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/faxon-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/fairdale-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/east-uniontown-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/manor-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/naomi-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/meadowood-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/wickerham-manor-fisher-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/joffre-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/leith-hatfield-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/rices-landing-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/salladasburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/valencia-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/lemont-furnace-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/sullivan-county": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/newell-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/lower-burrell-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/webster-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/oklahoma-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/seven-springs-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/paris-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/slippery-rock-university-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/rowes-run-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/blossburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/vanderbilt-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/south-connellsville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/waynesburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/langeloth-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/athens-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/new-albany-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/bradenville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/monongahela-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/carmichaels-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/hostetter-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/oak-hills-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/eagles-mere-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/markleysburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/mapletown-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/everson-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/greens-landing-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/jeannette-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/jefferson-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/millerton-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/fredericktown-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/southview-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/hiller-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/clarksville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/yukon-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/sylvania-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/speers-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/allenport-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/dry-tavern-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/wyano-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/delmont-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/aaronsburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/beallsville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/new-alexandria-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/west-waynesburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/unionville-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/williamsport-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/new-salem-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/twilight-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/deemston-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/masontown-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/troy-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/mcdonald-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/fairview-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/atlasburg-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/mather-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/bulger-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/avella-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/level-green-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/hickory-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/kenmar-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/oakland-pa": {
+      "src": "/ours/locations/regional-adamsburg-pa.jpg",
+      "alt": "Regional view: Adamsburg, Pennsylvania",
+      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Pennsylvania",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+    },
+    "/locations/washington-county": {
+      "src": "/ours/locations/sell-mineral-rights-washington-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Washington County, PA"
+    },
+    "/locations/bradford-county": {
+      "src": "/ours/locations/sell-mineral-rights-bradford-county-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bradford County, PA"
+    },
+    "/locations/lycoming-county": {
+      "src": "/ours/locations/sell-mineral-rights-lycoming-county-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lycoming County, PA"
+    },
+    "/locations/canonsburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-canonsburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Canonsburg, PA"
+    },
+    "/locations/washington-pa": {
+      "src": "/ours/locations/sell-mineral-rights-washington-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Washington, PA"
+    },
+    "/locations/greensburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-greensburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Greensburg, PA"
+    },
+    "/locations/mcmurray-pa": {
+      "src": "/ours/locations/sell-mineral-rights-mcmurray-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in McMurray, PA"
+    },
+    "/locations/butler-pa": {
+      "src": "/ours/locations/sell-mineral-rights-butler-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Butler, PA"
+    },
+    "/locations/uniontown-pa": {
+      "src": "/ours/locations/sell-mineral-rights-uniontown-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Uniontown, PA"
+    },
+    "/locations/zelienople-pa": {
+      "src": "/ours/locations/sell-mineral-rights-zelienople-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Zelienople, PA"
+    },
+    "/locations/north-belle-vernon-pa": {
+      "src": "/ours/locations/sell-mineral-rights-north-belle-vernon-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in North Belle Vernon, PA"
+    },
+    "/locations/susquehanna-depot-pa": {
+      "src": "/ours/locations/sell-mineral-rights-susquehanna-depot-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Susquehanna Depot, PA"
+    },
+    "/locations/connellsville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-connellsville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Connellsville, PA"
+    },
+    "/locations/grapeville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-grapeville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Grapeville, PA"
+    },
+    "/locations/south-waverly-pa": {
+      "src": "/ours/locations/sell-mineral-rights-south-waverly-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in South Waverly, PA"
+    },
+    "/locations/arnold-city-pa": {
+      "src": "/ours/locations/sell-mineral-rights-arnold-city-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arnold City, PA"
+    },
+    "/locations/forest-city-pa": {
+      "src": "/ours/locations/sell-mineral-rights-forest-city-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Forest City, PA"
+    },
+    "/locations/hopwood-pa": {
+      "src": "/ours/locations/sell-mineral-rights-hopwood-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hopwood, PA"
+    },
+    "/locations/connoquenessing-pa": {
+      "src": "/ours/locations/sell-mineral-rights-connoquenessing-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Connoquenessing, PA"
+    },
+    "/locations/mansfield-pa": {
+      "src": "/ours/locations/sell-mineral-rights-mansfield-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mansfield, PA"
+    },
+    "/locations/arnot-pa": {
+      "src": "/ours/locations/sell-mineral-rights-arnot-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arnot, PA"
+    },
+    "/locations/roseville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-roseville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Roseville, PA"
+    },
+    "/locations/north-charleroi-pa": {
+      "src": "/ours/locations/sell-mineral-rights-north-charleroi-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in North Charleroi, PA"
+    },
+    "/locations/burgettstown-pa": {
+      "src": "/ours/locations/sell-mineral-rights-burgettstown-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Burgettstown, PA"
+    },
+    "/locations/garden-view-pa": {
+      "src": "/ours/locations/sell-mineral-rights-garden-view-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Garden View, PA"
+    },
+    "/locations/cokeburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-cokeburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cokeburg, PA"
+    },
+    "/locations/new-milford-pa": {
+      "src": "/ours/locations/sell-mineral-rights-new-milford-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Milford, PA"
+    },
+    "/locations/north-irwin-pa": {
+      "src": "/ours/locations/sell-mineral-rights-north-irwin-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in North Irwin, PA"
+    },
+    "/locations/duboistown-pa": {
+      "src": "/ours/locations/sell-mineral-rights-duboistown-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Duboistown, PA"
+    },
+    "/locations/scottdale-pa": {
+      "src": "/ours/locations/sell-mineral-rights-scottdale-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Scottdale, PA"
+    },
+    "/locations/stockdale-pa": {
+      "src": "/ours/locations/sell-mineral-rights-stockdale-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stockdale, PA"
+    },
+    "/locations/eau-claire-pa": {
+      "src": "/ours/locations/sell-mineral-rights-eau-claire-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Eau Claire, PA"
+    },
+    "/locations/herminie-pa": {
+      "src": "/ours/locations/sell-mineral-rights-herminie-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Herminie, PA"
+    },
+    "/locations/houston-pa": {
+      "src": "/ours/locations/sell-mineral-rights-houston-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Houston, PA"
+    },
+    "/locations/seven-fields-pa": {
+      "src": "/ours/locations/sell-mineral-rights-seven-fields-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Seven Fields, PA"
+    },
+    "/locations/fellsburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-fellsburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fellsburg, PA"
+    },
+    "/locations/wyalusing-pa": {
+      "src": "/ours/locations/sell-mineral-rights-wyalusing-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wyalusing, PA"
+    },
+    "/locations/new-freeport-pa": {
+      "src": "/ours/locations/sell-mineral-rights-new-freeport-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Freeport, PA"
+    },
+    "/locations/fairchance-pa": {
+      "src": "/ours/locations/sell-mineral-rights-fairchance-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fairchance, PA"
+    },
+    "/locations/perryopolis-pa": {
+      "src": "/ours/locations/sell-mineral-rights-perryopolis-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Perryopolis, PA"
+    },
+    "/locations/friendsville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-friendsville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Friendsville, PA"
+    },
+    "/locations/south-williamsport-pa": {
+      "src": "/ours/locations/sell-mineral-rights-south-williamsport-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in South Williamsport, PA"
+    },
+    "/locations/finleyville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-finleyville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Finleyville, PA"
+    },
+    "/locations/hughesville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-hughesville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hughesville, PA"
+    },
+    "/locations/towanda-pa": {
+      "src": "/ours/locations/sell-mineral-rights-towanda-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Towanda, PA"
+    },
+    "/locations/nicholson-pa": {
+      "src": "/ours/locations/sell-mineral-rights-nicholson-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Nicholson, PA"
+    },
+    "/locations/irwin-pa": {
+      "src": "/ours/locations/sell-mineral-rights-irwin-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Irwin, PA"
+    },
+    "/locations/knoxville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-knoxville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Knoxville, PA"
+    },
+    "/locations/laurel-mountain-pa": {
+      "src": "/ours/locations/sell-mineral-rights-laurel-mountain-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Laurel Mountain, PA"
+    },
+    "/locations/long-branch-pa": {
+      "src": "/ours/locations/sell-mineral-rights-long-branch-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Long Branch, PA"
+    },
+    "/locations/forksville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-forksville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Forksville, PA"
+    },
+    "/locations/harrisville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-harrisville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Harrisville, PA"
+    },
+    "/locations/west-leechburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-west-leechburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in West Leechburg, PA"
+    },
+    "/locations/smithfield-pa": {
+      "src": "/ours/locations/sell-mineral-rights-smithfield-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Smithfield, PA"
+    },
+    "/locations/adamsburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-adamsburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Adamsburg, PA"
+    },
+    "/locations/lanesboro-pa": {
+      "src": "/ours/locations/sell-mineral-rights-lanesboro-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lanesboro, PA"
+    },
+    "/locations/mount-morris-pa": {
+      "src": "/ours/locations/sell-mineral-rights-mount-morris-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mount Morris, PA"
+    },
+    "/locations/trafford-pa": {
+      "src": "/ours/locations/sell-mineral-rights-trafford-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Trafford, PA"
+    },
+    "/locations/marianna-pa": {
+      "src": "/ours/locations/sell-mineral-rights-marianna-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Marianna, PA"
+    },
+    "/locations/ohiopyle-pa": {
+      "src": "/ours/locations/sell-mineral-rights-ohiopyle-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ohiopyle, PA"
+    },
+    "/locations/hop-bottom-pa": {
+      "src": "/ours/locations/sell-mineral-rights-hop-bottom-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hop Bottom, PA"
+    },
+    "/locations/deer-lake-pa": {
+      "src": "/ours/locations/sell-mineral-rights-deer-lake-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Deer Lake, PA"
+    },
+    "/locations/latrobe-pa": {
+      "src": "/ours/locations/sell-mineral-rights-latrobe-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Latrobe, PA"
+    },
+    "/locations/arona-pa": {
+      "src": "/ours/locations/sell-mineral-rights-arona-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arona, PA"
+    },
+    "/locations/factoryville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-factoryville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Factoryville, PA"
+    },
+    "/locations/loyalhanna-pa": {
+      "src": "/ours/locations/sell-mineral-rights-loyalhanna-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Loyalhanna, PA"
+    },
+    "/locations/west-newton-pa": {
+      "src": "/ours/locations/sell-mineral-rights-west-newton-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in West Newton, PA"
+    },
+    "/locations/claysville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-claysville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Claysville, PA"
+    },
+    "/locations/wolfdale-pa": {
+      "src": "/ours/locations/sell-mineral-rights-wolfdale-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wolfdale, PA"
+    },
+    "/locations/brave-pa": {
+      "src": "/ours/locations/sell-mineral-rights-brave-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Brave, PA"
+    },
+    "/locations/point-marion-pa": {
+      "src": "/ours/locations/sell-mineral-rights-point-marion-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Point Marion, PA"
+    },
+    "/locations/meridian-pa": {
+      "src": "/ours/locations/sell-mineral-rights-meridian-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Meridian, PA"
+    },
+    "/locations/bruin-pa": {
+      "src": "/ours/locations/sell-mineral-rights-bruin-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bruin, PA"
+    },
+    "/locations/great-bend-pa": {
+      "src": "/ours/locations/sell-mineral-rights-great-bend-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Great Bend, PA"
+    },
+    "/locations/avonmore-pa": {
+      "src": "/ours/locations/sell-mineral-rights-avonmore-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Avonmore, PA"
+    },
+    "/locations/madison-pa": {
+      "src": "/ours/locations/sell-mineral-rights-madison-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Madison, PA"
+    },
+    "/locations/monroe-pa": {
+      "src": "/ours/locations/sell-mineral-rights-monroe-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Monroe, PA"
+    },
+    "/locations/portersville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-portersville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Portersville, PA"
+    },
+    "/locations/star-junction-pa": {
+      "src": "/ours/locations/sell-mineral-rights-star-junction-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Star Junction, PA"
+    },
+    "/locations/taylorstown-pa": {
+      "src": "/ours/locations/sell-mineral-rights-taylorstown-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Taylorstown, PA"
+    },
+    "/locations/mars-pa": {
+      "src": "/ours/locations/sell-mineral-rights-mars-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mars, PA"
+    },
+    "/locations/ligonier-pa": {
+      "src": "/ours/locations/sell-mineral-rights-ligonier-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ligonier, PA"
+    },
+    "/locations/burlington-pa": {
+      "src": "/ours/locations/sell-mineral-rights-burlington-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Burlington, PA"
+    },
+    "/locations/saxonburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-saxonburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Saxonburg, PA"
+    },
+    "/locations/harrison-city-pa": {
+      "src": "/ours/locations/sell-mineral-rights-harrison-city-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Harrison City, PA"
+    },
+    "/locations/lake-winola-pa": {
+      "src": "/ours/locations/sell-mineral-rights-lake-winola-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lake Winola, PA"
+    },
+    "/locations/eighty-four-pa": {
+      "src": "/ours/locations/sell-mineral-rights-eighty-four-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Eighty Four, PA"
+    },
+    "/locations/ellsworth-pa": {
+      "src": "/ours/locations/sell-mineral-rights-ellsworth-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ellsworth, PA"
+    },
+    "/locations/cherry-valley-pa": {
+      "src": "/ours/locations/sell-mineral-rights-cherry-valley-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cherry Valley, PA"
+    },
+    "/locations/arnold-pa": {
+      "src": "/ours/locations/sell-mineral-rights-arnold-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arnold, PA"
+    },
+    "/locations/collinsburg-pa": {
+      "src": "/ours/locations/sell-mineral-rights-collinsburg-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Collinsburg, PA"
+    },
+    "/locations/elrama-pa": {
+      "src": "/ours/locations/sell-mineral-rights-elrama-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Elrama, PA"
+    },
+    "/locations/crabtree-pa": {
+      "src": "/ours/locations/sell-mineral-rights-crabtree-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Crabtree, PA"
+    },
+    "/locations/norvelt-pa": {
+      "src": "/ours/locations/sell-mineral-rights-norvelt-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Norvelt, PA"
+    },
+    "/locations/new-kensington-pa": {
+      "src": "/ours/locations/sell-mineral-rights-new-kensington-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Kensington, PA"
+    },
+    "/locations/prospect-pa": {
+      "src": "/ours/locations/sell-mineral-rights-prospect-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Prospect, PA"
+    },
+    "/locations/chalkhill-pa": {
+      "src": "/ours/locations/sell-mineral-rights-chalkhill-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Chalkhill, PA"
+    },
+    "/locations/california-pa": {
+      "src": "/ours/locations/sell-mineral-rights-california-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in California, PA"
+    },
+    "/locations/evans-city-pa": {
+      "src": "/ours/locations/sell-mineral-rights-evans-city-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Evans City, PA"
+    },
+    "/locations/penn-pa": {
+      "src": "/ours/locations/sell-mineral-rights-penn-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Penn, PA"
+    },
+    "/locations/hunker-pa": {
+      "src": "/ours/locations/sell-mineral-rights-hunker-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hunker, PA"
+    },
+    "/locations/slovan-pa": {
+      "src": "/ours/locations/sell-mineral-rights-slovan-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Slovan, PA"
+    },
+    "/locations/donegal-pa": {
+      "src": "/ours/locations/sell-mineral-rights-donegal-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Donegal, PA"
+    },
+    "/locations/wyoming-county": {
+      "src": "/ours/locations/sell-mineral-rights-wyoming-county-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wyoming County, PA"
+    },
+    "/locations/meshoppen-pa": {
+      "src": "/ours/locations/sell-mineral-rights-meshoppen-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Meshoppen, PA"
+    },
+    "/locations/murrysville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-murrysville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Murrysville, PA"
+    },
+    "/locations/elco-pa": {
+      "src": "/ours/locations/sell-mineral-rights-elco-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Elco, PA"
+    },
+    "/locations/callery-pa": {
+      "src": "/ours/locations/sell-mineral-rights-callery-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Callery, PA"
+    },
+    "/locations/tioga-pa": {
+      "src": "/ours/locations/sell-mineral-rights-tioga-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Tioga, PA"
+    },
+    "/locations/wind-ridge-pa": {
+      "src": "/ours/locations/sell-mineral-rights-wind-ridge-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wind Ridge, PA"
+    },
+    "/locations/west-sunbury-pa": {
+      "src": "/ours/locations/sell-mineral-rights-west-sunbury-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in West Sunbury, PA"
+    },
+    "/locations/belle-vernon-pa": {
+      "src": "/ours/locations/sell-mineral-rights-belle-vernon-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Belle Vernon, PA"
+    },
+    "/locations/dunbar-pa": {
+      "src": "/ours/locations/sell-mineral-rights-dunbar-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dunbar, PA"
+    },
+    "/locations/gastonville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-gastonville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Gastonville, PA"
+    },
+    "/locations/union-dale-pa": {
+      "src": "/ours/locations/sell-mineral-rights-union-dale-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Union Dale, PA"
+    },
+    "/locations/alba-pa": {
+      "src": "/ours/locations/sell-mineral-rights-alba-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alba, PA"
+    },
+    "/locations/oval-pa": {
+      "src": "/ours/locations/sell-mineral-rights-oval-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Oval, PA"
+    },
+    "/locations/youngwood-pa": {
+      "src": "/ours/locations/sell-mineral-rights-youngwood-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Youngwood, PA"
+    },
+    "/locations/picture-rocks-pa": {
+      "src": "/ours/locations/sell-mineral-rights-picture-rocks-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Picture Rocks, PA"
+    },
+    "/locations/farmington-pa": {
+      "src": "/ours/locations/sell-mineral-rights-farmington-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Farmington, PA"
+    },
+    "/locations/meadowlands-pa": {
+      "src": "/ours/locations/sell-mineral-rights-meadowlands-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Meadowlands, PA"
+    },
+    "/locations/dunlevy-pa": {
+      "src": "/ours/locations/sell-mineral-rights-dunlevy-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dunlevy, PA"
+    },
+    "/locations/crucible-pa": {
+      "src": "/ours/locations/sell-mineral-rights-crucible-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Crucible, PA"
+    },
+    "/locations/rauchtown-pa": {
+      "src": "/ours/locations/sell-mineral-rights-rauchtown-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rauchtown, PA"
+    },
+    "/locations/montgomery-pa": {
+      "src": "/ours/locations/sell-mineral-rights-montgomery-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Montgomery, PA"
+    },
+    "/locations/noxen-pa": {
+      "src": "/ours/locations/sell-mineral-rights-noxen-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Noxen, PA"
+    },
+    "/locations/new-stanton-pa": {
+      "src": "/ours/locations/sell-mineral-rights-new-stanton-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Stanton, PA"
+    },
+    "/locations/rogersville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-rogersville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rogersville, PA"
+    },
+    "/locations/new-florence-pa": {
+      "src": "/ours/locations/sell-mineral-rights-new-florence-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Florence, PA"
+    },
+    "/locations/chicora-pa": {
+      "src": "/ours/locations/sell-mineral-rights-chicora-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Chicora, PA"
+    },
+    "/locations/seward-pa": {
+      "src": "/ours/locations/sell-mineral-rights-seward-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Seward, PA"
+    },
+    "/locations/sutersville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-sutersville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sutersville, PA"
+    },
+    "/locations/smithton-pa": {
+      "src": "/ours/locations/sell-mineral-rights-smithton-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Smithton, PA"
+    },
+    "/locations/mount-pleasant-pa": {
+      "src": "/ours/locations/sell-mineral-rights-mount-pleasant-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mount Pleasant, PA"
+    },
+    "/locations/karns-city-pa": {
+      "src": "/ours/locations/sell-mineral-rights-karns-city-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Karns City, PA"
+    },
+    "/locations/bolivar-pa": {
+      "src": "/ours/locations/sell-mineral-rights-bolivar-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bolivar, PA"
+    },
+    "/locations/hallstead-pa": {
+      "src": "/ours/locations/sell-mineral-rights-hallstead-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hallstead, PA"
+    },
+    "/locations/harmony-pa": {
+      "src": "/ours/locations/sell-mineral-rights-harmony-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Harmony, PA"
+    },
+    "/locations/charleroi-pa": {
+      "src": "/ours/locations/sell-mineral-rights-charleroi-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Charleroi, PA"
+    },
+    "/locations/muncy-pa": {
+      "src": "/ours/locations/sell-mineral-rights-muncy-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Muncy, PA"
+    },
+    "/locations/westfield-pa": {
+      "src": "/ours/locations/sell-mineral-rights-westfield-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Westfield, PA"
+    },
+    "/locations/export-pa": {
+      "src": "/ours/locations/sell-mineral-rights-export-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Export, PA"
+    },
+    "/locations/west-alexander-pa": {
+      "src": "/ours/locations/sell-mineral-rights-west-alexander-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in West Alexander, PA"
+    },
+    "/locations/hyde-park-pa": {
+      "src": "/ours/locations/sell-mineral-rights-hyde-park-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hyde Park, PA"
+    },
+    "/locations/vandergrift-pa": {
+      "src": "/ours/locations/sell-mineral-rights-vandergrift-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Vandergrift, PA"
+    },
+    "/locations/east-washington-pa": {
+      "src": "/ours/locations/sell-mineral-rights-east-washington-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in East Washington, PA"
+    },
+    "/locations/thompson-pa": {
+      "src": "/ours/locations/sell-mineral-rights-thompson-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Thompson, PA"
+    },
+    "/locations/bear-rocks-pa": {
+      "src": "/ours/locations/sell-mineral-rights-bear-rocks-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bear Rocks, PA"
+    },
+    "/locations/west-middletown-pa": {
+      "src": "/ours/locations/sell-mineral-rights-west-middletown-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in West Middletown, PA"
+    },
+    "/locations/buffington-pa": {
+      "src": "/ours/locations/sell-mineral-rights-buffington-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Buffington, PA"
+    },
+    "/locations/montoursville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-montoursville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Montoursville, PA"
+    },
+    "/locations/laceyville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-laceyville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Laceyville, PA"
+    },
+    "/locations/bentleyville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-bentleyville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bentleyville, PA"
+    },
+    "/locations/slickville-pa": {
+      "src": "/ours/locations/sell-mineral-rights-slickville-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Slickville, PA"
+    },
+    "/locations/jersey-shore-pa": {
+      "src": "/ours/locations/sell-mineral-rights-jersey-shore-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Jersey Shore, PA"
+    },
+    "/locations/fayette-city-pa": {
+      "src": "/ours/locations/sell-mineral-rights-fayette-city-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fayette City, PA"
+    },
+    "/locations/elkland-pa": {
+      "src": "/ours/locations/sell-mineral-rights-elkland-pa.jpg",
+      "alt": "Local view for Sell Mineral Rights in Elkland, PA"
+    }
+  }
 }
