@@ -57,1188 +57,1484 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/greene-county": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/susquehanna-county": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/butler-county": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/westmoreland-county": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/fayette-county": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/tioga-county": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/wellsboro-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/republic-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/coal-center-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/westland-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/south-greensburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/bobtown-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/nixon-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/grindstone-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/south-uniontown-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/mammoth-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/allison-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/dushore-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/thompsonville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/lynnwood-pricedale-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/ronco-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/lawson-heights-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/monessen-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/lake-arthur-estates-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/centerville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/liberty-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/southwest-greensburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/morrisville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/roscoe-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/montrose-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/mcgovern-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/slippery-rock-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/cecil-bishop-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/petrolia-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/hendersonville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/homeacre-lyndora-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/st-vincent-college-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/little-meadows-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/lawrence-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/edenborn-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/wylandville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/derry-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/green-hills-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/west-liberty-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/millsboro-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/brownsville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/east-vandergrift-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/leraysville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/greensboro-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/van-voorhis-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/smock-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/sayre-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/tunkhannock-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/oliver-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/laporte-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/canton-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/youngstown-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/fairhope-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/donora-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/baidland-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/west-falls-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/rome-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/muse-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/shanor-northvue-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/calumet-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/west-brownsville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/nemacolin-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/millwood-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/east-butler-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/dawson-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/midway-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/new-eagle-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/lawrenceville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/cross-creek-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/faxon-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/fairdale-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/east-uniontown-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/manor-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/naomi-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/meadowood-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/wickerham-manor-fisher-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/joffre-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/leith-hatfield-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/rices-landing-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/salladasburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/valencia-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/lemont-furnace-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/sullivan-county": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/newell-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/lower-burrell-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/webster-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/oklahoma-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/seven-springs-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/paris-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/slippery-rock-university-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/rowes-run-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/blossburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/vanderbilt-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/south-connellsville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/waynesburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/langeloth-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/athens-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/new-albany-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/bradenville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/monongahela-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/carmichaels-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/hostetter-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/oak-hills-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/eagles-mere-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/markleysburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/mapletown-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/everson-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/greens-landing-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/jeannette-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/jefferson-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/millerton-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/fredericktown-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/southview-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/hiller-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/clarksville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/yukon-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/sylvania-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/speers-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/allenport-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/dry-tavern-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/wyano-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/delmont-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/aaronsburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/beallsville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/new-alexandria-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/west-waynesburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/unionville-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/williamsport-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/new-salem-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/twilight-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/deemston-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/masontown-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/troy-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/mcdonald-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/fairview-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/atlasburg-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/mather-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/bulger-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/avella-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/level-green-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/hickory-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/kenmar-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/oakland-pa": {
-      "src": "/ours/locations/regional-adamsburg-pa.jpg",
-      "alt": "Regional view: Adamsburg, Pennsylvania",
-      "credit": "Adamsburg, Pennsylvania. Regional Pennsylvania photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg\" rel=\"noopener\">Canadian2006 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-arnold-city-pa.jpg",
+      "alt": "View of Arnold City, Pennsylvania",
       "regional": true,
       "region": "Pennsylvania",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAdamsburg_Pennsylvania_Main_Street_2010.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Washington_Township_east_of_Belle_Vernon.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Pennsylvania view: Arnold City, Pennsylvania."
     },
     "/locations/washington-county": {
       "src": "/ours/locations/sell-mineral-rights-washington-county-oh.jpg",
